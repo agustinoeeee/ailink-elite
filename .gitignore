@@ -1,0 +1,20 @@
+# Basura de macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Material de terceros: la transcripción del curso fuente NO se publica.
+# Todo lo que se extrajo de ella vive en 00-MAPA-CURSO.md y en los
+# notas-fuente.md de cada módulo, que sí están en el repo.
+fuente/*
+!fuente/README.md
+
+# Empaquetados y temporales
+*.zip
+*.tmp
+
+# Intermedio regenerable: los PDF salidos de Claude Design antes de repartirse.
+# Se recrea con herramientas/convertir.py; lo que cuenta ya está repartido en
+# adjuntos-skool/ y pizarras-grabacion/.
+pdf-convertidos/

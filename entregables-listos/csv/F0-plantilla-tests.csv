@@ -1,0 +1,14 @@
+Test,Versión,Hipótesis,Variable que cambio,Constantes,Métrica primaria,Métrica secundaria,KPI objetivo,Tamaño de muestra,Duración,Resultado,Decisión
+Email frío dentales,V1,Un asunto con el nombre de la clínica logrará ≥3% de respuesta positiva,Asunto del email,"Lista (misma fuente), cuerpo, firma, dominio, horario de envío, secuencia de 4 seguimientos",Tasa de apertura,Respuesta positiva,Apertura ≥40% · Respuesta ≥3%,300 emails,3 días de envío + 14 de seguimientos,"Apertura 44% · Respuesta 1,8%",Iterar → V2
+Email frío dentales,V2,Una primera línea con un dato del negocio del lead subirá la respuesta a ≥3%,Primera línea del cuerpo,"Todo igual que V1, incluido el asunto de V1 (que ya cumplió su KPI de apertura: 44% ≥ 40%)",Tasa de apertura,Respuesta positiva,Apertura ≥40% · Respuesta ≥3%,300 emails,3 días + 14 días,"Apertura 43% · Respuesta 1,1%",Volver a V anterior (V1)
+Email frío dentales,V2 bis (desde V1),Una CTA de «vídeo demo de 3 min» en vez de «llamada de 30 min» subirá la respuesta a ≥3%,CTA final,Todo igual que V1,Tasa de apertura,Respuesta positiva,Apertura ≥40% · Respuesta ≥3%,300 emails,3 días + 14 días,"Apertura 45% · Respuesta 3,4%",Escalar
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

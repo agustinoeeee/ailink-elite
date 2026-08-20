@@ -1,0 +1,114 @@
+# Checklist | Setup de tu negocio
+
+> **Recurso de L8 — F0 Bienvenido.** 5 piezas + 1 trámite = 6 pasos. Sigue los pasos EN ORDEN: cada uno depende del anterior. Objetivo: las piezas en una tarde de trabajo + el trámite de la semana. KPI del módulo: **operativo en ≤7 días**.
+>
+> Imprime esta página o cópiala a tu gestor de notas. No pases al siguiente paso sin marcar el anterior.
+
+## Resumen de tiempos
+
+| Paso | Tarea | Tiempo estimado |
+|---|---|---|
+| 1 | Nombre del negocio | 10 min |
+| 2 | Dominio | 15 min |
+| 3 | Google Workspace (email profesional) | 30 min |
+| 4 | Stripe + enlace de pago + guardar tarjeta | 45 min |
+| 5 | Nota fiscal España (gestor) | trámite de la semana |
+| 6 | Calendario de reservas | 20 min |
+| — | **Total de trabajo activo** | **~2 horas** |
+
+---
+
+## Paso 1 — Nombre (10 min, cronómetro puesto)
+
+Regla: el nombre se puede cambiar. Nadie te contrata por el nombre. 10 minutos y sales.
+
+- [ ] Pide a Claude 20 opciones de nombre (indica: agencia de soluciones de IA, España, tono profesional)
+- [ ] Filtra con los 3 criterios: corto · pronunciable por teléfono · dominio .com o .es libre
+- [ ] Descarta nombres híper-nicho (el nicho se elige en F1; hoy, neutro y profesional)
+- [ ] Elige uno y escríbelo aquí:
+
+**Nombre de mi negocio:** ______________________________
+
+## Paso 2 — Dominio (15 min)
+
+- [ ] Comprueba disponibilidad en un registrador (DonDominio, Namecheap, GoDaddy)
+- [ ] Compra el dominio (10-15€/año aprox.) — solo 1 año, solo 1 dominio
+- [ ] NO compres extras (protección premium, dominios "por si acaso", packs de email del registrador)
+
+**Mi dominio:** ______________________________
+
+## Paso 3 — Email profesional con Google Workspace (30 min)
+
+Regla dura del programa: **nunca vender desde un @gmail.com**.
+
+- [ ] Alta en Google Workspace con tu dominio del Paso 2
+- [ ] Crea tu email: tunombre@tudominio.com
+- [ ] Verifica el dominio siguiendo el asistente de Google
+- [ ] Envíate un email de prueba desde otra cuenta y responde (comprueba que envía y recibe)
+- [ ] Comprueba que tienes Google Calendar y Google Meet activos con esa cuenta (los usarás en las reuniones de venta)
+
+**Mi email profesional:** ______________________________
+
+## Paso 4 — Stripe: cobros + enlace de pago + tarjeta guardada (45 min)
+
+Necesitas: DNI/NIE + cuenta bancaria con IBAN.
+
+- [ ] Crea tu cuenta en Stripe España y completa los datos de activación
+- [ ] Conecta tu cuenta bancaria (IBAN)
+- [ ] Crea tu primer **enlace de pago (Payment Link de Stripe)** de prueba (importe simbólico)
+- [ ] **CRÍTICO — al crear el enlace, activa "guardar los datos de pago para uso futuro"** (opción de guardar tarjeta). Sin esto no hay retainer cómodo de cobrar: es la base de tu MRR
+- [ ] Haz un pago de test con el link y verifica que llega al panel de Stripe
+- [ ] Guarda el enlace del panel de Stripe en favoritos
+
+Verificación: ¿podrías enviar un enlace de pago por chat en mitad de una llamada, ahora mismo? Si la respuesta es no, este paso no está terminado.
+
+## Paso 5 — Nota fiscal España (trámite de la semana)
+
+⚠️ **Esto es orientación general, NO asesoría fiscal. Confírmalo TODO con tu gestor.**
+
+- [ ] Busca y contrata un gestor/asesoría (online vale; pregunta en la comunidad del programa)
+- [ ] Consulta con tu gestor: alta de autónomo (cuándo te conviene darte de alta según tu situación)
+- [ ] Consulta con tu gestor: IVA e IRPF en tus facturas a empresas, y obligaciones trimestrales
+- [ ] Decide con tu gestor el momento del alta — idealmente antes de tu primer cobro real
+- [ ] SL: NO por ahora. Cuando los números lo justifiquen, tu gestor te avisará
+
+**Mi gestor/asesoría:** ______________________________
+
+## Paso 6 — Calendario de reservas (20 min)
+
+Herramienta: Cal.com (gratis) o Calendly.
+
+- [ ] Crea tu cuenta y conéctala al Google Calendar del Paso 3
+- [ ] Configura tu **disponibilidad REAL** (las horas en las que de verdad puedes coger una llamada, no las que te gustaría)
+- [ ] Ajusta **intervalos de 15 min** entre huecos y duración de reunión de 30-45 min
+- [ ] Pon antelación mínima de reserva (recomendado: mínimo 4 h)
+- [ ] Añade tu calendario personal como calendario de conflictos
+- [ ] Haz una **reserva de prueba** completa y comprueba que llega la confirmación y el evento con enlace de Meet
+
+**Mi enlace de reservas:** ______________________________
+
+---
+
+## Lista NO — prohibido montar todavía
+
+Aquí es donde se esconde la procrastinación. Nada de esto te acerca a tu primer cliente:
+
+- ❌ Logo profesional (uno básico en Canva o con Claude en 5 min es suficiente)
+- ❌ Web de agencia (tu activo de venta es la demo que construirás en F2)
+- ❌ Constituir una SL (pagar por un problema que aún no tienes)
+- ❌ Oficina, tarjetas de visita, CRM de pago
+- ❌ Stack técnico completo (llega en F2 — hoy montas el negocio, no el taller)
+
+---
+
+## Comprobante final (KPI de L8)
+
+Marca solo cuando sea verdad:
+
+- [ ] Enlace de pago de prueba **pagado** y visible en Stripe
+- [ ] Reserva de test **completada** en mi calendario, con evento y Meet generados
+- [ ] Fecha de acceso al programa: ____ / ____ / ______ · Fecha de setup completado: ____ / ____ / ______ → **¿≤7 días?** Sí ☐ No ☐
+
+- [ ] Kick-off call REALIZADA (no solo agendada)
+
+Hecho esto — y con tu kick-off ya realizada — F0 está cerrado. Siguiente parada: F1 — tu nicho y tu oferta.

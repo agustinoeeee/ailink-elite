@@ -1,0 +1,7 @@
+#,Número,Qué es (en una línea),De dónde sale,Este mes,Mes anterior
+1,MRR,Suma de tus retainers activos (€/mes),Fichas de cliente (F6-R1),,
+2,Facturación del mes,Todo lo cobrado: pilotos + proyectos + retainers,Stripe,,
+3,Churn de retainers,% de retainers que se fueron este mes,Fichas de cliente,,
+4,Referral %,% de clientes nuevos llegados por referido,Tracker de captación (F3),,
+5,LTV medio,Lo que un cliente te deja en total en toda la relación,Suma por cliente ÷ nº clientes,,
+6,LTGP:CAC,Beneficio de un cliente en su vida ÷ coste de conseguirlo,Se calcula aparte (fórmula en el README),,

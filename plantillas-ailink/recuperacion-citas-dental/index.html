@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Clínica Dental Ensanche — Recuperación de citas</title>
+<style>
+  :root{
+    --azul:#2b7de9; --azul-suave:#eaf3fe; --tinta:#1c2733; --gris:#5b6b7b;
+    --ok:#1e9e62; --ok-bg:#e6f6ee; --mal:#d64545; --mal-bg:#fdecec;
+    --aviso:#b97a12; --aviso-bg:#fdf3e0; --borde:#e3e9f0; --fondo:#f4f7fa;
+    --wa-fondo:#efe7dc; --wa-verde:#d9fdd3; --wa-cab:#075e54;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--fondo);color:var(--tinta);line-height:1.45}
+  header.top{background:#fff;border-bottom:1px solid var(--borde);padding:14px 20px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+  .logo{width:38px;height:38px;border-radius:10px;background:var(--azul);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:18px}
+  header.top h1{font-size:18px}
+  header.top small{display:block;color:var(--gris);font-weight:400;font-size:12px}
+  .reiniciar{margin-left:auto;background:#fff;border:1.5px solid var(--azul);color:var(--azul);border-radius:9px;padding:8px 14px;font-size:14px;font-weight:600;cursor:pointer}
+  .reiniciar:hover{background:var(--azul-suave)}
+
+  .contadores{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:16px 20px;max-width:1080px;margin:0 auto}
+  .contador{background:#fff;border:1px solid var(--borde);border-radius:14px;padding:14px 18px}
+  .contador .num{font-size:30px;font-weight:800;color:var(--azul)}
+  .contador .num.dinero{color:var(--ok)}
+  .contador .etq{color:var(--gris);font-size:13px;margin-top:2px}
+  .contador .ticket{font-size:12px;color:var(--gris);margin-top:6px}
+  .contador .ticket input{width:64px;border:1px solid var(--borde);border-radius:6px;padding:2px 6px;font-size:12px;text-align:right}
+
+  main{display:grid;grid-template-columns:1.15fr 1fr;gap:16px;max-width:1080px;margin:0 auto;padding:0 20px 30px}
+  .panel,.chatbox{background:#fff;border:1px solid var(--borde);border-radius:16px;overflow:hidden}
+  .panel h2{font-size:15px;padding:14px 16px;border-bottom:1px solid var(--borde);color:var(--gris);font-weight:600}
+  .dia-titulo{font-size:12px;font-weight:700;color:var(--gris);text-transform:uppercase;letter-spacing:.06em;padding:12px 16px 4px}
+  .cita{display:flex;align-items:center;gap:12px;padding:11px 16px;border-bottom:1px solid #f0f4f8}
+  .cita:last-child{border-bottom:none}
+  .hora{font-weight:700;font-size:14px;min-width:52px}
+  .quien{flex:1;min-width:0}
+  .quien b{display:block;font-size:14px}
+  .quien span{font-size:12px;color:var(--gris)}
+  .estado{font-size:11px;font-weight:700;border-radius:20px;padding:4px 10px;white-space:nowrap}
+  .e-confirmada{background:var(--azul-suave);color:var(--azul)}
+  .e-cancelada{background:var(--mal-bg);color:var(--mal)}
+  .e-noshow{background:var(--aviso-bg);color:var(--aviso)}
+  .e-recuperada{background:var(--ok-bg);color:var(--ok)}
+  .accion{border:none;border-radius:8px;padding:6px 10px;font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap}
+  .a-recuperar{background:var(--azul);color:#fff}
+  .a-recuperar:hover{filter:brightness(1.08)}
+  .a-marcar{background:#fff;border:1px solid var(--borde);color:var(--gris)}
+  .a-marcar:hover{border-color:var(--mal);color:var(--mal)}
+
+  .chatbox{display:flex;flex-direction:column;min-height:480px}
+  .wa-cab{background:var(--wa-cab);color:#fff;padding:12px 14px;display:flex;align-items:center;gap:10px}
+  .wa-avatar{width:34px;height:34px;border-radius:50%;background:#fff;color:var(--wa-cab);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:15px}
+  .wa-cab b{font-size:14px;display:block}
+  .wa-cab small{font-size:11px;opacity:.85}
+  .wa-hilo{flex:1;background:var(--wa-fondo);padding:14px;overflow-y:auto;display:flex;flex-direction:column;gap:8px}
+  .burbuja{max-width:82%;padding:8px 12px;border-radius:12px;font-size:13.5px;box-shadow:0 1px 1px rgba(0,0,0,.06);white-space:pre-line}
+  .de-clinica{background:#fff;align-self:flex-start;border-top-left-radius:4px}
+  .de-paciente{background:var(--wa-verde);align-self:flex-end;border-top-right-radius:4px}
+  .escribiendo{align-self:flex-start;background:#fff;border-radius:12px;padding:10px 14px;display:flex;gap:4px}
+  .escribiendo i{width:7px;height:7px;border-radius:50%;background:#9ab;animation:p 1s infinite}
+  .escribiendo i:nth-child(2){animation-delay:.2s}.escribiendo i:nth-child(3){animation-delay:.4s}
+  @keyframes p{0%,60%,100%{opacity:.3}30%{opacity:1}}
+  .wa-vacio{margin:auto;text-align:center;color:var(--gris);font-size:13.5px;padding:24px;max-width:260px}
+  .wa-vacio .flecha{font-size:26px;display:block;margin-bottom:8px}
+  .respuestas{background:#f6f3ee;border-top:1px solid #e5ddd2;padding:10px;display:flex;flex-wrap:wrap;gap:8px;min-height:54px}
+  .respuestas .pista{font-size:11px;color:var(--gris);width:100%}
+  .chip{border:1.5px solid var(--wa-cab);color:var(--wa-cab);background:#fff;border-radius:20px;padding:8px 14px;font-size:13px;font-weight:600;cursor:pointer}
+  .chip:hover{background:#e9f5f1}
+
+  footer{max-width:1080px;margin:0 auto;padding:0 20px 26px;color:var(--gris);font-size:12px;text-align:center}
+  @media (max-width:820px){
+    main{grid-template-columns:1fr}
+    .contadores{grid-template-columns:1fr 1fr}
+    .contador .num{font-size:24px}
+    .chatbox{min-height:430px}
+  }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="logo">E</div>
+  <h1>Clínica Dental Ensanche <small>Recuperación de citas · demo con datos ficticios</small></h1>
+  <button class="reiniciar" onclick="reiniciar()">↺ Reiniciar demo</button>
+</header>
+
+<section class="contadores">
+  <div class="contador">
+    <div class="num" id="c-citas">3</div>
+    <div class="etq">Citas recuperadas este mes</div>
+  </div>
+  <div class="contador">
+    <div class="num dinero" id="c-euros">360 €</div>
+    <div class="etq">Facturación recuperada</div>
+    <div class="ticket">Ticket medio: <input type="number" id="ticket" value="120" min="1" onchange="pintaContadores()"> € <em>(ilustrativo)</em></div>
+  </div>
+</section>
+
+<main>
+  <section class="panel">
+    <h2>Agenda — hoy y mañana</h2>
+    <div id="agenda"></div>
+  </section>
+
+  <section class="chatbox">
+    <div class="wa-cab">
+      <div class="wa-avatar">E</div>
+      <div><b>Clínica Dental Ensanche</b><small id="wa-estado">simulador de conversación</small></div>
+    </div>
+    <div class="wa-hilo" id="hilo">
+      <div class="wa-vacio"><span class="flecha">👈</span>Marca una cita como cancelada o pulsa <b>Recuperar</b> en una cita caída para ver la recuperación en directo.</div>
+    </div>
+    <div class="respuestas" id="respuestas"><span class="pista">Conversación guiada: el paciente responde eligiendo entre opciones.</span></div>
+  </section>
+</main>
+
+<footer>Demo comercial con datos ficticios · construida con Claude Code por <b>[TU AGENCIA]</b> · la versión real se conecta a WhatsApp y a la agenda de la clínica</footer>
+
+<script>
+const DATOS_INICIALES = [
+  {id:1, paciente:"Lucía Ferrer",  trat:"Higiene dental", dia:"Hoy",    hora:"10:00", estado:"confirmada"},
+  {id:2, paciente:"Jorge Lamas",   trat:"Endodoncia",     dia:"Hoy",    hora:"11:30", estado:"noshow"},
+  {id:3, paciente:"Marta Ruiz",    trat:"Revisión",       dia:"Hoy",    hora:"12:15", estado:"cancelada"},
+  {id:4, paciente:"Andrés Molina", trat:"Empaste",        dia:"Hoy",    hora:"16:00", estado:"confirmada"},
+  {id:5, paciente:"Carmen Ortega", trat:"Blanqueamiento", dia:"Mañana", hora:"9:30",  estado:"confirmada"},
+  {id:6, paciente:"Pablo Ibáñez",  trat:"Higiene dental", dia:"Mañana", hora:"11:00", estado:"cancelada"},
+];
+const HUECOS_INICIALES = [
+  {dia:"Hoy", hora:"13:00"}, {dia:"Hoy", hora:"17:30"},
+  {dia:"Mañana", hora:"10:15"}, {dia:"Mañana", hora:"12:30"},
+];
+const BASE_RECUPERADAS = 3;
+
+let citas, huecos, recuperadas, ocupado;
+
+function reiniciar(){
+  citas = DATOS_INICIALES.map(c => ({...c}));
+  huecos = HUECOS_INICIALES.map(h => ({...h}));
+  recuperadas = BASE_RECUPERADAS;
+  ocupado = false;
+  document.getElementById("hilo").innerHTML =
+    '<div class="wa-vacio"><span class="flecha">👈</span>Marca una cita como cancelada o pulsa <b>Recuperar</b> en una cita caída para ver la recuperación en directo.</div>';
+  limpiaRespuestas();
+  pintaAgenda(); pintaContadores();
+}
+
+const ETQ = {confirmada:"Confirmada", cancelada:"Cancelada", noshow:"No-show", recuperada:"Recuperada"};
+
+function pintaAgenda(){
+  const cont = document.getElementById("agenda");
+  cont.innerHTML = "";
+  ["Hoy","Mañana"].forEach(dia => {
+    const t = document.createElement("div");
+    t.className = "dia-titulo"; t.textContent = dia;
+    cont.appendChild(t);
+    citas.filter(c => c.dia === dia)
+         .sort((a,b) => a.hora.padStart(5,"0").localeCompare(b.hora.padStart(5,"0")))
+         .forEach(c => cont.appendChild(filaCita(c)));
+  });
+}
+
+function filaCita(c){
+  const fila = document.createElement("div");
+  fila.className = "cita";
+  const caida = (c.estado === "cancelada" || c.estado === "noshow");
+  fila.innerHTML =
+    `<div class="hora">${c.hora}</div>
+     <div class="quien"><b>${c.paciente}</b><span>${c.trat}</span></div>
+     <span class="estado e-${c.estado}">${ETQ[c.estado]}</span>`;
+  if (caida){
+    const b = document.createElement("button");
+    b.className = "accion a-recuperar"; b.textContent = "Recuperar";
+    b.onclick = () => iniciarRecuperacion(c.id);
+    fila.appendChild(b);
+  } else if (c.estado === "confirmada"){
+    const b = document.createElement("button");
+    b.className = "accion a-marcar"; b.textContent = "Marcar caída";
+    b.onclick = () => { c.estado = "cancelada"; pintaAgenda(); iniciarRecuperacion(c.id); };
+    fila.appendChild(b);
+  }
+  return fila;
+}
+
+function pintaContadores(){
+  const ticket = Math.max(1, parseInt(document.getElementById("ticket").value || "120", 10));
+  document.getElementById("c-citas").textContent = recuperadas;
+  document.getElementById("c-euros").textContent = (recuperadas * ticket).toLocaleString("es-ES") + " €";
+}
+
+/* ---------- Simulador ---------- */
+const hilo = () => document.getElementById("hilo");
+const espera = ms => new Promise(r => setTimeout(r, ms));
+
+function limpiaRespuestas(){
+  document.getElementById("respuestas").innerHTML =
+    '<span class="pista">Conversación guiada: el paciente responde eligiendo entre opciones.</span>';
+}
+
+function burbuja(texto, quien){
+  const b = document.createElement("div");
+  b.className = "burbuja " + (quien === "clinica" ? "de-clinica" : "de-paciente");
+  b.textContent = texto;
+  hilo().appendChild(b);
+  hilo().scrollTop = hilo().scrollHeight;
+}
+
+async function clinicaDice(texto){
+  const e = document.createElement("div");
+  e.className = "escribiendo"; e.innerHTML = "<i></i><i></i><i></i>";
+  hilo().appendChild(e); hilo().scrollTop = hilo().scrollHeight;
+  await espera(900 + Math.min(texto.length * 8, 900));
+  e.remove();
+  burbuja(texto, "clinica");
+}
+
+function opciones(lista){
+  return new Promise(resolver => {
+    const zona = document.getElementById("respuestas");
+    zona.innerHTML = "";
+    lista.forEach(op => {
+      const chip = document.createElement("button");
+      chip.className = "chip"; chip.textContent = op.texto;
+      chip.onclick = () => { limpiaRespuestas(); burbuja(op.texto, "paciente"); resolver(op.valor); };
+      zona.appendChild(chip);
+    });
+  });
+}
+
+async function iniciarRecuperacion(id){
+  if (ocupado) return;
+  const cita = citas.find(c => c.id === id);
+  if (!cita) return;
+  if (huecos.length < 2){
+    hilo().innerHTML = "";
+    await clinicaDice("(No quedan huecos libres suficientes en la demo — pulsa ↺ Reiniciar demo para volver a empezar.)");
+    return;
+  }
+  ocupado = true;
+  hilo().innerHTML = "";
+  document.getElementById("wa-estado").textContent = "en línea";
+
+  const motivo = cita.estado === "noshow"
+    ? `no hemos podido verte en tu cita de ${cita.trat.toLowerCase()}`
+    : `tu cita de ${cita.trat.toLowerCase()} se ha cancelado`;
+  await clinicaDice(`Hola ${cita.paciente.split(" ")[0]} 👋 Soy la asistente de Clínica Dental Ensanche. Hemos visto que ${motivo} (${cita.dia.toLowerCase()} a las ${cita.hora}). ¡Queremos buscarte un nuevo hueco cuanto antes!`);
+  await espera(400);
+
+  const h1 = huecos[0], h2 = huecos[1];
+  await clinicaDice(`Tenemos estos huecos libres:\n1️⃣ ${h1.dia} a las ${h1.hora}\n2️⃣ ${h2.dia} a las ${h2.hora}\n¿Cuál te viene mejor?`);
+
+  const eleccion = await opciones([
+    {texto:`${h1.dia} a las ${h1.hora} me va bien`, valor:h1},
+    {texto:`${h2.dia} a las ${h2.hora} me va bien`, valor:h2},
+    {texto:"Ahora no puedo, gracias", valor:null},
+  ]);
+
+  if (!eleccion){
+    await clinicaDice("Sin problema 😊 Te escribimos la semana que viene con nuevos huecos. ¡Cuídate!");
+    document.getElementById("wa-estado").textContent = "simulador de conversación";
+    ocupado = false;
+    return;
+  }
+
+  await clinicaDice(`¡Perfecto! Tu cita de ${cita.trat.toLowerCase()} queda confirmada para ${eleccion.dia.toLowerCase()} a las ${eleccion.hora} 🦷 Te esperamos en Clínica Dental Ensanche. Si necesitas cambiarla, respóndeme por aquí.`);
+
+  // La cita reaparece en su nuevo hueco como recuperada; el hueco deja de estar libre
+  cita.dia = eleccion.dia; cita.hora = eleccion.hora; cita.estado = "recuperada";
+  huecos = huecos.filter(h => !(h.dia === eleccion.dia && h.hora === eleccion.hora));
+  recuperadas += 1;
+  pintaAgenda(); pintaContadores();
+  document.getElementById("wa-estado").textContent = "simulador de conversación";
+  ocupado = false;
+}
+
+reiniciar();
+</script>
+</body>
+</html>
