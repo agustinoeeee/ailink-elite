@@ -18,3 +18,7 @@ fuente/*
 # Se recrea con herramientas/convertir.py; lo que cuenta ya está repartido en
 # adjuntos-skool/ y pizarras-grabacion/.
 pdf-convertidos/
+
+# Dependencias de node para generar el .docx (se reinstalan con: npm install docx)
+node_modules/
+package-lock.json
