@@ -22,7 +22,7 @@
 
 - Esa emoción ocurre en un sitio muy concreto de la llamada: el hueco entre dónde está su negocio hoy y dónde quiere que esté. Ese hueco es el gap, y abrirlo es el trabajo de la reunión.
 - Con tus preguntas — eso es el discovery, la fase de preguntas de la reunión — defines con precisión su situación actual y su situación deseada. Cuanto más nítidos los dos puntos, más visible el hueco. Y ese hueco, visto de frente, incomoda: es SU distancia, en sus propias palabras.
-- Aquí conectamos con F1-L4: tu oferta ES el puente sobre ese hueco. Sobre el papel, ese trabajo ya está hecho — por eso la oferta hizo el 80% del trabajo. Lo que hace la llamada es que el dueño lo SIENTA: que vea el hueco, que le pese, y que te vea a ti como el camino de un lado al otro.
+- Aquí conectamos con F1-L5: tu oferta ES el puente sobre ese hueco. Sobre el papel, ese trabajo ya está hecho — por eso la oferta hizo el 80% del trabajo. Lo que hace la llamada es que el dueño lo SIENTA: que vea el hueco, que le pese, y que te vea a ti como el camino de un lado al otro.
 
 [PANTALLA: dos puntos separados — "su negocio hoy" y "donde quiere estar" — y el hueco entre ambos; la oferta del alumno dibujándose como puente]
 

@@ -38,7 +38,7 @@
 
 - El manifiesto de F0 caduca hoy. Las anteojeras no se tiran: **se renuevan con tus propios datos.** Ya no necesitas protegerte del ruido con fe — te proteges con tu dashboard: cualquier "oportunidad" nueva compite contra números reales, y casi siempre pierde.
 - El ritual del día 91 está en el recurso: revisar tus 90 días, decidir tu 1×1×1 del siguiente trimestre y firmar la renovación — esta vez, sobre evidencia.
-- Y el programa cambia de forma: deja de ser un curso y pasa a ser tu **manual de operaciones**. El mapa del recurso enruta cada atasco futuro a su lección: no cierras reuniones → F4; no entran leads → F3-L7; entregas lento → F5-L7 y F2; se te van clientes → F6-L2 y L4; no sabes qué hacer → F0-L4, Más/Mejor/Nuevo. No vuelvas a empezar el programa: vuelve al tramo estrecho.
+- Y el programa cambia de forma: deja de ser un curso y pasa a ser tu **manual de operaciones**. El mapa del recurso enruta cada atasco futuro a su lección: no cierras reuniones → F4; no entran leads → F3-L7; entregas lento → F5-L7 y F2; se te van clientes → F6-L2 y L4; no sabes qué hacer → F0-L5, Más/Mejor/Nuevo. No vuelvas a empezar el programa: vuelve al tramo estrecho.
 
 ## Sección 5 — Cierre del programa
 

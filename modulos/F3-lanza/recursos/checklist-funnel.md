@@ -25,7 +25,7 @@
 - [ ] **VSL arriba**, visible sin hacer scroll. (Hasta grabar el VSL en L3, el provisional es tu vídeo de demo de F2-L7 — el hueco nunca se queda vacío.)
 - [ ] **Demo enlazada y FUNCIONANDO.** La checklist pre-demo de F2-L6 sigue en vigor: si cambiaste cualquier cosa de la demo desde la firma, la firma caducó y se pasa de nuevo antes de enlazarla aquí.
 - [ ] **Formulario de 2-4 preguntas** — sector, tamaño del negocio, qué le duele. Ni una pregunta más: la fricción se añade solo cuando el problema sea la calidad de las reuniones, no antes (L2).
-- [ ] **Calendario embebido y conectado** al calendario real de F0-L8 (los huecos que enseña son huecos que de verdad tienes libres).
+- [ ] **Calendario embebido y conectado** al calendario real de F0-L9 (los huecos que enseña son huecos que de verdad tienes libres).
 - [ ] **Ortografía y datos de contacto revisados.** Tu funnel es una demo de lo que vendes: una errata aquí es una errata en tu producto.
 
 ## Legal de la página

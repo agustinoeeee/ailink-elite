@@ -1,4 +1,4 @@
-# L4 | Más / Mejor / Nuevo
+# L5 | Más / Mejor / Nuevo
 
 | Fase | Duración objetivo | Recurso vinculado |
 |---|---|---|
@@ -31,7 +31,7 @@
   - ¿Está funcionando (dentro de KPI)? → MÁS. No toques nada. Escala.
   - ¿No llega al KPI con muestra válida? → MEJOR. Cambia UNA variable y vuelve a medir.
   - ¿Has agotado más y mejor con datos válidos? → solo entonces, NUEVO.
-- Adelanto de la L6: "muestra válida" tiene números concretos en este programa. Sin muestra, no hay decisión.
+- Adelanto de la L7: "muestra válida" tiene números concretos en este programa. Sin muestra, no hay decisión.
 - [PANTALLA: el árbol de decisión del recurso — tres preguntas en cascada]
 
 ## Sección 3 — Tres situaciones que te van a pasar (y qué palanca tocar)

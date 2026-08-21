@@ -47,7 +47,7 @@ Construir soluciones nuevas o ampliaciones grandes (por ejemplo, [ejemplo pegado
 
 **Cómo se cobra**
 
-Cargo automático mensual a la tarjeta que ya tienes guardada desde el proyecto (Stripe). **Primer cargo: día [X]**. Sin facturas que aprobar ni renovaciones que firmar: tú a tu negocio, yo a que esto funcione. Puedes cancelarlo avisando con [30] días.
+Cargo automático mensual a la tarjeta que ya tienes guardada desde el proyecto (Stripe o la pasarela que uses). **Primer cargo: día [X]**. Sin facturas que aprobar ni renovaciones que firmar: tú a tu negocio, yo a que esto funcione. Puedes cancelarlo avisando con [30] días.
 
 **Conforme**
 

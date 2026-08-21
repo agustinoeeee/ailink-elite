@@ -16,7 +16,7 @@
 ## Lo que NO se trasladó (y por qué)
 
 - **Las 2 grabaciones de llamadas reales de Owen** (pintor de Clearwater, roofer de Savannah): no se pueden copiar ni citar. Sustituidas por `[DEMO: llamada modelo]` — **pendiente tuyo: grabar una llamada de práctica completa (mock contigo de cliente) o usar una llamada real tuya anonimizada con permiso**. Es la pieza que más eleva el módulo; los alumnos necesitan VER una llamada entera.
-- El libro "Neuroselling" que Owen manda leer: choca con las anteojeras de F0-L3 (su propio curso tiene esa contradicción — L4 de F0 ya la resuelve con "el libro, el día 91"). No se prescribe lectura en F4.
+- El libro "Neuroselling" que Owen manda leer: choca con las anteojeras de F0-L4 (su propio curso tiene esa contradicción — L4 de F0 ya la resuelve con "el libro, el día 91"). No se prescribe lectura en F4.
 - La formación de equipos de setters/closers → F6 (escala).
 
 ## Benchmarks heredados a validar

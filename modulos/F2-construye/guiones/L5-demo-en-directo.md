@@ -15,7 +15,7 @@
 ## Sección 1 — Las reglas de esta demo
 
 - Marcar la lección: "Esta es LA demo del módulo. Aquí converge todo F2: el stack de L2, la dirección de L3 y la solución que elegiste en L4. Si aún no la has elegido, para el vídeo y hazlo — esta lección se trabaja, no se mira."
-- El proyecto: la misma oferta que construimos en directo en F1-L7 — recuperación de citas para clínicas dentales, del catálogo "Recuperación de no-shows y citas". "En F1 escribimos la promesa. Hoy construimos la prueba."
+- El proyecto: la misma oferta que construimos en directo en F1-L8 — recuperación de citas para clínicas dentales, del catálogo "Recuperación de no-shows y citas". "En F1 escribimos la promesa. Hoy construimos la prueba."
 - Anunciar qué vamos a levantar, para que lo reconozcas al verlo nacer: un panel simple con las citas de la clínica, un simulador visual del flujo de mensajes que recupera una cita caída, y datos de ejemplo del nicho. Recuerda la distinción de L4: esto es DEMO, no piloto — el flujo de WhatsApp se simula dentro de la web; las integraciones reales llegan en F5, con un cliente pagando.
 - Cómo trabajar el vídeo: yo construyo con mi nicho; tú pausas en cada paso y replicas con el tuyo.
 

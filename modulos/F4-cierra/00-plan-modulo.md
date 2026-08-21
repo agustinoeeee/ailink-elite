@@ -2,7 +2,7 @@
 
 > Semanas 6-9 del alumno (SOLAPADO con F3 por diseño: mientras la máquina agenda, él cierra). Objetivo del módulo: **primer cliente firmado y cobrado — el piloto se cobra EN la llamada**. Hito maestro: primer cliente (S6-9, rango honesto del roadmap).
 >
-> Leer `../../01-BIBLIA.md`. El alumno llega con: oferta V1 + precios (F1), demo + guion de 3 min + vídeo (F2), reuniones entrando (F3), Stripe con enlace de pago y tarjeta guardable (F0-L8). Este módulo convierte reuniones en clientes.
+> Leer `../../01-BIBLIA.md`. El alumno llega con: oferta V1 + precios (F1), demo + guion de 3 min + vídeo (F2), reuniones entrando (F3), Stripe con enlace de pago y tarjeta guardable (F0-L9). Este módulo convierte reuniones en clientes.
 
 ## Fuentes por chunk
 
@@ -16,7 +16,7 @@
 ## Adaptaciones estructurales clave
 
 1. **El pitch incluye LA DEMO en vivo**: el momento central del pitch es compartir pantalla y ejecutar el guion de 3 minutos de F2. El alumno de AILINK tiene algo que el vendedor medio no: prueba que se ve funcionar. "No me creas — míralo" también en la llamada.
-2. **El ticket de entrada es el piloto** (rango de F1): cierre mucho menos tenso que un high ticket clásico — el cierre es "empezamos con el piloto"; el enlace de pago (Stripe, de F0-L8) se envía EN la llamada y se paga antes de colgar. La tarjeta queda guardada para el retainer (sembrar F6).
+2. **El ticket de entrada es el piloto** (rango de F1): cierre mucho menos tenso que un high ticket clásico — el cierre es "empezamos con el piloto"; el enlace de pago (Stripe, de F0-L9) se envía EN la llamada y se paga antes de colgar. La tarjeta queda guardada para el retainer (sembrar F6).
 3. **Una sola llamada por prospecto** (filosofía fuente casi verbatim): el seguimiento infinito mata — "en cuanto cuelga, se planta la semilla de la duda y crece cada día". Excepción honesta: si falta un socio decisor, UNA segunda llamada con ambos, agendada en vivo.
 4. **Setting a la española y del propio alumno**: al principio el alumno se hace su propio setting (confirmaciones de F3 + esta disciplina). Nada de contratar setters aún (eso es escala, F6).
 5. **Sin guion rígido: framework + práctica.** Filosofía fuente: se vende sin script; se empieza con framework y se suelta. PROHIBIDO entregar un script palabra a palabra como "el" método.
@@ -41,11 +41,11 @@ Las canónicas de F1-F3 (plantilla con "**KPI de esta lección:**", único times
 
 ### L1 | Por qué compran (y por qué no) — `guiones/L1-por-que-compran.md` (8-12 min)
 - **Objetivo:** entender que la venta es emocional, que se hace en el gap, y que la oferta ya hizo el 80% del trabajo (F1).
-- **Contenido:** (a) la compra es 80-90% emoción y se justifica con lógica después; (b) el GAP: en la llamada se define dónde está el negocio y dónde quiere estar — tú eres el puente (conectar con F1-L4: la oferta es el puente; la llamada lo hace sentir); (c) las 4 partes de la comunicación con sus pesos (7/38/27,5/27,5) — lo que dices importa menos que cómo, con qué intención y quién crees que eres; (d) intención: "determinar si puedo ayudarle de verdad" — la intención se transmite, la caza de comisión también; (e) desmontar 5 mitos (energía de teletienda, extrovertidos, el seguimiento cierra, sonar profesional-robot, cerrar a todo el mundo — solo cierras a quien puedes ayudar); (f) expectativa: ~100 llamadas realizadas suelen separar el cero del objetivo; tus primeras 20-25 pueden ser noes seguidos y no significa nada (300/30 de F0).
+- **Contenido:** (a) la compra es 80-90% emoción y se justifica con lógica después; (b) el GAP: en la llamada se define dónde está el negocio y dónde quiere estar — tú eres el puente (conectar con F1-L5: la oferta es el puente; la llamada lo hace sentir); (c) las 4 partes de la comunicación con sus pesos (7/38/27,5/27,5) — lo que dices importa menos que cómo, con qué intención y quién crees que eres; (d) intención: "determinar si puedo ayudarle de verdad" — la intención se transmite, la caza de comisión también; (e) desmontar 5 mitos (energía de teletienda, extrovertidos, el seguimiento cierra, sonar profesional-robot, cerrar a todo el mundo — solo cierras a quien puedes ayudar); (f) expectativa: ~100 llamadas realizadas suelen separar el cero del objetivo; tus primeras 20-25 pueden ser noes seguidos y no significa nada (300/30 de F0).
 
 ### L2 | Tu estado es tu herramienta — `guiones/L2-tu-estado.md` (6-10 min)
 - **Objetivo:** sistema de estado instalado: 3 palabras ancla + rutina pre/post llamada.
-- **Contenido:** (a) quién eres fuera de la llamada es quién eres en la llamada; (b) las neuronas espejo en versión llana: tu estado se contagia — llega hundido y hundes la llamada (formular como observación práctica, sin paper inventado); (c) el ejercicio de las 2 columnas → elegir las **3 palabras ancla** + 3 respiraciones antes y después de CADA llamada; (d) gestión del rechazo: el no es ruido estadístico (regresión a la media de F0-L6); observador curioso, no víctima; matar pensamientos que no sirven; (e) rutina: por la mañana ver una llamada buena; por la noche, una mala con lápiz.
+- **Contenido:** (a) quién eres fuera de la llamada es quién eres en la llamada; (b) las neuronas espejo en versión llana: tu estado se contagia — llega hundido y hundes la llamada (formular como observación práctica, sin paper inventado); (c) el ejercicio de las 2 columnas → elegir las **3 palabras ancla** + 3 respiraciones antes y después de CADA llamada; (d) gestión del rechazo: el no es ruido estadístico (regresión a la media de F0-L7); observador curioso, no víctima; matar pensamientos que no sirven; (e) rutina: por la mañana ver una llamada buena; por la noche, una mala con lápiz.
 - **Recurso:** `recursos/rutina-estado.md` (las 2 columnas, campos para las 3 palabras, la rutina diaria).
 
 ### L3 | Setting: que se presenten — `guiones/L3-setting-que-se-presenten.md` (10-14 min)

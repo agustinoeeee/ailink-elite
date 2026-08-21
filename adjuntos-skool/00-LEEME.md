@@ -29,7 +29,7 @@ Cada carpeta lleva su `_LEEME.md` con la tabla lección por lección: qué adjun
 
 ## Si cambias una cifra `[BORRADOR]`
 
-Los rangos de precio (piloto 500-1.500€, proyecto 2.000-6.000€, retainer 300-1.500€/mes) están **impresos** en `2-domina/L06-F1-calculadora-pricing.pdf`. Si los cierras distintos, hay que rehacer ese PDF y la pizarra de F1-L6. Lo mismo con las demás cifras pendientes de `02-INDICE-MAESTRO.md`.
+Los rangos de precio (piloto 500-1.500€, proyecto 2.000-6.000€, retainer 300-1.500€/mes) están **impresos** en `2-domina/L06-F1-calculadora-pricing.pdf`. Si los cierras distintos, hay que rehacer ese PDF y la pizarra de F1-L7. Lo mismo con las demás cifras pendientes de `02-INDICE-MAESTRO.md`.
 
 ## Cómo se regeneró esto
 

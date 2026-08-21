@@ -4,7 +4,7 @@
 
 ## Las 3 reglas (léelas antes de rellenar nada)
 
-1. **Resultado antes que tecnología.** En este guion no existen "prompt", "deploy", "IA generativa" ni nombres de herramientas. Existe lo que el dueño gana: citas recuperadas, presupuestos el mismo día, teléfono atendido. Las palmeras, no el vuelo (F1-L4).
+1. **Resultado antes que tecnología.** En este guion no existen "prompt", "deploy", "IA generativa" ni nombres de herramientas. Existe lo que el dueño gana: citas recuperadas, presupuestos el mismo día, teléfono atendido. Las palmeras, no el vuelo (F1-L5).
 2. **Silencio después del momento "wow".** Cuando la demo muestre el resultado, cállate 3 segundos. El impulso de rellenar el silencio explicando es el error del técnico: deja que el cliente procese — quien habla primero después del wow suele ser él, y suele ser para preguntar cómo lo consigue.
 3. **Jamás improvises una función no testeada.** Solo enseñas lo que pasó la checklist pre-demo de L6. Si el cliente pregunta "¿y también hace X?", la respuesta es "se puede incorporar — te lo enseño en la próxima llamada", nunca un clic a ciegas en directo.
 
@@ -12,7 +12,7 @@
 
 ## Minuto 1 — El dolor, en SUS palabras
 
-Abres con la queja literal de sus propios clientes. Sale de las reseñas que copiaste en F1-L3 y de tu avatar — no la parafrasees: cuanto más literal, más asiente.
+Abres con la queja literal de sus propios clientes. Sale de las reseñas que copiaste en F1-L4 y de tu avatar — no la parafrasees: cuanto más literal, más asiente.
 
 **Mi frase de apertura (queja literal de reseña):**
 

@@ -30,12 +30,12 @@
 
 ## Sección 3 — La matemática de actividad: tu objetivo, del revés
 
-- La promesa del programa es +10.000€ de facturación acumulada al final de los 90 días. Vamos a convertirla en un número que puedas ejecutar hoy, por ingeniería inversa: empezamos por el final y caminamos hacia atrás.
+- La promesa del programa es +5.000€ de facturación acumulada al final de los 90 días. Vamos a convertirla en un número que puedas ejecutar hoy, por ingeniería inversa: empezamos por el final y caminamos hacia atrás.
 - **Un "toque"** es cada vez que tu mensaje toca a un dueño de negocio: un email enviado, una llamada hecha, un mensaje de LinkedIn, un clic pagado en tu anuncio.
 - La cadena, hacia atrás: objetivo → clientes → reuniones realizadas → agendadas → toques. Tu calculadora de F1 ya te dijo cuánto vale un cliente para ti (piloto + proyecto + retainer) y cuántos necesitas: ese número es tuyo, sale de ahí y no de esta lección.
-- Ejemplo con cifras ilustrativas — las tuyas saldrán de TU calculadora y de TU tracker: usaremos 3 clientes. Si cierras 1 de cada 4 reuniones realizadas (ilustrativo), necesitas 12 realizadas. Con un show rate del 60-70% — benchmark B2B templado del programa: de cada 10 agendadas se presentan 6 o 7 — necesitas unas 18-20 agendadas. Y si en frío te cuesta, pongamos, 50 toques cada reunión agendada (ilustrativo otra vez), salen unos 1.000 toques. Repartidos entre los ~60 días útiles que te quedan de programa: **15-20 toques al día**, la cifra que importa.
+- Ejemplo con cifras ilustrativas — las tuyas saldrán de TU calculadora y de TU tracker: usaremos 2 clientes. Si cierras 1 de cada 4 reuniones realizadas (ilustrativo), necesitas 8 realizadas. Con un show rate del 60-70% — benchmark B2B templado del programa: de cada 10 agendadas se presentan 6 o 7 — necesitas unas 12-13 agendadas. Y si en frío te cuesta, pongamos, 50 toques cada reunión agendada (ilustrativo otra vez), salen unos 600 toques. Repartidos entre los ~60 días útiles que te quedan de programa: **10-12 toques al día**, la cifra que importa.
 
-[PANTALLA: la cadena dibujándose hacia atrás en directo: 10.000€ → 3 clientes → 12 realizadas → 18-20 agendadas → ~1.000 toques → 15-20 toques/día]
+[PANTALLA: la cadena dibujándose hacia atrás en directo: 5.000€ → 2 clientes → 8 realizadas → 12-13 agendadas → ~600 toques → 10-12 toques/día]
 
 - "Ese es el tamaño real del monstruo. No es un monstruo: es un rato cada mañana."
 - Y ahora lo mejor: divide tu objetivo entre tus toques totales y sale una cantidad **en euros**. Calcúlala hoy y escríbela en la primera página de tu tracker: **cada toque vale dinero**. El email sin respuesta y la llamada que nadie coge también — ladrillos del total, trabajo pagado por adelantado. Así el "no" deja de ser un fracaso: es una unidad de producción.

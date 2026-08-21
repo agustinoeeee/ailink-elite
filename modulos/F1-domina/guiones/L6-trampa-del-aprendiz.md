@@ -1,8 +1,8 @@
-# L5 | La trampa del aprendiz y tu escalera
+# L6 | La trampa del aprendiz y tu escalera
 
 | Fase | Duración objetivo | Recurso vinculado |
 |---|---|---|
-| F1 Domina | 6-10 min | — (apóyate en tu avatar de L3: recursos/avatar-cliente-ideal.md · la calculadora llega en L6) |
+| F1 Domina | 6-10 min | — (apóyate en tu avatar de L4: recursos/avatar-cliente-ideal.md · la calculadora llega en L7) |
 
 **Objetivo:** al terminar, el alumno acepta empezar con un piloto de pago acotado y entiende la escalera piloto → proyecto → retainer como su modelo de entrada al mercado.
 
@@ -41,7 +41,7 @@ Por qué el piloto se cobra siempre:
 - **Te da tu caso de éxito y tu testimonio.** El activo que luego justifica cada subida de precio.
 - **Deja la tarjeta guardada.** El salto a proyecto y retainer ya no es una venta desde cero.
 
-Conecta con L4: "El piloto ES tu red de seguridad, la que vimos en la anatomía de la oferta. Para el cliente, riesgo casi cero. Para ti, presión sana y un campo de entrenamiento real. Como firmaste en tu manifiesto: aquí se ejecuta en serio — y un cliente gratis no ejecuta en serio contigo."
+Conecta con L5: "El piloto ES tu garantía, el componente 4 que vimos en la anatomía de la oferta. Para el cliente, riesgo casi cero. Para ti, presión sana y un campo de entrenamiento real. Como firmaste en tu manifiesto: aquí se ejecuta en serio — y un cliente gratis no ejecuta en serio contigo."
 
 ## Sección 3 — La escalera: piloto → proyecto → retainer
 
@@ -49,7 +49,7 @@ Conecta con L4: "El piloto ES tu red de seguridad, la que vimos en la anatomía 
 
 Frase sugerida, para decirla mirando a cámara: "El piloto te compra la confianza. El proyecto te paga el trabajo. El retainer te paga TODOS los meses."
 
-- **Peldaño 1 — Piloto acotado.** Una solución pequeña que ataca UNO de los tres momentos de dolor que marcaste en el día-en-la-vida de tu avatar (L3). La solución concreta sale del mapeo dolor → solución: cruza ese dolor con la columna de soluciones de la lista de micro-nichos de L2. Entregable en días.
+- **Peldaño 1 — Piloto acotado.** Una solución pequeña que ataca UNO de los tres momentos de dolor que marcaste en el día-en-la-vida de tu avatar (L4). La solución concreta sale del mapeo dolor → solución: cruza ese dolor con la columna de soluciones de la lista de micro-nichos de L3. Entregable en días.
 - **Peldaño 2 — Proyecto completo.** Demostrado el piloto, construyes la solución entera. Aquí está el grueso de tu facturación de los 90 días.
 - **Peldaño 3 — Retainer.** Mantenimiento, mejoras y soporte cada mes. Es el MRR que ya conoces de F0 — el peldaño del que vive tu agencia a largo plazo.
 
@@ -65,6 +65,8 @@ El efecto del vino caro: "Hay un estudio clásico, el de Plassmann y colegas (Ca
 
 "Copiar el precio de la competencia y bajarlo un poco es la carrera al fondo: te comoditiza. El ciclo contrario, el premium, se gana peldaño a peldaño con la escalera."
 
+- Y no lo pierdas de vista: para cobrar precios prémium hacen falta las otras piezas del módulo — una buena oferta (L5) y un micro-nicho en el que seas EL especialista (L3). Cada elemento es una pieza de una máquina gigante: sube el precio con una oferta floja o sin nicho y lo único que consigues es un "no" más caro.
+
 ## Sección 5 — ¿Y los números exactos?
 
 "Te veo venir: '¿cuánto cobro por el piloto?'. Hoy, ni un euro se decide. Los números exactos, en la próxima lección, con la calculadora del programa y una regla de oro que convierte el valor que generas en tu precio. Hoy solo necesito una cosa de ti: que aceptes la escalera."
@@ -72,6 +74,6 @@ El efecto del vino caro: "Hay un estudio clásico, el de Plassmann y colegas (Ca
 ## Cierre + CTA
 
 - Recap en 2 frases: "Cobrar caro sin experiencia es la trampa del aprendiz: devoluciones, promesas infladas y cero aprendizaje. Tu entrada es la escalera — piloto de pago acotado, proyecto, retainer — y los precios se suben con datos, no con ansiedad."
-- **Acción del alumno AHORA:** con tu día-en-la-vida de L3 delante, escribe en una frase qué hará tu piloto: "[dolor concreto de mi avatar] resuelto en [X días] para [mi micro-nicho]" — y debajo, qué solución del catálogo lo ejecuta: la eliges cruzando tu dolor nº1 del día-en-la-vida de L3 con la columna de soluciones de la lista de micro-nichos de L2. Guárdalo en tu cuaderno de F1 (recursos/cuaderno-f1.md): es la semilla de tu oferta V1.
-- **KPI de esta lección:** frase del piloto escrita en tu cuaderno de F1 (dolor concreto + plazo en días + micro-nicho) + la solución del catálogo que lo ejecuta, lista para ponerle precio en L6.
+- **Acción del alumno AHORA:** con tu día-en-la-vida de L4 delante, escribe en una frase qué hará tu piloto: "[dolor concreto de mi avatar] resuelto en [X días] para [mi micro-nicho]" — y debajo, qué solución del catálogo lo ejecuta: la eliges cruzando tu dolor nº1 del día-en-la-vida de L4 con la columna de soluciones de la lista de micro-nichos de L3. Guárdalo en tu cuaderno de F1 (recursos/cuaderno-f1.md): es la semilla de tu oferta V1.
+- **KPI de esta lección:** frase del piloto escrita en tu cuaderno de F1 (dolor concreto + plazo en días + micro-nicho) + la solución del catálogo que lo ejecuta, lista para ponerle precio en L7.
 - Puente: "Ya tienes la escalera. En la próxima lección le ponemos números — trae tu nicho y tu avatar: vamos a hacer la matemática que cobra."

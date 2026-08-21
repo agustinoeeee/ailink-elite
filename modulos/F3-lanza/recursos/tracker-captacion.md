@@ -14,7 +14,7 @@
 
 | Campo | Tu cifra |
 |---|---|
-| Objetivo de los 90 días | 10.000€ acumulados (o el tuyo) |
+| Objetivo de los 90 días | 5.000€ acumulados (o el tuyo) |
 | Valor de un cliente (calculadora de F1: piloto + proyecto + retainer) | ______ € |
 | Clientes necesarios | ______ |
 | Reuniones realizadas necesarias | ______ |

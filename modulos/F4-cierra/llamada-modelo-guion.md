@@ -123,4 +123,4 @@
 2. **La demo de la Fase 4** se graba de verdad: pantalla compartida con `plantillas-ailink/recuperacion-citas-dental/index.html` desplegada. El flujo Marta Ruiz → hueco de las 13:00 → contadores es exactamente el de la plantilla.
 3. **El compañero que hace de Álvaro**: dale SOLO su papel y la instrucción "eres un dentista práctico y algo quemado; pon una pega de verdad cuando oigas el precio". Si improvisa distinto, mejor — tú respondes con el framework, no con el guion.
 4. **Al publicar en F4-L8**: presenta el vídeo como llamada de práctica condensada, no como llamada real — la honestidad es marca de la casa. Los rótulos [ANOTACIÓN] sobreimpresos convierten el vídeo en el mapa visual del framework.
-5. Cifras del guion coherentes con el programa: piloto 900€ (ejemplo de F1-L7/calculadora), entrega ≤7 días, demo dental de F2. Si Agustín cambia los rangos en su auditoría de F1, actualizar aquí el precio.
+5. Cifras del guion coherentes con el programa: piloto 900€ (ejemplo de F1-L8/calculadora), entrega ≤7 días, demo dental de F2. Si Agustín cambia los rangos en su auditoría de F1, actualizar aquí el precio.

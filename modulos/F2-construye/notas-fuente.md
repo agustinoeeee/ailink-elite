@@ -20,7 +20,7 @@
 
 1. **"Todo web en F2"**: la demo vive en una URL; las integraciones reales (WhatsApp Business API, telefonía) se posponen a F5 con el primer piloto pagado. Motivo: la verificación de Meta Business en la semana 4 ahogaría a alumnos no técnicos, y la demo web simula el flujo y vende igual.
 2. **Stack propuesto (BORRADOR)**: Claude Code + GitHub + Vercel + Supabase. Elegido por: capa gratuita suficiente para demos, deploy en un paso, y es el stack que Claude Code maneja con más soltura. **Si usas otro en AILINK VIP, dilo y se cambia en L2/L4/R1.**
-3. **Primera demo recomendada**: recepcionista/recuperación de citas o chatbot web cualificador (máximo efecto visual, mínima complejidad) — coherente con la demo dental de F1-L7.
+3. **Primera demo recomendada**: recepcionista/recuperación de citas o chatbot web cualificador (máximo efecto visual, mínima complejidad) — coherente con la demo dental de F1-L8.
 4. **El vídeo-demo de respaldo** (L7): red de seguridad para llamadas de venta. Idea propia, no de la fuente.
 5. **Demos conversacionales = conversación GUIADA en F2** (decidido en la ronda de corrección, 20/08): las demos de recepcionista IA y chatbot cualificador usan botones/respuestas sugeridas — sin backend de API de Anthropic, sin coste extra, y no se rompen con entradas libres. El **chat libre real** (API de Anthropic, coste por uso) llega en F5 con el piloto pagado, repercutido al cliente como coste operativo. Motivo: mantener la promesa de coste de F2 ("una suscripción y cuentas gratuitas") y no meter gestión de claves de API a un no-técnico en la semana 4. **Validar si prefieres otra línea.**
 

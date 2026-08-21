@@ -72,7 +72,7 @@ Esto se graba: si no se lee en un recorte de vídeo comprimido, no sirve.
 ## 8. Nombres de archivo
 
 ```
-Pizarras:     F1-L3-pizarra.pdf
+Pizarras:     F1-L4-pizarra.pdf
 Entregables:  F1-worksheet-oferta.pdf
 Tablas:       F3-tracker-captacion.csv   (+ F3-tracker-captacion.pdf si lleva cabecera de reglas)
 ```

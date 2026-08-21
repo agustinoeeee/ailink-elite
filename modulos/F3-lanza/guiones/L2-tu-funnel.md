@@ -19,7 +19,7 @@
   2. **Tu VSL** — el vídeo de venta que grabarás en L3. De provisional, monta tu vídeo de demo de F2-L7.
   3. **"Mira la demo funcionando"** — botón a la URL de tu demo de F2. Es tu "no me creas: verifícalo", y casi nadie en tu mercado puede ofrecerlo.
   4. **Formulario corto cualificador**: 2-4 preguntas — sector, tamaño del negocio, qué le duele. Con eso llegas a la reunión sabiendo a quién tienes delante.
-  5. **Calendario embebido** — el Cal.com/Calendly que configuraste en F0-L8, dentro de la página.
+  5. **Calendario embebido** — el Cal.com/Calendly que configuraste en F0-L9, dentro de la página.
 
 [PANTALLA: las 5 piezas numeradas sobre un funnel de ejemplo]
 

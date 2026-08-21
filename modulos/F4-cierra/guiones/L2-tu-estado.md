@@ -36,7 +36,7 @@
 
 ## Sección 4 — El rechazo es ruido estadístico
 
-- Vas a recibir noes. Bastantes. Y aquí vuelve la regresión a la media que aprendiste en F0-L6: en muestras pequeñas, las rachas son lo normal, no la excepción. Puedes encadenar 20 noes y cerrar 5 seguidas sin que tú hayas cambiado nada — la moneda no se acuerda de la tirada anterior.
+- Vas a recibir noes. Bastantes. Y aquí vuelve la regresión a la media que aprendiste en F0-L7: en muestras pequeñas, las rachas son lo normal, no la excepción. Puedes encadenar 20 noes y cerrar 5 seguidas sin que tú hayas cambiado nada — la moneda no se acuerda de la tirada anterior.
 - Por eso el no de un desconocido no puede costarte el estado. Es un dato en tu contador de 30, no un veredicto sobre ti. Si un dueño de negocio al que no volverás a ver te dice que no con malos modos, ¿cuánta de tu energía merece? Exacto: ninguna.
 - La postura correcta tiene nombre: **observador curioso, no víctima**. La víctima pregunta "¿por qué a mí?"; el observador curioso pregunta "¿qué dato me llevo de esta?" — lo apunta, respira tres veces y pasa a la siguiente.
 - Y con los pensamientos que no te sirven — "no valgo para esto", "seguro que este tampoco compra" — la técnica es matarlos en cuanto asoman: los detectas, los nombras y los sustituyes por uno que sí te sirva. En el recurso tienes los 5 pensamientos-basura más típicos con su sustitución preparada.

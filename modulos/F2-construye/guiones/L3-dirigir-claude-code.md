@@ -35,7 +35,7 @@
 
 ## Sección 3 — Iterar en pasos pequeños
 
-- Las dos reglas gemelas: **una petición = un cambio**, y **probar antes de pedir el siguiente**. Es el método científico de F0-L6 que ya conectamos en L1, con otra bata.
+- Las dos reglas gemelas: **una petición = un cambio**, y **probar antes de pedir el siguiente**. Es el método científico de F0-L7 que ya conectamos en L1, con otra bata.
 - Por qué funciona: si pides cinco cambios a la vez y algo se rompe, no sabes cuál de los cinco fue. Si pides uno, lo sabes siempre. Estás aislando variables, como un profesional.
 - Así también proteges lo que ya funciona: tras cada cambio, comprueba que lo anterior sigue vivo. Y cuando algo te guste, díselo explícitamente: "esto está bien, no lo toques; ahora quiero…".
 

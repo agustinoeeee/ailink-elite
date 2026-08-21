@@ -10,7 +10,7 @@
 
 "En F1 escribiste una promesa incómoda: piloto funcionando en menos de 7 días. Hoy conoces la herramienta que te permite cumplirla sin saber programar. No es una app de moda: es la razón de que este modelo de negocio exista. Bienvenido al módulo más importante del programa."
 
-[PANTALLA: pantalla partida — a la izquierda, la frase de oferta V1 del ejemplo de F1-L7; a la derecha, una demo web de clínica dental funcionando en el navegador]
+[PANTALLA: pantalla partida — a la izquierda, la frase de oferta V1 del ejemplo de F1-L8; a la derecha, una demo web de clínica dental funcionando en el navegador]
 
 ## Sección 1 — Qué es Claude Code, en lenguaje de resultado
 
@@ -25,12 +25,12 @@
 
 - "Grábate esto: tú no vas a programar. Ni hoy, ni en la semana 12, ni nunca si no quieres. Tu trabajo tiene tres verbos: describir, revisar y decidir."
 - Describir: QUÉ debe pasar y PARA QUIÉN — la plantilla exacta te la doy en L3. Revisar: probar lo construido como lo usaría tu cliente. Decidir: qué se queda, qué cambia, qué se descarta.
-- ¿Te suena la mecánica? Es el método científico de F0-L6 aplicado a construir: hipótesis (lo que describes), experimento (Claude Code construye), medición (tú lo pruebas), ajuste (siguiente petición).
+- ¿Te suena la mecánica? Es el método científico de F0-L7 aplicado a construir: hipótesis (lo que describes), experimento (Claude Code construye), medición (tú lo pruebas), ajuste (siguiente petición).
 - La frase que resume el módulo: "no necesitas saber programar; necesitas saber DIRIGIR. Y dirigir se aprende — es literalmente lo que hacemos las dos próximas semanas."
 
 ## Sección 3 — Por qué esto es LA ventaja del modelo AILINK
 
-- La cadena completa, eslabón a eslabón: construir en días → puedes ofrecer un piloto acotado, rápido y de riesgo mínimo → el miedo del cliente baja a casi cero → tu oferta se vuelve muy difícil de rechazar. "La red de seguridad que diseñaste en F1-L4 no era retórica comercial: Claude Code es lo que la hace físicamente posible."
+- La cadena completa, eslabón a eslabón: construir en días → puedes ofrecer un piloto acotado, rápido y de riesgo mínimo → el miedo del cliente baja a casi cero → tu oferta se vuelve muy difícil de rechazar. "La red de seguridad que diseñaste en F1-L5 no era retórica comercial: Claude Code es lo que la hace físicamente posible."
 
 [PANTALLA: la cadena en gráfico: DÍAS → PILOTO ACOTADO → RIESGO ↓ → OFERTA IRRESISTIBLE]
 
@@ -39,7 +39,7 @@
 
 ## Sección 4 — El estándar del programa: simple y entregado
 
-- Recuerda el error 4 de F0-L5: complejo y eterno pierde SIEMPRE contra simple y entregado.
+- Recuerda el error 4 de F0-L6: complejo y eterno pierde SIEMPRE contra simple y entregado.
 - "Tu demo no es tu obra maestra: es tu herramienta de venta. Nadie te pagará por la elegancia de un código que ni tú ni el cliente vais a leer. Te pagarán porque el dueño VE su problema resuelto en una pantalla."
 - Regla para todo F2: cada semana puliendo en privado es una semana sin datos del mercado. La versión fea que funciona hoy vale más que la bonita que existirá algún día.
 

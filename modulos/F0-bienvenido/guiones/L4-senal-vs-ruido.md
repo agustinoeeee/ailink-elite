@@ -1,4 +1,4 @@
-# L3 | Señal vs Ruido
+# L4 | Señal vs Ruido
 
 | Fase | Duración objetivo | Recurso vinculado |
 |---|---|---|

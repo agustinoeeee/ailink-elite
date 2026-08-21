@@ -11,7 +11,7 @@
     "emoji": "🎯",
     "titulo": "Bienvenida a AILINK Élite",
     "duracion": "5-7 min",
-    "descripcion": "Sales de aquí sabiendo exactamente qué vas a construir en 90 días: una agencia que vende soluciones de IA —software y automatizaciones hechas con Claude Code— a negocios que las necesitan y no saben implementarlas.\n\n**En esta lección:**\n- La promesa real del programa: +10.000€ de facturación acumulada en 90 días, con modelo de proyecto + retainer.\n- Qué NO es esto: cero teoría. Cada lección trae enseñanza, recurso, demo y KPI.\n- El mapa de las 6 fases y por qué el contenido se abre en orden.\n- La única regla: ejecuta rápido, falla rápido, nunca el mismo error dos veces.\n\n**Tu acción ahora:** pasa a la lección 2 y agenda tu kick-off call. Sin pausa: cero tiempo muerto entre decidir y ejecutar.\n\n**KPI:** kick-off agendada en menos de 72 horas desde tu fecha de acceso al programa.",
+    "descripcion": "Sales de aquí sabiendo exactamente qué vas a construir en 90 días: una agencia que vende soluciones de IA —software y automatizaciones hechas con Claude Code— a negocios que las necesitan y no saben implementarlas.\n\n**En esta lección:**\n- La promesa real del programa: +5.000€ de facturación acumulada en 90 días, con modelo de proyecto + retainer.\n- Qué NO es esto: cero teoría. Cada lección trae enseñanza, recurso, demo y KPI.\n- El mapa de las 6 fases y por qué el contenido se abre en orden.\n- La única regla: ejecuta rápido, falla rápido, nunca el mismo error dos veces.\n\n**Tu acción ahora:** pasa a la lección 2 y agenda tu kick-off call. Sin pausa: cero tiempo muerto entre decidir y ejecutar.\n\n**KPI:** kick-off agendada en menos de 72 horas desde tu fecha de acceso al programa.",
     "adjuntos": [],
     "pantallaReal": ""
    },
@@ -37,6 +37,21 @@
    },
    {
     "id": "L3",
+    "emoji": "⭐",
+    "titulo": "Tu norte: qué vida estás construyendo",
+    "duracion": "5-8 min",
+    "descripcion": "Emprender no es el objetivo: es un vehículo. Y si no decides hacia dónde lo conduces, acabas construyendo con mucho esfuerzo la vida de la que querías salir. Hoy decides el destino y lo conviertes en criterios que usarás dentro de dos semanas para elegir nicho.\n\n**En esta lección:**\n- Por qué esto va antes que el nicho: primero qué vida quieres, luego qué cliente encaja con ella.\n- Las 5 preguntas del contexto: tu semana normal dentro de tres años, qué es libertad en unidades, qué no estás dispuesto a sacrificar, qué ingreso y para qué, y pocos clientes de alto valor frente a muchos estandarizados.\n- Los 7 criterios de diseño del negocio — horario, ubicación, ingresos, tipo de cliente, complejidad, soporte y equipo — con su implicación directa sobre lo que puedes vender.\n- La escalera del valor: de «conecto el formulario con su base de clientes» a «el dueño deja de perseguir a su equipo».\n- Las tres verdades del rol: que te encuentren, que crean en ti y que confíen en ti.\n\n**Tu acción ahora:** rellena el norte personal entero — las cinco preguntas, los siete criterios con su implicación y la declaración de propósito — y guárdalo donde puedas releerlo.\n\n**KPI:** declaración de propósito escrita y los 7 criterios rellenos, sin campos en blanco.",
+    "adjuntos": [
+     {
+      "nombre": "F0-norte-personal.pdf",
+      "tipo": "PDF",
+      "nota": "Las 5 preguntas, la tabla de los 7 criterios con su implicación para la oferta, la escalera del valor y la declaración de propósito."
+     }
+    ],
+    "pantallaReal": "El recurso norte-personal abierto, recorriendo las cinco preguntas y la tabla de criterios rellenándose fila a fila."
+   },
+   {
+    "id": "L4",
     "emoji": "📡",
     "titulo": "Señal vs ruido",
     "duracion": "5-8 min",
@@ -51,7 +66,7 @@
     "pantallaReal": "El manifiesto abierto en pantalla, recorriendo sus 5 bloques con el cursor."
    },
    {
-    "id": "L4",
+    "id": "L5",
     "emoji": "🌳",
     "titulo": "Más / Mejor / Nuevo",
     "duracion": "5-8 min",
@@ -66,11 +81,11 @@
     "pantallaReal": ""
    },
    {
-    "id": "L5",
+    "id": "L6",
     "emoji": "⚠️",
     "titulo": "Por qué falla la gente",
     "duracion": "6-10 min",
-    "descripcion": "Sales vacunado contra los 7 errores que matan agencias antes de despegar, y con tu mayor riesgo personal identificado por escrito.\n\n**En esta lección:**\n- Los dos extremos con los datos: decidir con emociones sin muestra, e ignorar los números que ya tienes.\n- Océanos rojos y entregas sobrecomplicadas: lo genérico es invisible y lo enorme no se entrega.\n- El error nº1, el que mata más que los otros seis juntos: rendirse antes de la muestra (~20 conversaciones para el primer cliente).\n- Fallos técnicos evitables y la huida de las ventas y del seguimiento.\n\n**Tu acción ahora:** escribe cuál de los 7 errores es TU mayor riesgo, sé honesto y compártelo en la comunidad. Después firma tu manifiesto si aún no lo has hecho: es tu vacuna contra el error nº5.\n\n**KPI:** tu error de mayor riesgo identificado y publicado en la comunidad.",
+    "descripcion": "Sales vacunado contra los 7 errores que matan agencias antes de despegar, y con tu mayor riesgo personal identificado por escrito.\n\n**En esta lección:**\n- Los dos extremos con los datos: decidir con emociones sin muestra, e ignorar los números que ya tienes.\n- Océanos rojos y entregas sobrecomplicadas: lo genérico es invisible y lo enorme no se entrega.\n- El error nº1, el que mata más que los otros seis juntos: rendirse antes de la muestra (~20 conversaciones para el primer cliente) — y su antídoto: ser resiliente.\n- Fallos técnicos evitables y la huida de las ventas y del seguimiento.\n\n**Tu acción ahora:** escribe cuál de los 7 errores es TU mayor riesgo, sé honesto y compártelo en la comunidad. Después firma tu manifiesto si aún no lo has hecho: es tu vacuna contra el error nº5.\n\n**KPI:** tu error de mayor riesgo identificado y publicado en la comunidad.",
     "adjuntos": [
      {
       "nombre": "F0-manifiesto-90-dias.pdf",
@@ -81,7 +96,7 @@
     "pantallaReal": ""
    },
    {
-    "id": "L6",
+    "id": "L7",
     "emoji": "📊",
     "titulo": "Cómo se decide aquí: datos, no sensaciones",
     "duracion": "8-12 min",
@@ -101,11 +116,11 @@
     "pantallaReal": "La plantilla de tests abierta en Google Sheets, rellenando una fila V1 campo a campo en directo."
    },
    {
-    "id": "L7",
+    "id": "L8",
     "emoji": "🧭",
     "titulo": "Tu roadmap de 90 días",
     "duracion": "5-8 min",
-    "descripcion": "Te llevas el mapa completo de tus 90 días, semana a semana, para saber en todo momento si lo que te está pasando es normal o es una alarma.\n\n**En esta lección:**\n- El recorrido de S1 a S13 y por qué las fases se solapan a propósito: vendes y entregas a la vez.\n- Los 5 hitos maestros, con el primer cliente como rango honesto (S6-S9), no como fecha prometida.\n- Normal vs alarma: antes de preocuparte por resultados, audita actividad.\n- El estándar en captación: tu día es conseguir reuniones y cerrarlas.\n\n**Tu acción ahora:** descarga el roadmap, imprímelo o cópialo donde lo veas a diario, escribe la fecha real de tu S1 y calcula las fechas de tus 5 hitos maestros. Cada domingo marcas la casilla de la semana cumplida.\n\n**KPI:** las fechas de tus 5 hitos maestros calculadas y escritas en el roadmap.",
+    "descripcion": "Te llevas el mapa completo de tus 90 días, semana a semana, para saber en todo momento si lo que te está pasando es normal o es una alarma.\n\n**En esta lección:**\n- El recorrido de S1 a S13 y por qué las fases se solapan a propósito: vendes y entregas a la vez.\n- Los 5 hitos maestros, con el primer cliente como rango honesto (S7-S10), no como fecha prometida.\n- Normal vs alarma: antes de preocuparte por resultados, audita actividad.\n- El estándar en captación: tu día es conseguir reuniones y cerrarlas.\n\n**Tu acción ahora:** descarga el roadmap, imprímelo o cópialo donde lo veas a diario, escribe la fecha real de tu S1 y calcula las fechas de tus 5 hitos maestros. Cada domingo marcas la casilla de la semana cumplida.\n\n**KPI:** las fechas de tus 5 hitos maestros calculadas y escritas en el roadmap.",
     "adjuntos": [
      {
       "nombre": "F0-roadmap-90-dias.pdf",
@@ -116,11 +131,11 @@
     "pantallaReal": ""
    },
    {
-    "id": "L8",
+    "id": "L9",
     "emoji": "🛠️",
     "titulo": "Setup de tu negocio",
     "duracion": "8-12 min",
-    "descripcion": "Al terminar tienes el negocio montado: nombre, dominio, email profesional, cobros y agenda, más el trámite fiscal en marcha. Ninguna excusa operativa para no vender.\n\n**En esta lección:**\n- El nombre en 10 minutos y el dominio + email profesional: nunca vendas desde un @gmail.com.\n- Stripe España y el enlace de pago, con la casilla de guardar la tarjeta que hace posible tu retainer.\n- Facturación en España: alta y gestor. Confírmalo con el tuyo, esto no es asesoría fiscal.\n- El calendario de reservas bien configurado y la lista de lo que NO montar todavía (logo, web, SL, oficina).\n\n**Tu acción ahora:** descarga la checklist de setup, bloquea una tarde en tu calendario esta misma semana y complétala en orden.\n\n**KPI:** negocio operativo en ≤7 días — enlace de pago de prueba pagado y una reserva de test en tu calendario como comprobante.",
+    "descripcion": "Al terminar tienes el negocio montado: nombre, dominio, email profesional, cobros y agenda, más el trámite fiscal en marcha. Ninguna excusa operativa para no vender.\n\n**En esta lección:**\n- El nombre en 10 minutos y el dominio + email profesional: nunca vendas desde un @gmail.com.\n- Tu método de pago (Stripe recomendado; vale cualquiera que envíe enlaces de pago y guarde la tarjeta), con la casilla que hace posible tu retainer.\n- Facturación en España: alta y gestor. Confírmalo con el tuyo, esto no es asesoría fiscal.\n- El calendario de reservas bien configurado y la lista de lo que NO montar todavía (logo, web, SL, oficina).\n\n**Tu acción ahora:** descarga la checklist de setup, bloquea una tarde en tu calendario esta misma semana y complétala en orden.\n\n**KPI:** negocio operativo en ≤7 días — enlace de pago de prueba pagado y una reserva de test en tu calendario como comprobante.",
     "adjuntos": [
      {
       "nombre": "F0-checklist-setup-negocio.pdf",
@@ -156,10 +171,30 @@
    },
    {
     "id": "L2",
+    "emoji": "🧰",
+    "titulo": "Tu inventario de ventajas",
+    "duracion": "6-10 min",
+    "descripcion": "Mañana eliges el tablero donde vas a jugar 90 días. Hoy miras con qué cartas juegas, porque casi todo el mundo se salta este paso y elige el nicho de moda en vez del nicho donde tiene ventaja.\n\n**En esta lección:**\n- Una herramienta es algo que sabes usar; una habilidad es algo que sabes conseguir. Claude Code lo tendrán todos en dos semanas: entender por dónde pierde pacientes una clínica, no.\n- Inventario de hechos y no de etiquetas: «trabajé en administración» no vale; «sé dónde aparecen los duplicados y los pendientes», sí.\n- Tus seis cajones: habilidades, conocimiento del sector, capacidades técnicas, acceso, prueba y energía.\n- La matriz de 6 factores que convierte todo eso en 1-3 candidatos a micro-nicho puntuados.\n- Si no tienes experiencia laboral: no se para el programa, se construye la evidencia en paralelo.\n\n**Tu acción ahora:** rellena el inventario entero y sal con entre 1 y 3 candidatos puntuados en la matriz. Ojea el catálogo de oportunidades antes de puntuar el factor «automatizable».\n\n**KPI:** inventario relleno y 1-3 candidatos puntuados con su total — los únicos que entran en la checklist de la próxima lección.",
+    "adjuntos": [
+     {
+      "nombre": "F1-inventario-ventajas.pdf",
+      "tipo": "PDF",
+      "nota": "Inventario de hechos, los seis cajones de activos, la matriz de 6 factores y tu frase de ventaja."
+     },
+     {
+      "nombre": "F1-catalogo-oportunidades.pdf",
+      "tipo": "PDF",
+      "nota": "Las 8 capas de cualquier automatización, dónde mirar en cada tipo de negocio y cuándo NO automatizar todavía."
+     }
+    ],
+    "pantallaReal": "El worksheet inventario-ventajas abierto, recorriendo las columnas de la tabla de hechos y rellenando la matriz para dos candidatos."
+   },
+   {
+    "id": "L3",
     "emoji": "📍",
     "titulo": "Micro-nicho: elige dónde ser el rey",
     "duracion": "8-12 min",
-    "descripcion": "Hoy no sales \"casi\" decidido: sales con tu micro-nicho elegido, escrito y firmado.\n\n**En esta lección:**\n- Industria ≠ nicho: \"salud\" es industria; \"clínicas dentales de tu provincia\" es micro-nicho.\n- Las 5 creencias que te frenan, desmontadas una a una (saturación, dinero, nicho perfecto, no sé del sector, idea única).\n- La matemática que tranquiliza: con 2-4 clientes cumples la promesa, y en España hay miles de negocios en cada micro-nicho.\n- Anteojeras de 90 días y regla 300/30: la única puerta de salida legítima.\n\n**Tu acción ahora:** abre la lista de 12 micro-nichos, escoge de 1 a 3 candidatos, pásalos por la checklist de validación y elige UNO. Rellena el bloque de decisión final con fecha y firma.\n\n**KPI:** checklist completada con las 5 preguntas eliminatorias en \"sí\", nombre del micro-nicho escrito y firma de anteojeras 90 días con fecha.",
+    "descripcion": "Hoy no sales \"casi\" decidido: sales con tu micro-nicho elegido, escrito y firmado.\n\n**En esta lección:**\n- Industria ≠ nicho: \"salud\" es industria; \"clínicas dentales en España que atienden +20 pacientes al día\" es micro-nicho.\n- Las 5 creencias que te frenan, desmontadas una a una (saturación, dinero, nicho perfecto, no sé del sector, idea única).\n- La matemática que tranquiliza: con 1-3 clientes cumples la promesa, y en España hay miles de negocios en cada micro-nicho.\n- Anteojeras de 90 días y regla 300/30: la única puerta de salida legítima.\n\n**Tu acción ahora:** abre la lista de 12 micro-nichos, escoge de 1 a 3 candidatos, pásalos por la checklist de validación y elige UNO. Rellena el bloque de decisión final con fecha y firma.\n\n**KPI:** checklist completada con las 5 preguntas eliminatorias en \"sí\", nombre del micro-nicho escrito y firma de anteojeras 90 días con fecha.",
     "adjuntos": [
      {
       "nombre": "F1-lista-micro-nichos-espana.pdf",
@@ -175,11 +210,11 @@
     "pantallaReal": "Scroll lento por el PDF de la lista de 12 micro-nichos y después por la checklist de validación. Segundo momento opcional: Google Maps buscando el nicho candidato en 3 ciudades para el conteo."
    },
    {
-    "id": "L3",
+    "id": "L4",
     "emoji": "👤",
     "titulo": "Tu cliente ideal: conócelo mejor que él mismo",
-    "duracion": "6-10 min",
-    "descripcion": "Cobras en proporción a lo bien que entiendes tu mercado. Hoy conviertes ese entendimiento en un documento con los 3 momentos de dolor de tu cliente marcados.\n\n**En esta lección:**\n- Por qué el avatar abarata todo lo que viene: captación en F3 y llamadas en F4.\n- Parte 1 del worksheet: el dueño (cómo habla, qué le falló ya, su objeción nº1 ante la IA) y el negocio (quién coge el teléfono, qué mide y qué no).\n- Parte 2, el día en la vida: la tabla horaria con columna \"dolor\" y los 3 momentos donde entra tu solución.\n- Investigación real en dos tardes: llamar como cliente, leer reseñas de Google y mirar foros del gremio.\n\n**Tu acción ahora:** rellena hoy a lápiz el worksheet entero con los 3 dolores marcados, agenda en tu calendario las dos tardes de investigación y, antes de abrir L4, copia al worksheet 5 quejas literales de reseñas de Google.\n\n**KPI:** hoy, avatar y día-en-la-vida a lápiz con los 3 momentos de dolor marcados y las 2 tardes agendadas; antes de L4, las 5 quejas literales copiadas.",
+    "duracion": "8-12 min",
+    "descripcion": "Cobras en proporción a lo bien que entiendes tu mercado. Hoy conviertes ese entendimiento en un documento con los 3 momentos de dolor de tu cliente marcados.\n\n**En esta lección:**\n- Por qué el avatar abarata todo lo que viene: captación en F3 y llamadas en F4.\n- Parte 1 del worksheet: el dueño (cómo habla, qué le falló ya, su objeción nº1 ante la IA) y el negocio (quién coge el teléfono, qué mide y qué no).\n- Parte 2, el día en la vida: la tabla horaria con columna \"dolor\" y los 3 momentos donde entra tu solución.\n- Quién es quién en el negocio: quien paga, quien lo usa cada día y quien puede bloquear la compra.\n- La brecha: cómo está hoy, cómo debería estar, qué cuesta la diferencia y en qué unidad se mide — más el disparador de compra.\n- Investigación real en dos tardes: llamar como cliente, leer reseñas de Google, mirar foros del gremio y preguntar a contactos del sector.\n\n**Tu acción ahora:** rellena hoy a lápiz el worksheet entero con los 3 dolores marcados y su brecha medida, agenda en tu calendario las dos tardes de investigación y, antes de abrir L4, copia al worksheet 5 quejas literales de reseñas de Google.\n\n**KPI:** hoy, avatar y día-en-la-vida a lápiz con los 3 momentos de dolor marcados y las 2 tardes agendadas; antes de L4, las 5 quejas literales copiadas.",
     "adjuntos": [
      {
       "nombre": "F1-avatar-cliente-ideal.pdf",
@@ -190,11 +225,11 @@
     "pantallaReal": "Worksheet avatar-cliente-ideal abierto recorriendo los campos de la Parte 1; y reseñas reales de Google de 5-10 negocios locales con las quejas subrayadas, con nombre, logo y datos difuminados."
    },
    {
-    "id": "L4",
+    "id": "L5",
     "emoji": "🌉",
     "titulo": "Anatomía de una oferta irresistible",
     "duracion": "8-12 min",
-    "descripcion": "Nadie compra el vuelo: compra las palmeras. Sales con las 3 frases de resultado de tu oferta escritas y sin una sola palabra de ingeniero.\n\n**En esta lección:**\n- La oferta como puente entre el estado actual de tu cliente y el que desea.\n- La ecuación de valor de Hormozi y las 4 palancas que mueve cada decisión de tu oferta.\n- Los 6 componentes: resultado medible, plazo, método, red de seguridad, precio y cualificación.\n- La red de seguridad AILINK: piloto acotado y entrega en días, no meses.\n\n**Tu acción ahora:** coge los 3 momentos de dolor de tu día-en-la-vida de L3 y escribe, para cada uno, una frase de resultado (nada de \"sistema\", \"automatización\" ni nombres de herramientas). Pásales el test del mecanismo y guárdalas en la sección 2 de tu cuaderno de F1. El worksheet de oferta solo se presenta hoy: se rellena en L7.\n\n**KPI:** 3 frases de resultado escritas en tu cuaderno, una por momento de dolor, y las tres pasan el test del mecanismo — cero nombres de tecnología.",
+    "descripcion": "Nadie compra el vuelo: compra las palmeras. Sales con las 3 frases de resultado de tu oferta escritas y sin una sola palabra de ingeniero.\n\n**En esta lección:**\n- La oferta como puente entre el estado actual de tu cliente y el que desea.\n- La ecuación de valor de Hormozi y las 4 palancas que mueve cada decisión de tu oferta.\n- Los 7 componentes: resultado medible, plazo, método, garantía, precio, cualificación y urgencia.\n- El error que mata a la mayoría de agencias de IA: usar la IA para construir tu oferta.\n\n**Tu acción ahora:** coge los 3 momentos de dolor de tu día-en-la-vida de L3 y escribe, para cada uno, una frase de resultado (nada de \"sistema\", \"automatización\" ni nombres de herramientas). Pásales el test del mecanismo y guárdalas en la sección 2 de tu cuaderno de F1. El worksheet de oferta solo se presenta hoy: se rellena en L7.\n\n**KPI:** 3 frases de resultado escritas en tu cuaderno, una por momento de dolor, y las tres pasan el test del mecanismo — cero nombres de tecnología.",
     "adjuntos": [
      {
       "nombre": "F1-cuaderno-f1.pdf",
@@ -205,11 +240,11 @@
     "pantallaReal": "Scroll rápido de unos 15 s por el worksheet de oferta, solo para presentarlo, avisando expresamente de no rellenarlo aún."
    },
    {
-    "id": "L5",
+    "id": "L6",
     "emoji": "🪜",
     "titulo": "La trampa del aprendiz y tu escalera",
     "duracion": "6-10 min",
-    "descripcion": "El error nº1 del principiante no es cobrar poco: es cobrar demasiado, demasiado pronto. Hoy aceptas la escalera que lo evita y defines tu piloto.\n\n**En esta lección:**\n- La trampa del aprendiz y sus tres consecuencias: devoluciones, promesas infladas y cero presión por aprender.\n- Por qué el piloto se cobra siempre y nunca es gratis: mata curiosos, genera compromiso y te da tu primer caso de éxito.\n- La escalera piloto → proyecto → retainer: la confianza, el trabajo y el cobro de todos los meses.\n- Cuándo se suben precios: con casos y datos, nunca con ansiedad — carrera al fondo vs ciclo premium.\n\n**Tu acción ahora:** con tu día-en-la-vida delante, escribe en tu cuaderno de F1 la frase de tu piloto: \"[dolor concreto de mi avatar] resuelto en [X días] para [mi micro-nicho]\", y debajo la solución del catálogo que lo ejecuta, cruzando ese dolor con la columna de soluciones de la lista de micro-nichos.\n\n**KPI:** frase del piloto escrita (dolor + plazo en días + micro-nicho) y la solución del catálogo elegida, lista para ponerle precio en L6.",
+    "descripcion": "El error nº1 del principiante no es cobrar poco: es cobrar demasiado, demasiado pronto. Hoy aceptas la escalera que lo evita y defines tu piloto.\n\n**En esta lección:**\n- La trampa del aprendiz y sus tres consecuencias: devoluciones, promesas infladas y cero presión por aprender.\n- Por qué el piloto se cobra siempre y nunca es gratis: mata curiosos, genera compromiso y te da tu primer caso de éxito.\n- La escalera piloto → proyecto → retainer: la confianza, el trabajo y el cobro de todos los meses.\n- Cuándo se suben precios: con casos y datos, nunca con ansiedad — carrera al fondo vs ciclo premium, y por qué el precio prémium necesita una buena oferta y un micro-nicho detrás.\n\n**Tu acción ahora:** con tu día-en-la-vida delante, escribe en tu cuaderno de F1 la frase de tu piloto: \"[dolor concreto de mi avatar] resuelto en [X días] para [mi micro-nicho]\", y debajo la solución del catálogo que lo ejecuta, cruzando ese dolor con la columna de soluciones de la lista de micro-nichos.\n\n**KPI:** frase del piloto escrita (dolor + plazo en días + micro-nicho) y la solución del catálogo elegida, lista para ponerle precio en L6.",
     "adjuntos": [
      {
       "nombre": "F1-cuaderno-f1.pdf",
@@ -230,11 +265,11 @@
     "pantallaReal": ""
    },
    {
-    "id": "L6",
+    "id": "L7",
     "emoji": "🧮",
     "titulo": "La matemática de tu precio",
     "duracion": "10-14 min",
-    "descripcion": "Sales de aquí con tres números decididos —piloto, proyecto y retainer— derivados de una división, no de tu miedo ni de mirar a la competencia.\n\n**En esta lección:**\n- La regla de oro 5x: tu techo de precio es el valor que generas dividido entre cinco.\n- Las dos vías para estimar el valor: horas ahorradas × coste/hora, o unidades recuperadas × ticket × tasa de cierre.\n- El ejemplo dental completo, con cifras ilustrativas: 4.000€/mes → ÷5 → 800€ → 9.200€ el año 1 → ROI 5,2x.\n- Las tres zonas de ROI (fuga, sólida, fan), los rangos del programa y por qué nunca compites bajando precio.\n\n**Tu acción ahora:** abre la calculadora y rellénala entera con tu nicho y tu solución: valor mensual, techo, tus tres precios y la comprobación de zona. Si tu techo no llega ni a entrar en los rangos, el problema no es el precio: vuelve hoy mismo a la checklist de L2.\n\n**KPI:** calculadora rellena y guardada, con los tres precios dentro de los rangos del programa y ROI del cliente comprobado ≥5x.",
+    "descripcion": "Sales de aquí con tres números decididos —piloto, proyecto y retainer— derivados de una división, no de tu miedo ni de mirar a la competencia.\n\n**En esta lección:**\n- La regla de oro 5x: tu techo de precio es el valor que generas dividido entre cinco.\n- Las dos vías para estimar el valor: horas ahorradas × coste/hora, o unidades recuperadas × ticket × tasa de cierre.\n- El ejemplo dental completo, con cifras ilustrativas: 4.000€/mes → ÷5 → 800€ → 9.200€ el año 1 → ROI 5,2x.\n- Las tres zonas de ROI (fuga, sólida, fan), los rangos del programa y por qué nunca compites bajando precio.\n\n- Tu suelo: lo que te cuesta entregar más tu margen. Si el suelo sube por encima del techo, ese trabajo no tiene negocio dentro.\n\n**Tu acción ahora:** abre la calculadora y rellénala entera con tu nicho y tu solución: valor mensual, techo, tus tres precios y la comprobación de zona. Si tu techo no llega ni a entrar en los rangos, el problema no es el precio: vuelve hoy mismo a la checklist de L2.\n\n**KPI:** calculadora rellena y guardada, con los tres precios dentro de los rangos del programa y ROI del cliente comprobado ≥5x.",
     "adjuntos": [
      {
       "nombre": "F1-calculadora-pricing.pdf",
@@ -245,11 +280,11 @@
     "pantallaReal": "La calculadora de pricing rellenándose casilla a casilla, en directo, con las cifras del ejemplo dental (documento real del alumno, no una slide)."
    },
    {
-    "id": "L7",
+    "id": "L8",
     "emoji": "✍️",
     "titulo": "Construye tu oferta V1 — en directo",
     "duracion": "12-18 min",
-    "descripcion": "La demo del módulo: construyo una oferta entera delante de ti con el mismo worksheet que vas a rellenar tú. Cuando acabe el vídeo, tu oferta V1 existe, en un documento y con fecha.\n\n**En esta lección:**\n- Los 7 pasos del worksheet en pantalla y sin cortes: quién, resultado medible, método, plazo, red de seguridad, cualificación y precio.\n- La plantilla del programa: \"Ayudo a [nicho] a [resultado medible], con [método en 3-4 palabras] funcionando en 7 días o menos, empezando con un piloto de [alcance acotado]\".\n- El test de la abuela y por qué \"número\" significa unidad contable, no cifra garantizada.\n- La galería de ejemplos diseccionada por componente, y qué significa que sea una V1.\n\n**Tu acción ahora:** rellena el worksheet entero con tu nicho y los precios de tu calculadora de L6, pasa el test de la abuela y marca la casilla \"Oferta V1 terminada\" con la fecha de hoy.\n\n**KPI:** oferta V1 redactada con la plantilla y casilla \"Oferta V1 terminada\" marcada con fecha — el hito maestro de la semana 3.",
+    "descripcion": "La demo del módulo: construyo una oferta entera delante de ti con el mismo worksheet que vas a rellenar tú. Cuando acabe el vídeo, tu oferta V1 existe, en un documento y con fecha.\n\n**En esta lección:**\n- Los 8 pasos del worksheet en pantalla y sin cortes: quién, resultado medible, método, plazo, garantía, cualificación, precio y urgencia.\n- La plantilla del programa: \"Ayudo a [nicho] a [resultado medible], con [método en 3-4 palabras] funcionando en 7 días o menos, empezando con un piloto de [alcance acotado]\".\n- El test de la abuela y por qué \"número\" significa unidad contable, no cifra garantizada.\n- La galería de ejemplos diseccionada por componente, y qué significa que sea una V1.\n\n**Tu acción ahora:** rellena el worksheet entero con tu nicho y los precios de tu calculadora de L6, pasa el test de la abuela y marca la casilla \"Oferta V1 terminada\" con la fecha de hoy.\n\n**KPI:** oferta V1 redactada con la plantilla y casilla \"Oferta V1 terminada\" marcada con fecha — el hito maestro de la semana 3.",
     "adjuntos": [
      {
       "nombre": "F1-worksheet-oferta.pdf",
@@ -267,7 +302,22 @@
       "nota": "De ahí copias los tres precios del Paso 7 (ya descargado en L6)."
      }
     ],
-    "pantallaReal": "LA demo del módulo: worksheet-oferta en blanco a pantalla completa con el cursor parpadeando, y después rellenándose campo a campo en directo y sin cortes (6-8 min, los 7 pasos). Al final, la galería ejemplos-ofertas abierta subrayando cada frase con un color por componente."
+    "pantallaReal": "LA demo del módulo: worksheet-oferta en blanco a pantalla completa con el cursor parpadeando, y después rellenándose campo a campo en directo y sin cortes (6-8 min, los 8 pasos). Al final, la galería ejemplos-ofertas abierta subrayando cada frase con un color por componente."
+   },
+   {
+    "id": "L9",
+    "emoji": "🔗",
+    "titulo": "De la oferta al resto del negocio",
+    "duracion": "6-8 min",
+    "descripcion": "Tienes tu oferta escrita. Ese folio decide los próximos setenta días: a quién buscas, qué escribes en tus anuncios, qué enseñas en tus llamadas, qué construyes en F2 y qué firmas con tu primer cliente. Hoy compruebas que aguanta.\n\n**En esta lección:**\n- La regla de coherencia: si no puedes decir de qué parte de tu oferta salió una idea, es ruido con buena letra.\n- Qué produce cada componente: tu lista de captación, tus ganchos, tu VSL, tu demo, tus objeciones y tu entrega.\n- El scorecard de 14 criterios y cómo se lee la puntuación — con el aviso de que no sustituye al mercado.\n- Deriva tus tres primeros activos sin inventar nada: un gancho, una pregunta de diagnóstico y un seguimiento.\n\n**Tu acción ahora:** puntúa tu oferta con el scorecard, arregla hoy los criterios que hayas puesto a 0 y escribe los tres activos derivados en el mismo documento.\n\n**KPI:** scorecard puntuado con su total, cero criterios en 0 y los 3 activos redactados.",
+    "adjuntos": [
+     {
+      "nombre": "F1-scorecard-oferta.pdf",
+      "tipo": "PDF",
+      "nota": "Los 14 criterios con su lectura de puntuación, la tabla de derivación oferta → activo y los tres primeros activos a redactar."
+     }
+    ],
+    "pantallaReal": "El scorecard rellenándose criterio a criterio y el worksheet de oferta al lado, para señalar de dónde sale cada activo."
    }
   ]
  },
@@ -367,7 +417,7 @@
     "emoji": "🏁",
     "titulo": "Tu demo vendible",
     "duracion": "8-12 min",
-    "descripcion": "Cierras F2 con tu activo de venta completo: demo desplegada en tu URL, guion de presentación de 3 minutos escrito y vídeo de respaldo grabado.\n\n**En esta lección:**\n- De demo técnica a activo de venta con dos retoques que no requieren construir nada: datos verosímiles del nicho y un flujo que cuenta una historia con principio, nudo y desenlace.\n- El guion de 3 minutos: el dolor en SUS palabras → «mira esto» → el resultado en unidad contable y el siguiente paso. Sin precio: eso es materia de F4.\n- El vídeo de respaldo de 2-3 minutos: tu paracaídas si la wifi se cae en llamada, y material de funnel en F3.\n- Dónde vive tu demo a partir de hoy: una URL compartible que es tu credencial —«no me creas, míralo funcionar»—.\n\n**Tu acción ahora:** rellena el guion entero con tu nicho y las reseñas de F1-L3, ensáyalo en voz alta cronometrado y graba el vídeo de respaldo con tu grabador de pantalla.\n\n**KPI:** el hito maestro de F2 — demo desplegada en URL + guion de 3 minutos escrito + vídeo de respaldo grabado, los tres publicados en la comunidad.",
+    "descripcion": "Cierras F2 con tu activo de venta completo: demo desplegada en tu URL, guion de presentación de 3 minutos escrito y vídeo de respaldo grabado.\n\n**En esta lección:**\n- De demo técnica a activo de venta con dos retoques que no requieren construir nada: datos verosímiles del nicho y un flujo que cuenta una historia con principio, nudo y desenlace.\n- El guion de 3 minutos: el dolor en SUS palabras → «mira esto» → el resultado en unidad contable y el siguiente paso. Sin precio: eso es materia de F4.\n- El vídeo de respaldo de 2-3 minutos: tu paracaídas si la wifi se cae en llamada, y material de funnel en F3.\n- Dónde vive tu demo a partir de hoy: una URL compartible que es tu credencial —«no me creas, míralo funcionar»—.\n\n**Tu acción ahora:** rellena el guion entero con tu nicho y las reseñas de F1-L4, ensáyalo en voz alta cronometrado y graba el vídeo de respaldo con tu grabador de pantalla.\n\n**KPI:** el hito maestro de F2 — demo desplegada en URL + guion de 3 minutos escrito + vídeo de respaldo grabado, los tres publicados en la comunidad.",
     "adjuntos": [
      {
       "nombre": "F2-guion-demo-3-min.pdf",
@@ -495,7 +545,7 @@
     "emoji": "✉️",
     "titulo": "Email frío B2B que no da vergüenza (y cumple)",
     "duracion": "10-14 min",
-    "descripcion": "Montas el canal principal de la ruta low-budget: pocos emails, muy personalizados, a una lista construida por ti.\n\n**En esta lección:**\n- Las reglas primero (LSSI/RGPD): buzones corporativos, personalización real, interés legítimo B2B, baja clara en cada email y cero bases compradas. Orientación práctica, no asesoría legal.\n- Tu lista propia: 100-300 negocios de Google Maps y sus webs, con la columna «lo que he visto» que alimenta la personalización — Claude Code hace la paliza, el criterio es tuyo.\n- La secuencia hook → pitch → seguimiento 1 → 2 → cierre, y el trabajo exacto de cada pieza.\n- Cadencia sostenible de 200-400 envíos/semana e higiene de envío; a quien responde, llamada ese mismo día.\n\n**Tu acción ahora:** adapta la secuencia a tu nicho con tu funnel enlazado, monta tu método de seguimiento, construye la lista con los criterios de F1-L2 y haz los primeros 50 envíos esta semana, registrándolos en el tracker.\n**KPI:** lista de 100+ negocios validados + secuencia adaptada + método de seguimiento montado + primeros 50 envíos hechos.",
+    "descripcion": "Montas el canal principal de la ruta low-budget: pocos emails, muy personalizados, a una lista construida por ti.\n\n**En esta lección:**\n- Las reglas primero (LSSI/RGPD): buzones corporativos, personalización real, interés legítimo B2B, baja clara en cada email y cero bases compradas. Orientación práctica, no asesoría legal.\n- Tu lista propia: 100-300 negocios de Google Maps y sus webs, con la columna «lo que he visto» que alimenta la personalización — Claude Code hace la paliza, el criterio es tuyo.\n- La secuencia hook → pitch → seguimiento 1 → 2 → cierre, y el trabajo exacto de cada pieza.\n- Cadencia sostenible de 200-400 envíos/semana e higiene de envío; a quien responde, llamada ese mismo día.\n\n**Tu acción ahora:** adapta la secuencia a tu nicho con tu funnel enlazado, monta tu método de seguimiento, construye la lista con los criterios de F1-L3 y haz los primeros 50 envíos esta semana, registrándolos en el tracker.\n**KPI:** lista de 100+ negocios validados + secuencia adaptada + método de seguimiento montado + primeros 50 envíos hechos.",
     "adjuntos": [
      {
       "nombre": "F3-plantillas-email-frio.pdf",

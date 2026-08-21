@@ -1,4 +1,4 @@
-# L6 | Cómo se decide aquí: datos, no sensaciones
+# L7 | Cómo se decide aquí: datos, no sensaciones
 
 | Fase | Duración objetivo | Recurso vinculado |
 |---|---|---|

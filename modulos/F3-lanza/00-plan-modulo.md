@@ -19,7 +19,7 @@
 ## Adaptaciones estructurales clave (los redactores las siguen a rajatabla)
 
 1. **Solo captación B2B del alumno.** El curso fuente usa ads en dos direcciones (captar clientes B2B + servir a clientes B2C); aquí SOLO existe la primera: anuncios dirigidos a dueños de negocio del micro-nicho del alumno para agendar reuniones. Nada de price-anchoring B2C ni ads de servicio.
-2. **El funnel se construye con Claude Code** (no con herramientas de terceros): el alumno acaba de aprenderlo en F2 y su funnel es en sí mismo una demo de lo que vende. Estructura: página con VSL + demo enlazada + formulario corto cualificador + calendario embebido (Cal.com/Calendly de F0-L8).
+2. **El funnel se construye con Claude Code** (no con herramientas de terceros): el alumno acaba de aprenderlo en F2 y su funnel es en sí mismo una demo de lo que vende. Estructura: página con VSL + demo enlazada + formulario corto cualificador + calendario embebido (Cal.com/Calendly de F0-L9).
 3. **La prueba del principiante es la DEMO, no los casos de éxito.** El "no me creas, verifícame" del VSL fuente (que enseña clientes con teléfono) se adapta honesta: "no me creas — mira la solución funcionando" (URL de la demo + vídeo). PROHIBIDO sugerir testimonios inventados o prueba social prestada; hueco `[PRUEBA SOCIAL: cuando tengas tu primer caso, va aquí]`.
 4. **Cold SMS masivo NO existe en España** (RGPD/LSSI). Su estructura (HPF, drip, llamar al que responde) se trasplanta al **email frío B2B**. WhatsApp en frío: NO (contra RGPD y las condiciones de WhatsApp). Llamada fría B2B: sí con matices.
 5. **Marco legal — regla editorial estricta**: las afirmaciones legales se dan a nivel de flujo, SIN citar artículos concretos, SIEMPRE con la coletilla "esto es orientación práctica, no asesoría legal — valida tu proceso con un profesional". Línea autorizada: "el email comercial en frío está regulado en España (LSSI/RGPD): dirígete a buzones corporativos, personaliza de verdad, justifica el interés legítimo B2B, ofrece baja clara en cada email, jamás compres bases de datos turbias; la llamada en frío a EMPRESAS está permitida con matices (a particulares rige la Lista Robinson)". **Ampliación (ronda de corrección, 20/08): "tu funnel recoge datos personales y usa el pixel: necesita política de privacidad enlazada, aviso/consentimiento de cookies ANTES de disparar el pixel y casilla de consentimiento en el formulario — pídeselo a Claude Code al construirlo"** (misma coletilla). Nada más específico que esto.
@@ -44,7 +44,7 @@
 - Campaña de engagement: 5€/día por adset
 - Email frío: 200-400 envíos/semana sostenibles con personalización real; las tasas del ejemplo SIEMPRE ilustrativas (los KPIs propios salen de su tracker)
 - Llamada fría: la matemática de actividad se enseña con la calculadora inversa (toques → reuniones → clientes), sin prometer tasas
-- Regla de validez transversal: **300 toques / 30 llamadas** (de F0-L6)
+- Regla de validez transversal: **300 toques / 30 llamadas** (de F0-L7)
 - Speed to lead: responder a un lead entrante en **<5 minutos** (benchmark heredado: el primero en responder se lleva la mayoría de las ventas — sin inventar el % exacto; decir "la mayoría")
 
 ## Reglas de estilo

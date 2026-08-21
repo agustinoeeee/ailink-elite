@@ -14,7 +14,7 @@
 
 ## Sección 1 — LinkedIn con criterio (no otro pesado más)
 
-- El perfil no es tu currículum, es tu escaparate: **titular = tu oferta en 8 palabras**, la promesa de tu oferta V1 comprimida. No "Consultor de IA": "Recupero citas caídas para clínicas dentales" (ilustrativo — la tuya vive en tu worksheet de oferta de F1-L7).
+- El perfil no es tu currículum, es tu escaparate: **titular = tu oferta en 8 palabras**, la promesa de tu oferta V1 comprimida. No "Consultor de IA": "Recupero citas caídas para clínicas dentales" (ilustrativo — la tuya vive en tu worksheet de oferta de F1-L8).
 - Foto real, la misma cara que tu página de L4: persona, no logo. En el "acerca de": a quién ayudas, con qué dolor, y el enlace a tu funnel de L2.
 - La regla de oro: **conexión SIN pitch en el primer mensaje**. Conectas con dueños de tu micro-nicho con una línea sobre SU negocio — la investigación de L8 te sirve igual aquí. El que pega su oferta en el primer mensaje se quema el canal.
 - La secuencia natural: conversación → cuando aparece el dolor, el enlace ("mejor que contártelo: míralo funcionando, 1 minuto" + tu funnel de L2, con la demo dentro) → si responde, la agenda — el calendario ya vive en el funnel. Tu funnel hace el trabajo pesado; tú solo abres la puerta.

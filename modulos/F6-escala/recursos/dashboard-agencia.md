@@ -28,7 +28,7 @@
 
 - [ ] Día 1 del mes: dashboard relleno con los trackers (F3 captación, F4 ventas, fichas F6).
 - [ ] Comparado con el mes anterior: ¿qué número es el PEOR respecto a su benchmark?
-- [ ] UNA decisión escrita, con Más/Mejor/Nuevo (F0-L4): __________________________________________
+- [ ] UNA decisión escrita, con Más/Mejor/Nuevo (F0-L5): __________________________________________
 - [ ] La decisión convertida en acción con fecha en tu calendario.
 - [ ] (Si toca) señal de alarma detectada → llamada de rescate agendada (F6-L4).
 
@@ -37,7 +37,7 @@
 | Síntoma | Número que mirar | Palanca (y dónde vive) |
 |---|---|---|
 | "Facturo pero no crezco" | Churn de retainers | Sistema de retención y rescates → F6-L2 / F6-L4 |
-| "Crezco pero sin beneficio" | LTGP:CAC | Precios con casos (F1-L6) · coste de captación (F3-L7) |
+| "Crezco pero sin beneficio" | LTGP:CAC | Precios con casos (F1-L7) · coste de captación (F3-L7) |
 | "Todo depende de mí" | Horas por entrega | Tu fábrica de plantillas → F5-L7 |
 | "Entran pocos clientes nuevos" | Referral % y CAC | Referidos en cada quincenal (F6-L5) · volumen del canal (F3) |
 | "Cada mes empieza en cero" | MRR | La propuesta de retainer → F6-L3 |

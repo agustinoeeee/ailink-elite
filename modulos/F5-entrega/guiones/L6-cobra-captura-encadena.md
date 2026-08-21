@@ -14,7 +14,7 @@
 
 - Si lo entregado es un piloto, aquí no hay nada que cobrar: se pagó por adelantado en la llamada (F4). Si es un proyecto, el acuerdo era 50% al arrancar y 50% a la entrega `[BORRADOR]` — y ese 50% restante se envía **el día de la entrega**, no "cuando cierre el mes". Los importes son los de tu escalera de F1; aquí no se repiten cifras.
 - ¿Por qué el mismo día? Porque el valor percibido tiene su máximo en el momento del "wow", con los criterios de aceptación que pactasteis en L2 recién marcados juntos. Cada día que dejas pasar entre la firma y la factura, cobras lo mismo pero se paga con menos ganas.
-- La fricción ya la quitaste: tarjeta guardada en Stripe desde el primer cobro (F0/F4). La factura llega con un mensaje corto que remata, no que negocia.
+- La fricción ya la quitaste: tarjeta guardada en tu pasarela desde el primer cobro (F0/F4). La factura llega con un mensaje corto que remata, no que negocia.
 
 [PANTALLA: mensaje modelo de cobro — "Criterios firmados y solución en marcha ✔ Te acabo de enviar la factura del 50% restante, como acordamos al arrancar. Un placer trabajar así."]
 

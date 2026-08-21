@@ -4,7 +4,7 @@
 
 ## LA REGLA 30 (imprímela encima del tracker)
 
-> **Nada de tu proceso de ventas se juzga antes de 30 llamadas REALIZADAS.** Realizadas, no agendadas: reuniones donde te sentaste con el dueño del negocio. Por la regresión a la media (F0-L6): puedes encadenar 20-25 noes seguidos y cerrar 5 seguidas después — con menos de 30, tu close rate no es un dato, es una anécdota. Hasta la llamada 30: registrar, analizar cada llamada con Claude, practicar… y volver a llamar. Ni "mi oferta no funciona", ni "voy a rehacer mi framework". Volumen.
+> **Nada de tu proceso de ventas se juzga antes de 30 llamadas REALIZADAS.** Realizadas, no agendadas: reuniones donde te sentaste con el dueño del negocio. Por la regresión a la media (F0-L7): puedes encadenar 20-25 noes seguidos y cerrar 5 seguidas después — con menos de 30, tu close rate no es un dato, es una anécdota. Hasta la llamada 30: registrar, analizar cada llamada con Claude, practicar… y volver a llamar. Ni "mi oferta no funciona", ni "voy a rehacer mi framework". Volumen.
 
 Y cuando tengas las 30, el marco Más/Mejor/Nuevo (F0, de Alex Hormozi) decide:
 

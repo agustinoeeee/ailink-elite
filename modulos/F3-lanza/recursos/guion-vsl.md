@@ -22,7 +22,7 @@
 
 ## Bloque 1 — A quién ayudo y con qué dolor *(orientativo: 30-45 s)*
 
-El saludo a tu nicho y su dolor en las palabras literales de tus reseñas de F1-L3. Quien no sea tu cliente ideal debe irse aquí — eso también es fricción bien usada.
+El saludo a tu nicho y su dolor en las palabras literales de tus reseñas de F1-L4. Quien no sea tu cliente ideal debe irse aquí — eso también es fricción bien usada.
 
 **Frase sugerida:** "Si tienes [tipo de negocio] y [dolor en las palabras de tus reseñas], este vídeo es para ti."
 

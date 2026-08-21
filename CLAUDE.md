@@ -37,7 +37,7 @@ Tampoco: «aplicar» en intransitivo («aplicar al programa»), «andando», «n
 - **Los rangos de precio solo se enseñan en F1.** Ningún otro módulo los cita.
 - **Nada marcado `⛔ NO PUBLICAR` llega al alumno**: guiones, `kpis.md`, `notas-fuente.md`, `00-plan-modulo.md`, los briefs de `diseno/` y `modulos/F0-bienvenido/guia-interna-operador.md`.
 - **`[BORRADOR]` significa sin validar.** Son cifras que solo puede cerrar Agustín. No se dan por buenas, no se maquetan y nunca aparecen dentro del copy de una pizarra: ahí va la versión cualitativa («la parte restante», no «el 50% restante»).
-- **La promesa es una y literal:** +10.000€ de facturación acumulada al final de los 90 días (total, no mensual).
+- **La promesa es una y literal:** +5.000€ de facturación acumulada al final de los 90 días (total, no mensual), y para cumplirla bastan 1-3 clientes.
 
 ## Estándares de cada pieza
 

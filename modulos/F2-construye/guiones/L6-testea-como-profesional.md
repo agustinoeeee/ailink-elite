@@ -14,7 +14,7 @@
 
 ## Sección 1 — Testear no es opcional: es la última fase de construir
 
-- Recuperar el error 6 de F0-L5 y subirlo de categoría: en F0 era una advertencia; ahora que tienes demo, es tu problema concreto. "El cliente no recuerda las diez cosas que funcionaron. Recuerda la pantalla en blanco."
+- Recuperar el error 6 de F0-L6 y subirlo de categoría: en F0 era una advertencia; ahora que tienes demo, es tu problema concreto. "El cliente no recuerda las diez cosas que funcionaron. Recuerda la pantalla en blanco."
 - El reencuadre completo: tu demo se va a romper, eso es seguro — lo construido por iteración siempre tiene grietas. La única variable que controlas es DÓNDE se rompe: "hoy, contigo, gratis — o el jueves, en la llamada, carísimo".
 - Por eso el testeo no es un extra para perfeccionistas: es la última fase de construir. Una demo sin testear no está terminada; está a medias con buena pinta.
 

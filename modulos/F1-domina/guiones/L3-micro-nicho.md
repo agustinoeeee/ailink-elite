@@ -1,4 +1,4 @@
-# L2 | Micro-nicho: elige dónde ser el rey
+# L3 | Micro-nicho: elige dónde ser el rey
 
 | Fase | Duración objetivo | Recurso vinculado |
 |---|---|---|
@@ -8,14 +8,15 @@
 
 ## Gancho (0:00-0:20)
 
-"Hoy sales de este vídeo con tu micro-nicho elegido. No 'casi'. Elegido, escrito y firmado. Y antes voy a desmontarte las cinco excusas que te tienen paralizado — porque yo también me las creí todas."
+"Hoy sales de este vídeo con tu micro-nicho elegido. No 'casi'. Elegido, escrito y firmado. Tienes delante los candidatos que puntuaste ayer en tu matriz: de ahí sale el ganador. Y antes voy a desmontarte las cinco excusas que te tienen paralizado — porque yo también me las creí todas."
 
 [PANTALLA: título "ELIGE DÓNDE SER EL REY" sobre un mapa de España con cientos de puntos de negocios encendiéndose]
 
 ## Sección 1 — Industria ≠ nicho
 
 - Conecta con L1: el mercado es la primera palanca. El nicho ES tu mercado. Hoy eliges el tablero.
-- La confusión que mata a los principiantes: **"salud" es una industria; "clínicas dentales de tu provincia" es un micro-nicho**. "Inmobiliario" es industria; "inmobiliarias de alquiler de tu ciudad" es micro-nicho.
+- Y conecta con L2: no eliges desde cero ni desde el gusto. Eliges entre **los candidatos que puntuaste en tu matriz de ventajas** — donde coinciden tu dominio, tu acceso, la urgencia del problema y tus ganas. La lista del programa está para inspirarte y para calibrar, no para sustituir a tu matriz.
+- La confusión que mata a los principiantes: **"salud" es una industria; "clínicas dentales en España que atienden +20 pacientes al día" es un micro-nicho**. "Inmobiliario" es industria; "inmobiliarias de lujo que facturan +100K al mes" es micro-nicho.
 - Por qué micro: en la industria compites contra todo el mundo y no eres nadie. En el micro-nicho puedes ser EL especialista en semanas: mismo idioma, mismos dolores, mismo caso de éxito que se repite de cliente en cliente.
 - Matiz que baja la presión: equivocarte hoy no es fatal — dentro de una misma industria, las verticales cercanas comparten juego. De fisioterapia a dental cambias vocabulario, no el juego: siguen siendo citas, teléfono y agenda. Pero este consuelo solo vale AHORA, en el momento de elegir: una vez firmes la checklist, anteojeras y regla 300/30.
 
@@ -33,12 +34,12 @@
 
 ## Sección 3 — La matemática que te tranquiliza
 
-[PANTALLA: pizarra con "PROMESA: +10.000€ ACUMULADOS al final de los 90 días → 2-4 clientes" y debajo "tu micro-nicho en España: MILES de negocios"]
+[PANTALLA: pizarra con "PROMESA: +5.000€ ACUMULADOS al final de los 90 días → 1-3 clientes" y debajo "tu micro-nicho en España: MILES de negocios"]
 
-- Recuerda la promesa que aceptaste al entrar: +10.000€ de facturación acumulada al final de los 90 días.
-- ¿Cuántos clientes necesitas para eso con la escalera piloto → proyecto → retainer? **Entre 2 y 4.** Los números exactos los fijas en L6 con la calculadora; hoy quédate con la escala.
+- Recuerda la promesa que aceptaste al entrar: +5.000€ de facturación acumulada al final de los 90 días.
+- ¿Cuántos clientes necesitas para eso con la escalera piloto → proyecto → retainer? **Entre 1 y 3.** Los números exactos los fijas en L7 con la calculadora; hoy quédate con la escala.
 - En España hay MILES de negocios en cada micro-nicho de la lista. Haz la prueba: abre Google Maps, busca tu candidato en tres ciudades y cuenta.
-- "No necesitas gustarle a un sector entero. Necesitas 2-4 síes entre miles de puertas. Ese es el juego real, y es un juego ganable."
+- "No necesitas gustarle a un sector entero. Necesitas 1-3 síes entre miles de puertas. Ese es el juego real, y es un juego ganable."
 
 ## Sección 4 — Elige hoy: la lista y la checklist
 
@@ -59,7 +60,7 @@
 
 ## Cierre + CTA
 
-- Recap en 2 frases: la industria es el océano y el micro-nicho tu charca, donde puedes ser el rey en semanas. Las cinco excusas eran ruido; la matemática dice que con 2-4 clientes entre miles de negocios cumples la promesa.
+- Recap en 2 frases: la industria es el océano y el micro-nicho tu charca, donde puedes ser el rey en semanas. Las cinco excusas eran ruido; la matemática dice que con 1-3 clientes entre miles de negocios cumples la promesa.
 - **Acción del alumno AHORA:** abre la lista, escoge 1-3 candidatos, pásalos por la checklist y elige UNO. Rellena el bloque de decisión final con fecha y firma.
 - **KPI de esta lección:** checklist completada con las 5 preguntas eliminatorias en "sí", nombre del micro-nicho escrito y firma de anteojeras 90 días con fecha.
 - Puente: "Ya sabes dónde juegas. En la próxima lección vas a conocer a la persona a la que vas a ayudar — mejor de lo que se conoce ella misma. Ahí es donde empieza el dinero de verdad."

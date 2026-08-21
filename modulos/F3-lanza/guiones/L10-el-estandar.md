@@ -16,7 +16,7 @@
 
 - La frase: "en fase de captación, tu día es UNA cosa — conseguir reuniones y convertirlas en clientes. Todo lo demás es decoración."
 - El estándar del programa: **80% del tiempo en captación, 20% en el resto** (demo, mejoras, aprendizaje). Sí, has leído bien el orden.
-- Sé lo que estás pensando: "debería pulir mi solución y, con lo que sobre, captar". Es exactamente al revés, y no por épica del esfuerzo, sino por sistema: tu demo no mejora en el vacío. Mejora delante de dueños de negocio reales que te dicen qué les duele y qué no entienden. Es el método científico de F0-L6: sin datos del mercado no hay iteración posible. Cada reunión es captación Y desarrollo de producto a la vez.
+- Sé lo que estás pensando: "debería pulir mi solución y, con lo que sobre, captar". Es exactamente al revés, y no por épica del esfuerzo, sino por sistema: tu demo no mejora en el vacío. Mejora delante de dueños de negocio reales que te dicen qué les duele y qué no entienden. Es el método científico de F0-L7: sin datos del mercado no hay iteración posible. Cada reunión es captación Y desarrollo de producto a la vez.
 - "La solución perfecta sin reuniones factura exactamente lo mismo que ninguna solución: cero."
 
 ## Sección 2 — El avión
@@ -38,9 +38,9 @@
 
 ## Sección 4 — Más, antes que mejor o nuevo
 
-- Aplica el marco de F0-L4 a la captación: antes de buscar algo NUEVO (otro canal) o MEJOR (retocar la secuencia por enésima vez), pregúntate si has hecho MÁS. Casi siempre la respuesta es más volumen en el canal que ya funciona.
+- Aplica el marco de F0-L5 a la captación: antes de buscar algo NUEVO (otro canal) o MEJOR (retocar la secuencia por enésima vez), pregúntate si has hecho MÁS. Casi siempre la respuesta es más volumen en el canal que ya funciona.
 - No montes el segundo canal hasta exprimir el primero. El segundo canal a medias no suma: divide.
-- Y señal contra ruido, de F0-L3: la rutina de mañanas perfecta, el diario de gratitud, el vídeo de motivación — nada de eso factura. No hay método mágico: los resultados llegan por inputs correctos repetidos, y las creencias correctas llegan después, empujadas por los resultados. No al revés.
+- Y señal contra ruido, de F0-L4: la rutina de mañanas perfecta, el diario de gratitud, el vídeo de motivación — nada de eso factura. No hay método mágico: los resultados llegan por inputs correctos repetidos, y las creencias correctas llegan después, empujadas por los resultados. No al revés.
 - "Aburrido y repetido es exactamente como tiene que sentirse. La captación no se evalúa por sensaciones: se lee en el tracker, con las reglas de L7."
 
 ## Sección 5 — El contrato contigo

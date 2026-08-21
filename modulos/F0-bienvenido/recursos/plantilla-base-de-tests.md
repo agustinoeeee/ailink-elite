@@ -1,6 +1,6 @@
 # Plantilla base de tests
 
-> Recurso de F0 · vinculado a L6 «Cómo se decide aquí: datos, no sensaciones».
+> Recurso de F0 · vinculado a la lección «Cómo se decide aquí: datos, no sensaciones».
 > Copia la tabla a Google Sheets o Notion y trabaja siempre ahí. Esta es tu máquina de decisiones: aquí no se opina, se testea.
 
 ## Cómo se usa (5 líneas)

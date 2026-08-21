@@ -20,7 +20,7 @@
 
 ## Sección 2 — Tu lista: propia o nada
 
-- Nada de comprar bases. Tu lista se construye con dos fuentes que ya conoces: Google Maps de tu nicho en tu zona y la web de cada negocio. Los criterios de filtrado son los de tu checklist de validación de nicho (F1-L2) — los mismos con los que lo validaste: que facturen lo suficiente, que el dolor recurrente y medible esté a la vista y que ya paguen por resolver problemas.
+- Nada de comprar bases. Tu lista se construye con dos fuentes que ya conoces: Google Maps de tu nicho en tu zona y la web de cada negocio. Los criterios de filtrado son los de tu checklist de validación de nicho (F1-L3) — los mismos con los que lo validaste: que facturen lo suficiente, que el dolor recurrente y medible esté a la vista y que ya paguen por resolver problemas.
 - Volumen de arranque: 100-300 negocios. Menos no da muestra; más, a estas alturas, es procrastinar con hoja de cálculo.
 - Columnas mínimas: negocio, web, email corporativo (la dirección de contacto pública del negocio — nunca el buzón personal de nadie), teléfono y una columna que casi nadie rellena: "lo que he visto" — la observación concreta de SU negocio que alimentará tu personalización.
 - Aquí Claude Code te ahorra la parte pesada: pásale tu lista de webs y pídele un borrador de observación concreta por negocio (qué ofrece, qué reseñas destacan, qué falta en su web). Tú revisas una a una — el criterio es tuyo, la paliza es suya.
@@ -58,6 +58,6 @@
 ## Cierre + CTA
 
 - Recap en 2 frases: "Tu sistema de email frío es una lista propia de 100-300 negocios investigados, una secuencia hook → pitch → seguimiento — el hook pregunta, el pitch enlaza tu funnel, los seguimientos aportan — y una llamada el mismo día a todo el que responda. Cumple las reglas no por miedo, sino porque personalizar y elegir bien a quién escribes ES lo que consigue respuestas."
-- **Acción del alumno AHORA:** abre `recursos/plantillas-email-frio.md` y `recursos/rgpd-captacion.md`, adapta la secuencia a tu nicho con tu funnel enlazado, monta tu método de seguimiento, construye tu lista con los criterios de F1-L2 y haz los primeros 50 envíos esta semana — registrándolos en el tracker.
+- **Acción del alumno AHORA:** abre `recursos/plantillas-email-frio.md` y `recursos/rgpd-captacion.md`, adapta la secuencia a tu nicho con tu funnel enlazado, monta tu método de seguimiento, construye tu lista con los criterios de F1-L3 y haz los primeros 50 envíos esta semana — registrándolos en el tracker.
 - **KPI de esta lección:** lista de 100+ negocios validados + secuencia adaptada + método de seguimiento montado + primeros 50 envíos hechos.
 - Puente: "Ya tienes un canal trabajando por escrito. En L9 sumamos los otros dos de tu ruta: LinkedIn con criterio y la llamada que agenda reuniones en directo — porque al que responde hay que llamarle, y quiero que descuelgues sin miedo."

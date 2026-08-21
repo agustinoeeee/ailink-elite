@@ -57,7 +57,7 @@ Los dos CSV de F4 van en el mismo documento, en dos pestañas: llámalas **`Diar
 
 - **Mes** (A) — el mes que cierras.
 - **Número atacado** (B) — cuál de los 6 estaba peor respecto a su benchmark.
-- **Decisión (Más/Mejor/Nuevo)** (C) — UNA decisión escrita, con el marco de F0-L4.
+- **Decisión (Más/Mejor/Nuevo)** (C) — UNA decisión escrita, con el marco de F0-L5.
 - **Resultado al mes siguiente** (D) — se rellena 30 días después, cuando ya tienes el dato.
 
 ## Fórmulas recomendadas (pégalas tú)
@@ -167,7 +167,7 @@ Semáforo del suelo 3:1, en una celda libre (siendo E7 tu LTGP:CAC de este mes):
 
 ### LA REGLA 30 (imprímela encima del tracker)
 
-**Nada de tu proceso de ventas se juzga antes de 30 llamadas REALIZADAS.** Realizadas, no agendadas: reuniones donde te sentaste con el dueño del negocio. Por la regresión a la media (F0-L6) puedes encadenar 20-25 noes seguidos y cerrar 5 seguidas después: con menos de 30, tu close rate no es un dato, es una anécdota. Hasta la llamada 30 toca registrar, analizar cada llamada con Claude, practicar… y volver a llamar. Ni «mi oferta no funciona», ni «voy a rehacer mi framework». Volumen.
+**Nada de tu proceso de ventas se juzga antes de 30 llamadas REALIZADAS.** Realizadas, no agendadas: reuniones donde te sentaste con el dueño del negocio. Por la regresión a la media (F0-L7) puedes encadenar 20-25 noes seguidos y cerrar 5 seguidas después: con menos de 30, tu close rate no es un dato, es una anécdota. Hasta la llamada 30 toca registrar, analizar cada llamada con Claude, practicar… y volver a llamar. Ni «mi oferta no funciona», ni «voy a rehacer mi framework». Volumen.
 
 Y cuando tengas las 30, decides con Más/Mejor/Nuevo:
 
@@ -197,7 +197,7 @@ Churn **< 5%/mes** · referral % **>** churn % · **LTGP:CAC ≥ 3:1** (el suelo
 
 - [ ] Día 1 del mes: dashboard relleno con los trackers (F3 captación, F4 ventas, fichas F6).
 - [ ] Comparado con el mes anterior: ¿qué número es el PEOR respecto a su benchmark?
-- [ ] UNA decisión escrita, con Más/Mejor/Nuevo (F0-L4).
+- [ ] UNA decisión escrita, con Más/Mejor/Nuevo (F0-L5).
 - [ ] La decisión convertida en acción con fecha en tu calendario.
 - [ ] (Si toca) señal de alarma detectada → llamada de rescate agendada (F6-L4).
 
@@ -210,7 +210,7 @@ No va en CSV porque es tabla de consulta, no de registro:
 | Síntoma | Número que mirar | Palanca (y dónde vive) |
 |---|---|---|
 | «Facturo pero no crezco» | Churn de retainers | Sistema de retención y rescates → F6-L2 / F6-L4 |
-| «Crezco pero sin beneficio» | LTGP:CAC | Precios con casos (F1-L6) · coste de captación (F3-L7) |
+| «Crezco pero sin beneficio» | LTGP:CAC | Precios con casos (F1-L7) · coste de captación (F3-L7) |
 | «Todo depende de mí» | Horas por entrega | Tu fábrica de plantillas → F5-L7 |
 | «Entran pocos clientes nuevos» | Referral % y CAC | Referidos en cada quincenal (F6-L5) · volumen del canal (F3) |
 | «Cada mes empieza en cero» | MRR | La propuesta de retainer → F6-L3 |

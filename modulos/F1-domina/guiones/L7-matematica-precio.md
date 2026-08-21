@@ -1,4 +1,4 @@
-# L6 | La matemática de tu precio
+# L7 | La matemática de tu precio
 
 | Fase | Duración objetivo | Recurso vinculado |
 |---|---|---|
@@ -62,7 +62,7 @@ Regla de estimación: "Elige la vía dominante de TU solución y estima siempre 
 
 Un matiz previo: "Si tu vía A no llega al techo, calcula la vía B antes de descartar nada — muchas soluciones que ahorran horas también salvan ingresos, y la que manda es la mayor de las dos."
 
-Regla dura: "Si tu techo — valor ÷ 5 — no te deja ni entrar en los rangos, el problema NO es el precio. Es el nicho o la solución que elegiste: el dolor no cuesta suficiente dinero. Vuelve a la checklist de L2 antes de seguir. Mejor descubrirlo hoy que en la llamada 20."
+Regla dura: "Si tu techo — valor ÷ 5 — no te deja ni entrar en los rangos, el problema NO es el precio. Es el nicho o la solución que elegiste: el dolor no cuesta suficiente dinero. Vuelve a la checklist de L3 antes de seguir. Mejor descubrirlo hoy que en la llamada 20."
 
 ## Sección 6 — LTGP:CAC, tu métrica de salud
 
@@ -70,11 +70,23 @@ Regla dura: "Si tu techo — valor ÷ 5 — no te deja ni entrar en los rangos, 
 
 ## Sección 7 — Nunca compitas a precio
 
-"Última regla y cierro: jamás ganes un cliente bajando el precio. Ya viste en L5 a dónde lleva la carrera al fondo. Tú compites en tres cosas: resultado medible, plazo — entregas en días gracias a Claude Code — y riesgo, porque empiezas con un piloto acotado. Si un cliente solo compra por precio, no es tu cliente: recuerda la cualificación de L4."
+"Última regla y cierro: jamás ganes un cliente bajando el precio. Ya viste en L6 a dónde lleva la carrera al fondo. Tú compites en tres cosas: resultado medible, plazo — entregas en días gracias a Claude Code — y riesgo, porque empiezas con un piloto acotado. Si un cliente solo compra por precio, no es tu cliente: recuerda la cualificación de L5."
+
+## Sección 6 — El otro límite: tu suelo
+
+- La regla 5x te da el **techo**: lo máximo que puedes cobrar sin dejar al cliente en zona de fuga. Pero hay un segundo límite del que casi nadie habla, y es el que te arruina si lo ignoras: **tu suelo**.
+- Tu suelo es lo que te cuesta a ti entregar bien ese trabajo. Se calcula sumando cinco cosas, y están en la última parte de la calculadora: las horas de diagnóstico, las horas de construcción, lo que pagas en herramientas y servicios, un colchón de imprevistos y el soporte de los primeros meses.
+- Sobre esa suma va tu margen. "Si cobras justo lo que te cuesta, no tienes un negocio: tienes un trabajo mal pagado con más riesgo."
+
+[PANTALLA: una barra horizontal con SUELO (coste + margen) a la izquierda, TECHO (valor ÷ 5) a la derecha y la zona de en medio rotulada "aquí vive tu precio"]
+
+- Tu precio vive entre esos dos números. Y la lectura importante es lo que pasa cuando se cruzan: **si tu suelo se sube por encima de tu techo, ese trabajo no tiene negocio dentro**. No bajes tu margen para que salga: o el dolor que has elegido no cuesta suficiente dinero, o has metido en el alcance cosas que no tocaban.
+- Aviso para principiantes, que es donde se equivoca todo el mundo: las primeras veces vas a tardar el doble de lo que estimes. Ese es el motivo real del piloto barato — no es generosidad, es que todavía no sabes cuánto te cuesta entregar.
 
 ## Cierre + CTA
 
+- Recuerda los dos límites: el techo lo pone tu cliente (valor ÷ 5) y el suelo lo pones tú (coste + margen). Entre los dos está tu precio.
 - Recap en 2 frases: "Tu precio máximo es el valor que generas dividido entre 5, estimado por horas ahorradas o por ingreso extra. Con eso sitúas piloto, proyecto y retainer dentro de los rangos del programa, apuntando a la zona sólida de 5-10x."
-- **Acción del alumno AHORA:** abre `recursos/calculadora-pricing.md` y rellénala entera con tu nicho y tu solución: valor mensual, techo, tus tres precios y la comprobación de zona. Si el techo no llega al rango, vuelve a la checklist de L2 hoy mismo.
+- **Acción del alumno AHORA:** abre `recursos/calculadora-pricing.md` y rellénala entera con tu nicho y tu solución: valor mensual, techo, tus tres precios y la comprobación de zona. Si el techo no llega al rango, vuelve a la checklist de L3 hoy mismo.
 - **KPI de esta lección:** calculadora rellena y guardada con los tres precios fijados dentro de los rangos del programa y ROI del cliente comprobado ≥5x.
 - Puente: "Nicho, avatar, anatomía, escalera y ahora precios. Ya tienes todas las piezas sobre la mesa. En la próxima lección las montamos juntas: construyo una oferta V1 entera, en directo, delante de ti."

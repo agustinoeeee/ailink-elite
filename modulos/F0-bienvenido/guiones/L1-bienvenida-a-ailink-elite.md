@@ -14,7 +14,7 @@
 
 ## Sección 1 — La promesa (y por qué no es humo)
 
-- La promesa del programa: **+10.000€ de facturación acumulada al final de los 90 días con tu propia agencia de IA** — es el total facturado al terminar, no una cifra al mes.
+- La promesa del programa: **+5.000€ de facturación acumulada al final de los 90 días con tu propia agencia de IA** — es el total facturado al terminar, no una cifra al mes.
 - Qué vendes exactamente: soluciones de IA — software y automatizaciones construidas con Claude Code — a negocios que las necesitan y no saben implementarlas.
 - El modelo es de **entregables**, con dos patas:
   - **Proyecto**: cobras por construir la solución.
@@ -29,13 +29,20 @@
 - Cada módulo tiene el mismo ADN, siempre:
   1. **Lección** — lo que necesitas saber, sin relleno.
   2. **Recurso descargable** — plantilla, checklist o guion listo para usar.
-  3. **Demo real** — lo ves hecho, no contado. (En F0 la demo son las pantallas en directo del setup de L8 — Stripe, calendario; las demos de construcción empiezan en F1-F2.)
+  3. **Demo real** — lo ves hecho, no contado. (En F0 la demo son las pantallas en directo del setup de L9 — Stripe, calendario; las demos de construcción empiezan en F1-F2.)
   4. **KPI** — un número para medirte. Si no llegas al número, no avanzas a ciegas: corriges.
 - "Aquí no se aprueba por ver vídeos. Se aprueba por ejecutar y medir."
 - [PANTALLA: los 4 iconos del ADN de lección — lección, recurso, demo, KPI — apareciendo uno a uno]
 
 ## Sección 3 — Cómo funciona el programa
 
+- Antes del mapa, la foto de lo que vas a construir. Una agencia se sostiene sobre **cuatro pilares**, y no hay un quinto:
+  1. **Oferta** — qué problema valioso resuelves, para quién y con qué resultado.
+  2. **Adquisición** — cómo consigues que la gente correcta te encuentre y se siente contigo.
+  3. **Venta** — cómo diagnosticas, demuestras y consigues una decisión.
+  4. **Entrega** — cómo lo implementas, lo mides y lo sostienes.
+- Las seis fases del programa son esos cuatro pilares repartidos en el orden en que hay que construirlos. Y el primero manda sobre los otros tres: "si la oferta está mal, no hay anuncio, ni llamada, ni entrega que lo arregle. Por eso empezamos por ahí y no por herramientas."
+- [PANTALLA: cuatro columnas — OFERTA · ADQUISICIÓN · VENTA · ENTREGA — y debajo de cada una, las fases que la construyen]
 - **6 fases + onboarding**, con desbloqueo progresivo: el CONTENIDO se abre en orden (cada fase se desbloquea al cumplir el KPI de la anterior), pero el TRABAJO se solapa a propósito a partir de Lanza — vendes y entregas a la vez, lo verás en tu roadmap. El orden te protege de saltar a vender sin tener nada que enseñar.
 - Recorrido de 30 segundos por las fases:
   - **F0 Bienvenido** — donde estás: kick-off, mentalidad, setup.

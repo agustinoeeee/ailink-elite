@@ -5,10 +5,11 @@
 | KPI | Objetivo | Se mide en |
 |---|---|---|
 | Kick-off call agendada | < 72h desde tu fecha de acceso al programa | L2 |
-| Kick-off call REALIZADA | ≤ 7 días desde el acceso — sin ella, F0 no cuenta como completado | L2 / L8 (cierre) |
+| Kick-off call REALIZADA | ≤ 7 días desde el acceso — sin ella, F0 no cuenta como completado | L2 / L9 (cierre) |
 | Formulario de onboarding completado | Antes de la kick-off | L2 / R4 |
-| Manifiesto de 90 días firmado | Fin de semana 1 | L3 / R1 |
-| Setup de negocio completado (checklist entera) | ≤ 7 días | L8 / R6 |
+| Norte personal completo (5 preguntas + 7 criterios + declaración de propósito) | Antes del manifiesto | L3 / R7 |
+| Manifiesto de 90 días firmado | Fin de semana 1 | L4 / R1 |
+| Setup de negocio completado (checklist entera) | ≤ 7 días | L9 / R6 |
 | Horas/semana comprometidas y declaradas | ≥ 10h/semana (mínimo viable) | R4 |
 | Módulo F0 completado | ≤ 7 días desde el acceso | — |
 
@@ -23,4 +24,4 @@
 
 ## Regla de validez (recordatorio transversal)
 
-Ninguna métrica del alumno es juzgable sin muestra: **300 toques de outreach / 30 llamadas de venta realizadas**. En F0 aún no aplica (no hay captación), pero se instala el principio en L6.
+Ninguna métrica del alumno es juzgable sin muestra: **300 toques de outreach / 30 llamadas de venta realizadas**. En F0 aún no aplica (no hay captación), pero se instala el principio en L7.

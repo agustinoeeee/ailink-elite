@@ -43,17 +43,19 @@
 
 ## Sección 4 — El mapa de F1: el orden importa
 
-[PANTALLA: diagrama de 4 pasos encadenados — NICHO → AVATAR → OFERTA → PRECIO, con las lecciones del módulo debajo de cada paso]
+[PANTALLA: diagrama de 5 pasos encadenados — VENTAJA → NICHO → AVATAR → OFERTA → PRECIO, con las lecciones del módulo debajo de cada paso]
 
-- Nicho (L2): eliges el mercado en el que juegas.
-- Avatar (L3): entiendes a quién le vendes mejor que él mismo.
-- Oferta (L4-L5): construyes el puente.
-- Precio (L6-L7): le pones matemática y lo redactas.
+- Ventaja (L2): antes de elegir el tablero, miras con qué cartas juegas.
+- Nicho (L3): eliges el mercado en el que juegas.
+- Avatar (L4): entiendes a quién le vendes mejor que él mismo.
+- Oferta (L5-L6): construyes el puente.
+- Precio (L7-L8): le pones matemática y lo redactas.
 - Frase sugerida: "cada paso alimenta al siguiente. Saltarte uno es construir el tejado sin paredes. En este orden, y en dos semanas, sales con tu oferta V1 redactada."
+- Y una última pieza al final del módulo: comprobar que esa oferta aguanta y ver todo lo que produce. "Porque tu oferta no es un documento para archivar: es de donde van a salir tu demo, tus anuncios y tus llamadas."
 
 ## Cierre + CTA
 
 - Recap en 2 frases: "El mercado manda más que la oferta, y la oferta manda mucho más que tu habilidad de venta: por eso empezamos por aquí y no por técnicas de cierre. Y hoy juegas con viento a favor, porque los negocios ya saben que necesitan IA — solo les falta el cómo, y el cómo eres tú."
 - **Acción del alumno AHORA:** piensa en 3 negocios reales de tu entorno (el dentista de tu barrio, la gestoría de tu cuñado, el taller de tu calle) y completa para cada uno la frase: "[negocio] sabe que necesita IA para [problema], pero no sabe cómo — ahí entro yo". Escribe la que más te convenza en tu cuaderno de F1 (recursos/cuaderno-f1.md) y publícala en la comunidad.
 - **KPI de esta lección:** frase del hueco publicada en la comunidad (o escrita en tu cuaderno de F1 — recursos/cuaderno-f1.md — si aún no la quieres compartir) con un tipo de negocio real y un problema concreto — hecho verificable, no "ya lo pensaré".
-- Puente: "ya sabes que el mercado es el nivel que más pesa. En la próxima lección lo eliges: tu micro-nicho, el rincón del mapa donde vas a ser el rey."
+- Puente: "ya sabes que el mercado es el nivel que más pesa. Pero antes de elegir dónde juegas, toca mirar con qué cartas juegas: en la próxima lección haces tu inventario de ventajas, y de ahí saldrán los candidatos a nicho."

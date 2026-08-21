@@ -7,7 +7,7 @@
 > **Salida:** un archivo por pieza, `F1-nombre-del-recurso.pdf`.
 
 
-## Qué se diseña (7 piezas)
+## Qué se diseña (10 piezas)
 
 | Archivo de origen | Formato | Páginas | Archivo de salida |
 |---|---|---|---|
@@ -18,6 +18,18 @@
 | `worksheet-oferta.md` | PDF A4 | 2-3 | `F1-worksheet-oferta.pdf` |
 | `ejemplos-ofertas.md` | PDF A4 | 3-4 | `F1-ejemplos-ofertas.pdf` |
 | `cuaderno-f1.md` | PDF A4 | 1-2 | `F1-cuaderno-f1.pdf` |
+
+## Piezas añadidas el 20/08/2026
+
+| Archivo | Formato | Páginas | Nombre de salida |
+|---|---|---|---|
+| `inventario-ventajas.md` | PDF A4 | 2 | `F1-inventario-ventajas.pdf` |
+| `catalogo-oportunidades.md` | PDF A4 | 2-3 | `F1-catalogo-oportunidades.pdf` |
+| `scorecard-oferta.md` | PDF A4 | 2 | `F1-scorecard-oferta.pdf` |
+
+- **Inventario de ventajas** — worksheet en cuatro partes; la matriz de candidatos es el héroe y debe caber entera en una página, sin partirse. La tabla de hechos necesita filas altas: el alumno escribe frases, no palabras sueltas.
+- **Catálogo de oportunidades** — el único de los tres que no se rellena: página de consulta, puede ir más denso. Las 8 capas arriba, las 8 áreas en tarjetas y el bloque «cuándo NO automatizar» como franja de aviso.
+- **Scorecard de oferta** — ficha de puntuación: 14 filas con casillas 0/1/2 marcables a bolígrafo y el total sobre 28 visible desde lejos. La barra de lectura (0-14 / 15-22 / 23-28) es el segundo elemento en jerarquía.
 
 ## Dirección por pieza
 
@@ -43,7 +55,7 @@ Es el hito maestro de la semana 3, y tiene que notarse: los 8 pasos como recorri
 
 ### ejemplos-ofertas
 
-Galería de fichas: cada una de las 8 ofertas con la frase entrecomillada en grande (se lee sola, sin contexto) y el 'por qué funciona' en cuerpo pequeño debajo. Usa el mismo código de color por componente que la pizarra de L7 (resultado / plazo / método / red de seguridad / cualificación). El aviso de 'inspirar y calibrar, NO copiar literal' va arriba del todo, imposible de saltar.
+Galería de fichas: cada una de las 8 ofertas con la frase entrecomillada en grande (se lee sola, sin contexto) y el 'por qué funciona' en cuerpo pequeño debajo. Usa el mismo código de color por componente que la pizarra de L7 (resultado / plazo / método / garantía / cualificación). El aviso de 'inspirar y calibrar, NO copiar literal' va arriba del todo, imposible de saltar.
 
 ### cuaderno-f1
 

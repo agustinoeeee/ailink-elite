@@ -1,4 +1,4 @@
-# L7 | Tu roadmap de 90 días
+# L8 | Tu roadmap de 90 días
 
 | Fase | Duración objetivo | Recurso vinculado |
 |---|---|---|
@@ -30,21 +30,21 @@
 - Dentro del mapa hay 5 hitos que marcan si vas bien. Todo lo demás es ruido de calendario.
   1. **Oferta definida** — fin de S3.
   2. **Demo funcionando + guion de 3 min + vídeo de respaldo** — fin de S4.
-  3. **Primeras reuniones agendadas** — S5-6.
-  4. **Primer cliente cerrado** — rango honesto: **S6 a S9**.
-  5. **Primer retainer firmado** — S10-12.
+  3. **Primeras reuniones agendadas** — S6-7.
+  4. **Primer cliente cerrado** — rango honesto: **S7 a S10**.
+  5. **Primer retainer firmado** — S11-12.
 - Sobre el hito 4, párate y di esto casi literal:
 - "Algunos cierran su primer cliente en la semana 5. Otros necesitan hasta la 9 o más. Quien te prometa la fecha exacta te está mintiendo. Lo que sí es exacto es la matemática de actividad: X toques generan Y reuniones, e Y reuniones generan Z clientes. La fecha no la controlas. La actividad, sí."
-- Conecta con L6: por eso las reglas de validez del programa (300 toques / 30 llamadas) existen — no juzgas tu embudo antes de tener muestra.
-- [PANTALLA: los 5 hitos apareciendo uno a uno sobre la línea de tiempo, con el rango S6-S9 del primer cliente destacado en un color distinto y la etiqueta "rango honesto".]
+- Conecta con L7: por eso las reglas de validez del programa (300 toques / 30 llamadas) existen — no juzgas tu embudo antes de tener muestra.
+- [PANTALLA: los 5 hitos apareciendo uno a uno sobre la línea de tiempo, con el rango S7-S10 del primer cliente destacado en un color distinto y la etiqueta "rango honesto".]
 
 ## Sección 3 — Qué es normal y qué es una alarma
 
 - Calibra las dos direcciones:
   - **Normal**: semana 7 sin cliente pero con reuniones agendándose → estás dentro del rango, sigue.
-  - **Normal**: tu primera demo sale regular → se itera (Más/Mejor de L4), no se tira el nicho.
+  - **Normal**: tu primera demo sale regular → se itera (Más/Mejor de L5), no se tira el nicho.
   - **Alarma**: semana 6 y aún no has enviado ni un mensaje de captación → el problema no es el mercado, es la actividad.
-  - **Alarma**: semana 5 sin demo terminada → estás sobrecomplicando la entrega (error 4 de L5). La demo es acotada a propósito.
+  - **Alarma**: semana 5 sin demo terminada → estás sobrecomplicando la entrega (error 4 de L6). La demo es acotada a propósito.
 - Regla de lectura: **antes de preocuparte por resultados, audita actividad.** El 90% de los "esto no funciona" son en realidad "esto no se está haciendo".
 - [PANTALLA: tabla de dos columnas NORMAL vs ALARMA — la misma del recurso roadmap-90-dias.md]
 
@@ -54,17 +54,17 @@
 - [PANTALLA: rótulo "tu día = conseguir reuniones y cerrarlas"]
 - Por eso el programa te hace construir con Claude Code ANTES de captar, y por eso la construcción es rápida a propósito: para que el 80% de tu tiempo en esas semanas vaya a vender, no a programar.
 - "Si en la semana 7 estás retocando tu demo en vez de enviando mensajes, no estás trabajando. Estás escondiéndote."
-- El anti-patrón de L4 se aplica aquí de lleno: firmas tu primer cliente y NO paras la captación para "centrarte en entregar". Haces más de lo que te trajo ese cliente.
+- El anti-patrón de L5 se aplica aquí de lleno: firmas tu primer cliente y NO paras la captación para "centrarte en entregar". Haces más de lo que te trajo ese cliente.
 
 ## Sección 5 — Estos rangos son conservadores a propósito
 
 - Principio del programa: **infraprometer.** Los rangos del roadmap están calibrados para que llegar antes sea la sorpresa agradable, no la expectativa rota.
-- Si cierras en la S5, fantástico: vas por delante. Si cierras en la S9, también estás cumpliendo el plan. El plan solo se rompe cuando la actividad se rompe.
+- Si cierras en la S6, fantástico: vas por delante. Si cierras en la S10, también estás cumpliendo el plan. El plan solo se rompe cuando la actividad se rompe.
 - Benchmark del programa: alrededor de 20 conversaciones de venta para el primer cliente. Ese número manda más que cualquier fecha del calendario.
 
 ## Cierre + CTA
 
-- Recap en 2 frases: ya tienes el mapa de los 90 días con sus 5 hitos maestros, y sabes que la fecha del primer cliente es un rango (S6-9), no una promesa — lo único exacto es la matemática de actividad. En captación, tu día es conseguir reuniones y cerrarlas; la construcción es rápida a propósito para que puedas hacerlo.
+- Recap en 2 frases: ya tienes el mapa de los 90 días con sus 5 hitos maestros, y sabes que la fecha del primer cliente es un rango (S7-10), no una promesa — lo único exacto es la matemática de actividad. En captación, tu día es conseguir reuniones y cerrarlas; la construcción es rápida a propósito para que puedas hacerlo.
 - **Acción del alumno AHORA:** descarga `recursos/roadmap-90-dias.md`, imprímelo o cópialo donde lo veas a diario, escribe la fecha real de tu S1 y calcula las fechas de tus 5 hitos maestros. A partir de hoy, cada domingo marcas la casilla de la semana cumplida.
 - **KPI de esta lección:** las fechas de tus 5 hitos maestros calculadas y escritas en el roadmap.
-- Puente: "Ya sabes el camino. En la siguiente lección montamos el vehículo: tu negocio operativo en una tarde — nombre, dominio, email, cobros y agenda. Nos vemos en L8."
+- Puente: "Ya sabes el camino. En la siguiente lección montamos el vehículo: tu negocio operativo en una tarde — nombre, dominio, email, cobros y agenda. Nos vemos en L9."

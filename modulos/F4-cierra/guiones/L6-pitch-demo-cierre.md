@@ -4,7 +4,7 @@
 |---|---|---|
 | F4 Cierra | 12-16 min | — (ejecuta el guion de demo de F2; las objeciones que asomen aquí se trabajan en L7 con recursos/guia-objeciones.md) |
 
-**Objetivo:** pitch de 1-4 minutos con la demo en vivo y el piloto cobrado antes de colgar: enlace de pago (Payment Link de Stripe) enviado EN la llamada.
+**Objetivo:** pitch de 1-4 minutos con la demo en vivo y el piloto cobrado antes de colgar: enlace de pago (el Payment Link de Stripe) enviado EN la llamada.
 
 ## Gancho (0:00-0:20)
 
@@ -39,7 +39,7 @@
 
 ## Sección 4 — El cierre: el enlace de pago EN la llamada
 
-- Dice que sí. Tu respuesta: "Genial — te envío ahora mismo el enlace de pago y lo ponemos en marcha hoy." Envías el enlace de Stripe (lo dejaste configurado en F0-L8) por el chat de la videollamada y le acompañas sin agobiar: "¿Te ha llegado? Cualquier duda con el pago la vemos ahora."
+- Dice que sí. Tu respuesta: "Genial — te envío ahora mismo el enlace de pago y lo ponemos en marcha hoy." Envías el enlace de Stripe (lo dejaste configurado en F0-L9) por el chat de la videollamada y le acompañas sin agobiar: "¿Te ha llegado? Cualquier duda con el pago la vemos ahora."
 - **Pago antes de colgar.** Nada de "te lo mando luego por email": en cuanto cuelga se planta la semilla de la duda, y crece cada día. El pago en la llamada no es presión — es la continuación natural de la decisión que acaba de tomar.
 - La tarjeta queda guardada. Hoy paga el piloto; cuando el piloto funcione y toque hablar de proyecto y retainer (F6), la relación de pago ya existirá. No es ningún truco oculto — Stripe se lo muestra —, simplemente has quitado fricción del futuro.
 

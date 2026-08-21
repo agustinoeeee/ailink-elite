@@ -1,6 +1,6 @@
 # Mi compromiso de 90 días
 
-> **AILINK Élite — Manifiesto de señal vs ruido.** Imprime esta página o rellénala en digital. Fírmala hoy y ponla donde la veas cada día de trabajo. Vinculado a la lección F0-L3.
+> **AILINK Élite — Manifiesto de señal vs ruido.** Imprime esta página o rellénala en digital. Fírmala hoy y ponla donde la veas cada día de trabajo. Vinculado a la lección de señal vs ruido de F0.
 
 **Nombre:** ______________________________
 **Fecha de inicio:** ____ / ____ / ______  →  **Fecha de fin (día 90):** ____ / ____ / ______

@@ -14,7 +14,7 @@
 
 - Mi negocio cliente es: ______________________________________ (tipo de negocio, tamaño, cómo trabaja hoy)
 - Su cliente final es: ______________________________________
-- El dolor que esta demo enseña resuelto (de tu avatar de F1-L3): ______________________________________
+- El dolor que esta demo enseña resuelto (de tu avatar de F1-L4): ______________________________________
 - Quién usará la pantalla en la demo: ______________________________________ (el dueño, la recepcionista…)
 
 ### 2. Qué debe hacer — comportamientos observables (lista numerada)

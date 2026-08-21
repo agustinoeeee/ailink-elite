@@ -12,6 +12,7 @@ Lee este archivo ANTES de diseñar nada. Los `.md` de esta carpeta son el **cont
 
 | Archivo | Qué es | Qué diseñas | Formato | Páginas |
 |---|---|---|---|---|
+| `norte-personal.md` | Propósito + criterios de diseño del negocio | Cuaderno de decisión en 4 bloques, con espacio real para escribir | PDF A4 vertical | **2** |
 | `manifiesto-90-dias.md` | Compromiso que el alumno **firma** | Hoja de compromiso / certificado de mesa | PDF A4 vertical | **1** |
 | `framework-mas-mejor-nuevo.md` | Árbol de decisión (Hormozi) | Póster de pared: el árbol se lee a 1 metro | PDF A4 vertical (o 16:9 si queda más claro el árbol) | **1** |
 | `roadmap-90-dias.md` | Calendario S1–S13 + 5 hitos | Mapa de 90 días imprimible, con checkboxes | PDF A4 (2ª página solo si no cabe) | **1–2** |
@@ -38,18 +39,22 @@ Lee este archivo ANTES de diseñar nada. Los `.md` de esta carpeta son el **cont
 2. **Español de España.** Si algo se te cuela en neutro/latam, corrígelo al original del md.
 3. **Rellenable:** líneas de escritura, checkboxes y tablas tienen que poder usarse impresas (bolígrafo) y en PDF (campos si puedes).
 4. **Un recurso = un archivo de salida**, nombre:
+   - `F0-norte-personal.pdf`
    - `F0-manifiesto-90-dias.pdf`
    - `F0-framework-mas-mejor-nuevo.pdf`
    - `F0-roadmap-90-dias.pdf`
    - `F0-checklist-setup-negocio.pdf`
    - `F0-plantilla-base-de-tests.pdf` (y/o `.csv`)
-5. **No diseñes** guiones, kpis, notas-fuente, ni “covers de lección”, ni thumbnails, ni un PDF único de 40 páginas. Cinco piezas sueltas.
+5. **No diseñes** guiones, kpis, notas-fuente, ni “covers de lección”, ni thumbnails, ni un PDF único de 40 páginas. Seis piezas sueltas.
 6. **No pongas** Owen, GoHighLevel, dólares, “curso de YouTube”, fotos de contratistas USA.
 7. Cita a **Alex Hormozi / $100M Leads** solo en el framework, como ya está en el md.
 
 ---
 
 ## Dirección por pieza (lo que tiene que verse)
+
+### 0. Norte personal
+Dos páginas, cuatro bloques en el mismo orden del md: las 5 preguntas con líneas de escritura de verdad (tres o cuatro por pregunta, no una raya simbólica); la tabla de los 7 criterios con la tercera columna —«implicación para mi oferta»— visualmente destacada, porque es la que se usa después; la escalera del valor de 4 peldaños como escalera real, ascendente, con el ejemplo a la derecha de cada peldaño; y la declaración de propósito en 5 frases a completar. Cierre con la checklist de 4 casillas y la fecha. Tono: sobrio, hermano del manifiesto — se archivan juntos.
 
 ### 1. Manifiesto
 Objeto de mesa, casi legal. Cabecera con nombre + fechas. Cinco bloques iguales a los del md (dejo de consumir / única fuente / haré cada semana / porqué / firma). La firma es el clímax visual, no un icono de cohete. Espacio real para escribir el porqué.
@@ -58,7 +63,7 @@ Objeto de mesa, casi legal. Cabecera con nombre + fechas. Cinco bloques iguales 
 El árbol de 4 preguntas es el héroe (grande, de arriba abajo). Debajo, la tabla de 5 ejemplos en tipo pequeño. Los 3 anti-patrones como franja de aviso, no como comics. Checklist “antes de tocar NUEVO” visible.
 
 ### 3. Roadmap
-Arriba: los 5 hitos maestros (el nº4 “primer cliente S6–S9” destacado como rango, no como fecha única). Abajo: tabla S1–S13. Alarma vs normal en dos columnas claras. Reserva de actividad S5–S13 como tabla vacía rellenable.
+Arriba: los 5 hitos maestros (el nº4 “primer cliente S7–S10” destacado como rango, no como fecha única). Abajo: tabla S1–S13. Alarma vs normal en dos columnas claras. Reserva de actividad S5–S13 como tabla vacía rellenable.
 
 ### 4. Checklist setup
 Secuencial: no se ve como menú, se ve como **pasos 1→6**. Tiempo estimado junto a cada paso. Bloque “NO montar todavía” visualmente distinto (prohibido, no “tips”). Cierre con el comprobante KPI (payment link de prueba + reserva de test).
@@ -73,6 +78,6 @@ Cero PDF. El md ya es el spec de Tally/Typeform (9 preguntas, tipos, notas bajo 
 
 ## Orden de entrega
 
-Haz primero **manifiesto + framework + roadmap** (se imprimen y se clavan). Luego checklist. Luego tests. El formulario no se diseña.
+Haz primero **norte personal + manifiesto + framework + roadmap** (se imprimen y se clavan). Luego checklist. Luego tests. El formulario no se diseña.
 
-Cuando termines, lista: archivo de salida ↔ archivo .md de origen, para que no haya duda de qué se sube a cada lección de Skool (L3, L4, L6, L7, L8).
+Cuando termines, lista: archivo de salida ↔ archivo .md de origen, para que no haya duda de qué se sube a cada lección de Skool (L3, L4, L5, L7, L8, L9).

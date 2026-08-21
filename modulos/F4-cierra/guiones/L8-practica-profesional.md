@@ -46,7 +46,7 @@
 ## Sección 5 — El tracker y la regla 30
 
 - Todo lo anterior se apoya en datos, y los datos viven en `recursos/tracker-ventas.md`: fecha, origen, realizada o no, nivel de discovery alcanzado, resultado, motivo del no y aprendizaje. Se rellena al colgar, no a final de semana de memoria.
-- Y encima del tracker, impresa, **la regla 30**: nada de tu proceso se juzga antes de 30 llamadas REALIZADAS. Por la regresión a la media que viste en F0-L6: puedes encadenar 20 o 25 noes seguidos y cerrar 5 seguidas después. Con 10 llamadas no tienes una tasa: tienes una anécdota que te va a hacer tocar lo que no debes.
+- Y encima del tracker, impresa, **la regla 30**: nada de tu proceso se juzga antes de 30 llamadas REALIZADAS. Por la regresión a la media que viste en F0-L7: puedes encadenar 20 o 25 noes seguidos y cerrar 5 seguidas después. Con 10 llamadas no tienes una tasa: tienes una anécdota que te va a hacer tocar lo que no debes.
 - El marco Más/Mejor/Nuevo de F0 aplicado a ventas: si estás cerrando en benchmark — 20-25% de las reuniones realizadas — la respuesta es MÁS reuniones, no retocar tu framework a las 2 de la mañana. MEJOR solo con 30 realizadas y datos delante. Y NUEVO no existe en esta fase.
 
 ## Sección 6 — La llamada modelo

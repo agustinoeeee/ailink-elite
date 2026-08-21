@@ -15,11 +15,11 @@ Esto es lo único que de verdad se mide. Calcula tus fechas a partir de tu S1.
 |---|---|---|---|---|
 | 1 | **Oferta definida** (nicho + oferta + pricing) | Fin de S3 | ____ /____ | ☐ |
 | 2 | **Demo funcionando + guion de 3 min + vídeo de respaldo** | Fin de S4 | ____ /____ | ☐ |
-| 3 | **Primeras reuniones agendadas** | S5-6 | ____ /____ | ☐ |
-| 4 | **Primer cliente cerrado** | **Rango honesto: S6-S9** | ____ /____ | ☐ |
-| 5 | **Primer retainer firmado** (MRR en marcha) | S10-12 | ____ /____ | ☐ |
+| 3 | **Primeras reuniones agendadas** | S6-7 | ____ /____ | ☐ |
+| 4 | **Primer cliente cerrado** | **Rango honesto: S7-S10** | ____ /____ | ☐ |
+| 5 | **Primer retainer firmado** (MRR en marcha) | S11-12 | ____ /____ | ☐ |
 
-> **Sobre el hito 4:** algunos cierran en la semana 5, otros necesitan hasta la 9 o más. La fecha no la controlas; la actividad, sí. Benchmark del programa: ~20 conversaciones de venta para el primer cliente. Reglas de validez: 300 toques / 30 llamadas antes de juzgar nada.
+> **Sobre el hito 4:** algunos cierran en la semana 6, otros necesitan hasta la 10 o más. La fecha no la controlas; la actividad, sí. Benchmark del programa: ~20 conversaciones de venta para el primer cliente. Reglas de validez: 300 toques / 30 llamadas antes de juzgar nada.
 
 ---
 
@@ -32,11 +32,11 @@ Esto es lo único que de verdad se mide. Calcula tus fechas a partir de tu S1.
 | **S3** | F1 Domina | Diseñar la oferta + matemática de pricing (piloto / proyecto / retainer) | 🏆 **Oferta definida por escrito** | ☐ |
 | **S4** | F2 Construye | Construir tu solución demo con Claude Code | 🏆 **Demo funcionando + guion de 3 min + vídeo de respaldo** (testeada, no "casi") | ☐ |
 | **S5** | F3 Lanza | Encender la máquina de demanda según tu presupuesto (ads B2B u outreach) | Primeros toques/impresiones saliendo a diario | ☐ |
-| **S6** | F3 Lanza + F4 Cierra | Volumen de captación + primeras conversaciones | 🏆 **Primeras reuniones agendadas** | ☐ |
-| **S7** | F3 + F4 | Reuniones, demos en directo, seguimiento sistemático | Pipeline con reuniones cada semana | ☐ |
+| **S6** | F3 Lanza + F4 Cierra | Volumen de captación + primeras conversaciones | Primeras reuniones entrando en el calendario | ☐ |
+| **S7** | F3 + F4 | Reuniones, demos en directo, seguimiento sistemático | 🏆 **Primeras reuniones agendadas** (tope del rango) | ☐ |
 | **S8** | F4 Cierra (+ F5 si cierras) | Cerrar: discovery, demo, propuesta, seguimiento | Propuestas enviadas; primer cierre posible | ☐ |
-| **S9** | F4 + F5 | Cerrar y/o empezar a entregar. **La captación NO se para** | 🏆 **Primer cliente cerrado** (tope del rango honesto) | ☐ |
-| **S10** | F5 Entrega | Onboarding del cliente + build del proyecto (días, no semanas) | Proyecto en marcha con fecha de entrega | ☐ |
+| **S9** | F4 + F5 | Cerrar y/o empezar a entregar. **La captación NO se para** | Propuestas vivas y cierres en curso | ☐ |
+| **S10** | F4 + F5 Entrega | Cerrar (tope del rango) y arrancar la entrega: onboarding + build del proyecto | 🏆 **Primer cliente cerrado** (tope del rango honesto) | ☐ |
 | **S11** | F5 + F6 | Entregar, hacer el traspaso al cliente y proponer el retainer de mantenimiento | Proyecto entregado; retainer sobre la mesa | ☐ |
 | **S12** | F6 Escala | Firmar retainer + pedir referidos + seguir captando | 🏆 **Primer retainer firmado** | ☐ |
 | **S13** | F6 Escala | Revisión de 90 días: números reales, cuello de botella, plan del siguiente ciclo | Revisión hecha con datos, no sensaciones | ☐ |

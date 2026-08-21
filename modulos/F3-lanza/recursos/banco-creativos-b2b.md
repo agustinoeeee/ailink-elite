@@ -147,7 +147,7 @@ Texto en español de España y sin faltas.
 > He construido un sistema que prepara el presupuesto el mismo día a partir de tus tarifas — míralo funcionando en la demo, con datos realistas de un taller de ejemplo.
 > Si quieres verlo sobre TU proceso, reserva una llamada corta esta semana.
 
-**De dónde sale TU copy:** de tu `avatar-cliente-ideal.md` (F1-L3) — los dolores literales de las reseñas y tu avatar. Cuanto más literal la escena, más asiente el dueño.
+**De dónde sale TU copy:** de tu `avatar-cliente-ideal.md` (F1-L4) — los dolores literales de las reseñas y tu avatar. Cuanto más literal la escena, más asiente el dueño.
 
 ---
 

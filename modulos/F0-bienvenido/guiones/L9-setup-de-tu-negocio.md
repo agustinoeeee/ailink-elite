@@ -1,4 +1,4 @@
-# L8 | Setup de tu negocio
+# L9 | Setup de tu negocio
 
 | Fase | Duración objetivo | Recurso vinculado |
 |---|---|---|
@@ -29,13 +29,15 @@
 - "El dominio y el email son la fachada de tu negocio. Y la fachada se monta en 45 minutos."
 - [PANTALLA: b-roll acelerado del alta en Google Workspace con el dominio recién comprado, terminando en la bandeja de entrada nueva con el email profesional visible]
 
-## Sección 3 — Stripe: que puedan pagarte desde el día uno
+## Sección 3 — Tu método de pago: que puedan pagarte desde el día uno
 
-- Abre tu cuenta de Stripe España. Necesitas DNI/NIE y una cuenta bancaria con IBAN. Se hace online en menos de una hora.
-- La herramienta clave: el **enlace de pago (Payment Link de Stripe)**. Un enlace que envías por chat en mitad de la llamada de cierre. El cliente paga en 2 clics, sin facturas por adelantado ni transferencias que "ya te hago el lunes".
-- El detalle que casi todo el mundo se salta y que aquí es innegociable: al crear el enlace de pago, **activa "guardar los datos de pago para uso futuro"**. Sin eso, cada mes del retainer tendrás que perseguir al cliente para que vuelva a pagar. Con eso, guardas la tarjeta una vez, el cliente autentica el primer cobro (así funciona la normativa europea PSD2) y los retainers siguientes salen solos, como cobros iniciados por el comercio.
+- Necesitas UNA forma de cobrar hoy. Vale Stripe, PayPal, Wise o la que uses ya, pero tiene que cumplir dos cosas innegociables, porque el programa entero se apoya en ellas: **enviar un enlace de pago** en mitad de una llamada y **guardar el método de pago del cliente** para los cobros siguientes. Si tu opción no hace las dos, no te sirve.
+- La recomendación del programa es **Stripe España** —es la que verás en pantalla y la que hace las dos cosas sin pelearte con ella—: DNI/NIE y una cuenta bancaria con IBAN, se abre online en menos de una hora. Si prefieres otra, adelante: pasa antes el test de las dos condiciones.
+- La herramienta clave: el **enlace de pago (Payment Link de Stripe, o su equivalente en la pasarela que elijas)**. Un enlace que envías por chat en mitad de la llamada de cierre. El cliente paga en 2 clics, sin facturas por adelantado ni transferencias que "ya te hago el lunes".
+- El detalle que casi todo el mundo se salta y que aquí es innegociable: al crear el enlace de pago, **activa "guardar los datos de pago para uso futuro"** (en Stripe se llama así; en otras pasarelas, "pagos recurrentes" o "suscripción"). Sin eso, cada mes del retainer tendrás que perseguir al cliente para que vuelva a pagar. Con eso, guardas la tarjeta una vez, el cliente autentica el primer cobro (así funciona la normativa europea PSD2) y los retainers siguientes salen solos, como cobros iniciados por el comercio.
 - "Tu modelo es proyecto + retainer. El retainer es ingreso recurrente. Y el ingreso recurrente empieza en una casilla que marcas hoy."
 - Crea ya un enlace de pago de prueba (importe simbólico) y haz un pago de test. Regla del programa: todo se testea antes de usarlo delante de un cliente.
+- Aviso para el que se vaya por libre: si eliges una herramienta que solo sirve para recibir transferencias sueltas, en F6 no podrás automatizar el cobro del retainer y acabarás persiguiendo a tu cliente todos los meses. Eso no es una preferencia estética: es tu MRR.
 - [PANTALLA: pantalla compartida en Stripe — crear un enlace de pago paso a paso, con zoom en la opción de guardar tarjeta en el momento de activarla]
 
 ## Sección 4 — Facturación en España: dos frases y un gestor
@@ -68,7 +70,7 @@
 
 ## Cierre + CTA
 
-- Recap en 2 frases: "5 piezas + 1 trámite: nombre, dominio, email, Stripe con tarjeta guardada y calendario, más la nota fiscal con tu gestor. Las piezas caben en una tarde; el trámite, en la semana."
+- Recap en 2 frases: "5 piezas + 1 trámite: nombre, dominio, email, método de pago con la tarjeta guardada y calendario, más la nota fiscal con tu gestor. Las piezas caben en una tarde; el trámite, en la semana."
 - **Acción del alumno AHORA:** descarga la checklist de setup (recursos/checklist-setup-negocio.md), bloquea una tarde en tu calendario esta misma semana y complétala en orden.
 - **KPI de esta lección:** negocio operativo en ≤7 días — enlace de pago de prueba pagado y una reserva de test en tu calendario como comprobante.
 - Puente: "Con el setup completado y tu kick-off ya realizada, cierras F0: mentalidad, roadmap y negocio montado. En F1 empezamos con lo que de verdad mueve la aguja: tu nicho y tu oferta. Nos vemos allí."

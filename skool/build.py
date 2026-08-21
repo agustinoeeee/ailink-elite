@@ -184,7 +184,7 @@ function home(){
       </div>
     </button>`).join('');
   document.getElementById('app').innerHTML = `
-    <div class="hint"><b>Maqueta de tu aula.</b> Así queda el programa montado en Skool: 7 cursos, 54 lecciones, cada una con su vídeo, su descripción y sus adjuntos. Entra en un curso y usa <b>Copiar descripción</b> para pegarla en el Skool real.
+    <div class="hint"><b>Maqueta de tu aula.</b> Así queda el programa montado en Skool: 7 cursos, 57 lecciones, cada una con su vídeo, su descripción y sus adjuntos. Entra en un curso y usa <b>Copiar descripción</b> para pegarla en el Skool real.
       <div class="hint2">Cada adjunto lleva su sello: <span class="sello ok">listo para subir</span> ya está en <code>adjuntos-skool/</code> con la ruta debajo · <span class="sello no">pendiente de diseño</span> aún no existe · <span class="sello rep">ya subido en LX</span> no se vuelve a subir.</div>
     </div>
     <div class="grid">${cards}</div>`;

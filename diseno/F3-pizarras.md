@@ -13,7 +13,7 @@
 
 | Lección | Pizarra | Diapos | Entregable detrás | Pieza visual clave |
 |---|---|---|---|---|
-| **L1** La máquina de demanda | **Imprescindible** | 6 | tracker-captacion | La cadena de matemática de actividad dibujándose hacia atrás: 10.000€ → 3 clientes → 12 realizadas → 18-20 agendadas → ~1.000 toques → 15-20 toques/día |
+| **L1** La máquina de demanda | **Imprescindible** | 6 | tracker-captacion | La cadena de matemática de actividad dibujándose hacia atrás: 5.000€ → 2 clientes → 8 realizadas → 12-13 agendadas → ~600 toques → 10-12 toques/día |
 | **L2** Tu funnel: de clic a reunión | **Imprescindible** | 7 | checklist-funnel | Anatomía del funnel en 5 piezas numeradas + la metáfora de la tubería de fricción (cada estrechamiento = menos caudal, más filtrado) |
 | **L3** Tu VSL: "no me creas, míralo funcionar" | **Imprescindible** | 7 | guion-vsl | Los 5 bloques del VSL en escalera con sus tiempos orientativos, con el bloque 2 marcado como intocable ("si te pasas, recorta del 3") |
 | **L4** Tu página y el calentamiento | Útil | 5 | — | El A/B de dos anuncios idénticos lado a lado: firmado por "XYZ Solutions" con logo frente a nombre, apellidos y cara real |

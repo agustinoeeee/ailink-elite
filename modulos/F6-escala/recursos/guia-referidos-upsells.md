@@ -65,7 +65,7 @@ Dos reglas: a un referido se le responde **el mismo día** (viene avalado por un
 
 ## 4 · El cruce dolor×catálogo (la venta ampliada)
 
-Vuelve al día-en-la-vida de tu nicho (F1-L3) y busca el **siguiente** dolor del cliente al que ya le resolviste el primero. Ejemplos ilustrativos del cruce:
+Vuelve al día-en-la-vida de tu nicho (F1-L4) y busca el **siguiente** dolor del cliente al que ya le resolviste el primero. Ejemplos ilustrativos del cruce:
 
 | Primera solución entregada | Siguiente dolor (día-en-la-vida) | Venta ampliada del catálogo |
 |---|---|---|

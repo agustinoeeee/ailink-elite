@@ -27,7 +27,7 @@
   - **DEMO**: vive en una web, se construye ahora en F2 y SIMULA el flujo. Ejemplo: un simulador visual de WhatsApp dentro de tu web — la pantalla del móvil dibujada en la página, con una conversación guiada: quien la prueba elige entre respuestas sugeridas (botones) y el flujo está guionizado. Nadie se da de alta en nada, nadie pide permisos a nadie.
   - **PILOTO REAL**: integraciones de verdad — el WhatsApp del negocio, su teléfono, su calendario. Llega en F5, con un cliente pagando que justifica el papeleo y las verificaciones.
 - Y el matiz que casi nadie te cuenta: muchas veces el piloto real TAMBIÉN empieza en web. Un chatbot en la web del cliente ya es producto final; un generador de presupuestos vive en web toda su vida.
-- Por qué la demo web vende igual: el cliente no compra la integración, compra el resultado — la cita recuperada, el lead contestado (eco de F1-L4: enseñas las palmeras, no el vuelo). Una simulación creíble con SUS dolores delante produce el mismo "quiero eso".
+- Por qué la demo web vende igual: el cliente no compra la integración, compra el resultado — la cita recuperada, el lead contestado (eco de F1-L5: enseñas las palmeras, no el vuelo). Una simulación creíble con SUS dolores delante produce el mismo "quiero eso".
 
 ## Sección 3 — Las ocho, por dentro
 
@@ -50,7 +50,7 @@
 
 ## Sección 5 — Elige la tuya (te lo adelanto: ya la elegiste)
 
-- La regla del programa: **tu demo = la solución de tu oferta V1**. Abre tu cuaderno de F1: en F1-L7 prometiste UN resultado a UN nicho con UNA solución. Hoy no eliges desde cero — confirmas.
+- La regla del programa: **tu demo = la solución de tu oferta V1**. Abre tu cuaderno de F1: en F1-L8 prometiste UN resultado a UN nicho con UNA solución. Hoy no eliges desde cero — confirmas.
 - ¿Tu oferta combina dos soluciones (pasa en varios nichos de la lista: "recepcionista + recuperación")? Para la demo eliges UNA, la de más potencia; la otra la cuentas de palabra en la llamada.
 - ¿Te ha tocado una dificultad 3? No cambies de oferta: simplifica la PRIMERA versión de la demo. Recuerda el estándar de F2: simple y entregado gana a complejo y eterno.
 - Y si al leer la ficha descubres que tu oferta prometía algo rarísimo… mejor descubrirlo hoy que en la semana 8. Ajustar la oferta V1 con lo aprendido aquí es una tarde, no un drama.

@@ -1,6 +1,6 @@
 # Plantilla AILINK — Recuperación de no-shows y citas (clínicas dentales)
 
-> **La plantilla insignia del programa.** Es la demo que se construye en directo en F2-L5 y la que protagoniza los ejemplos de F1-L7 y F5. Está COMPLETA y funcionando: ábrela y pruébala antes de tocar nada.
+> **La plantilla insignia del programa.** Es la demo que se construye en directo en F2-L5 y la que protagoniza los ejemplos de F1-L8 y F5. Está COMPLETA y funcionando: ábrela y pruébala antes de tocar nada.
 
 ## Qué contiene
 

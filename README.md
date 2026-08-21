@@ -2,9 +2,9 @@
 
 Programa high ticket de 90 días que enseña a montar una agencia que vende **soluciones de IA hechas con Claude Code** (software y automatizaciones) a negocios españoles. Modelo de **entregables** —proyecto + retainer—, no de resultados.
 
-**Promesa canónica:** +10.000€ de facturación acumulada al final de los 90 días (total, no mensual).
+**Promesa canónica:** +5.000€ de facturación acumulada al final de los 90 días (total, no mensual) — bastan 1-3 clientes.
 
-Este repositorio contiene el programa entero: los 54 guiones de vídeo, los 45 recursos del alumno, las 54 pizarras de grabación, los trackers, los formularios y la maqueta del aula. Falta grabar los vídeos y diseñar 25 PDF.
+Este repositorio contiene el programa entero: los 57 guiones de vídeo, los 49 recursos del alumno, las 57 pizarras de grabación, los trackers, los formularios y la maqueta del aula. Falta grabar los vídeos y diseñar los PDF pendientes (están listados en `diseno/03-REENCARGOS-PENDIENTES.md`).
 
 ---
 
@@ -13,10 +13,10 @@ Este repositorio contiene el programa entero: los 54 guiones de vídeo, los 45 r
 Si acabas de entrar, lee estos tres archivos **en este orden** y ya tendrás el mapa completo:
 
 1. **[`01-BIBLIA.md`](01-BIBLIA.md)** — la autoridad. Las decisiones que valen para todo el programa: la promesa, el modelo de negocio, los precios y dónde se enseñan, el glosario (qué se dice en inglés y qué está prohibido decir), las reglas de España y RGPD. **Ante cualquier duda o contradicción, manda la Biblia.**
-2. **[`02-INDICE-MAESTRO.md`](02-INDICE-MAESTRO.md)** — el mapa navegable: las 7 fases, las 54 lecciones, el estado de cada carpeta y los **17 pendientes que solo puede cerrar Agustín**.
+2. **[`02-INDICE-MAESTRO.md`](02-INDICE-MAESTRO.md)** — el mapa navegable: las 7 fases, las 57 lecciones, el estado de cada carpeta y los **17 pendientes que solo puede cerrar Agustín**.
 3. **[`skool/00-MONTAJE-SKOOL.md`](skool/00-MONTAJE-SKOOL.md)** — cómo se traduce todo esto a la plataforma: cursos, lecciones, adjuntos, drip.
 
-Para ver el aula montada sin instalar nada: abre **[`skool/aula-ailink.html`](skool/aula-ailink.html)** a doble clic. Es una réplica navegable del Skool con las 54 lecciones, sus descripciones y sus adjuntos, y un botón para copiar cada cosa.
+Para ver el aula montada sin instalar nada: abre **[`skool/aula-ailink.html`](skool/aula-ailink.html)** a doble clic. Es una réplica navegable del Skool con las 57 lecciones, sus descripciones y sus adjuntos, y un botón para copiar cada cosa.
 
 ---
 
@@ -24,8 +24,8 @@ Para ver el aula montada sin instalar nada: abre **[`skool/aula-ailink.html`](sk
 
 | Fase | Curso en Skool | Semanas | Lecciones | Hito |
 |---|---|---|---|---|
-| F0 | **Bienvenido** — onboarding | 1 | 8 | Kick-off + setup + manifiesto firmado |
-| F1 | **Domina** — nicho, oferta, precio | 2-3 | 7 | Oferta V1 redactada |
+| F0 | **Bienvenido** — onboarding | 1 | 9 | Kick-off + setup + manifiesto firmado |
+| F1 | **Domina** — nicho, oferta, precio | 2-3 | 9 | Oferta V1 redactada |
 | F2 | **Construye** — Claude Code | 3-4 | 7 | Demo desplegada + vídeo de respaldo |
 | F3 | **Lanza** — máquina de demanda | 5-7 | 10 | Primeras reuniones agendadas |
 | F4 | **Cierra** — ventas consultivas | 6-9 | 8 | Primer cliente cobrado en la llamada |
@@ -40,9 +40,9 @@ El contenido se abre en orden; el trabajo se solapa a partir de Lanza.
 
 | Carpeta | Qué es | ¿Lo ve el alumno? |
 |---|---|---|
-| `modulos/F0…F6/` | El corazón. Por módulo: `00-plan-modulo.md` (contrato de producción), `guiones/` (los 54 guiones de vídeo), `recursos/` (los 45 entregables en Markdown), `pizarras/` (guion de diapositivas, uno por lección), `kpis.md`, `notas-fuente.md` | Solo `recursos/`, y en PDF |
+| `modulos/F0…F6/` | El corazón. Por módulo: `00-plan-modulo.md` (contrato de producción), `guiones/` (los 57 guiones de vídeo), `recursos/` (los 49 entregables en Markdown), `pizarras/` (guion de diapositivas, uno por lección), `kpis.md`, `notas-fuente.md` | Solo `recursos/`, y en PDF |
 | `adjuntos-skool/` | **Lo que se sube a Skool**, ya repartido por curso y lección (`L03-F0-manifiesto-90-dias.pdf` → lección 3) | Sí |
-| `pizarras-grabacion/` | Las 54 pizarras en PDF 16:9, con revelado paso a paso | ⛔ No — es material de grabación |
+| `pizarras-grabacion/` | Las pizarras en PDF 16:9, con revelado paso a paso | ⛔ No — es material de grabación |
 | `entregables-listos/` | 13 CSV de trackers + guías para montar los 2 formularios en Tally | Los CSV sí |
 | `diseno/` | El sistema visual, los briefs por módulo y los prompts para Claude Design | No |
 | `skool/` | Plan de montaje + la maqueta navegable del aula + su generador | No |
@@ -70,15 +70,15 @@ El estándar de cada tipo de pieza está escrito: el de los guiones de vídeo, e
 ## Estado a 20/08/2026
 
 **Hecho:**
-- Los 7 módulos escritos, verificados y corregidos: 54 guiones + 45 recursos + guía interna del operador.
-- Las 54 pizarras diseñadas y convertidas a PDF.
-- 17 de los 45 entregables diseñados (F0, F1 y F2 completos) y repartidos por lección.
+- Los 7 módulos escritos, verificados y corregidos: 57 guiones + 49 recursos + guía interna del operador.
+- 54 de las 57 pizarras diseñadas y convertidas a PDF (faltan las tres de las lecciones nuevas de F0 y F1).
+- 17 de los 49 entregables diseñados (F0, F1 y F2 completos) y repartidos por lección. Los 4 recursos nuevos de F0 y F1 y varias piezas cuyo copy ha cambiado están listados en `diseno/03-REENCARGOS-PENDIENTES.md`.
 - Los 13 CSV de trackers, con sus README de fórmulas.
 - Las guías de montaje de los 2 formularios.
-- La maqueta del aula, con las 54 descripciones escritas y listas para copiar.
+- La maqueta del aula, con las 57 descripciones escritas y listas para copiar.
 
 **Falta:**
-- **Grabar los 54 vídeos.**
+- **Grabar los 57 vídeos.**
 - **25 PDF de F3, F4, F5 y F6** — el encargo está escrito en `diseno/PROMPT-CONTINUACION.md`.
 - Los 17 pendientes de Agustín en `02-INDICE-MAESTRO.md`: cerrar las 7 cifras `[BORRADOR]`, montar los formularios en Tally, grabar la llamada modelo y pasar el esqueleto de contrato por un abogado.
 - Las 7 demos de plantilla que aún son solo brief (`plantillas-ailink/`).
@@ -104,4 +104,4 @@ La maqueta del aula no se edita a mano: se genera.
 cd skool && python3 build.py
 ```
 
-Lee `contenido-skool.json` (las 54 lecciones con su descripción y sus adjuntos) y `estado-adjuntos.json` (qué archivo existe ya), y escribe `aula-ailink.html` —autocontenido, se abre a doble clic— y `aula-ailink-web.html`. Para cambiar un texto de una lección, se toca el JSON y se vuelve a generar.
+Lee `contenido-skool.json` (las 57 lecciones con su descripción y sus adjuntos) y `estado-adjuntos.json` (qué archivo existe ya), y escribe `aula-ailink.html` —autocontenido, se abre a doble clic— y `aula-ailink-web.html`. Para cambiar un texto de una lección, se toca el JSON y se vuelve a generar.

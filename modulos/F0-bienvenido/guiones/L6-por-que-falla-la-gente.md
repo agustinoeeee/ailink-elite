@@ -1,8 +1,8 @@
-# L5 | Por qué falla la gente
+# L6 | Por qué falla la gente
 
 | Fase | Duración objetivo | Recurso vinculado |
 |---|---|---|
-| F0 Bienvenido | 6-10 min | recursos/manifiesto-90-dias.md (reutilizado de L3) |
+| F0 Bienvenido | 6-10 min | recursos/manifiesto-90-dias.md (reutilizado de L4) |
 
 **Objetivo:** al terminar, el alumno conoce los 7 errores que matan agencias antes de despegar, ha identificado cuál es su mayor riesgo personal y sabe qué antídoto aplica a cada uno.
 
@@ -21,14 +21,15 @@
 ## Sección 2 — Error 2: ignorar los datos directamente
 
 - El opuesto exacto: los datos existen, dicen algo claro, y tú sigues con tu instinto porque "sientes" que tu nicho / tu demo / tu mensaje es el bueno.
-- Si actúas por sensaciones, estás adivinando. Y adivinando no se llega a 10.000€.
-- Antídoto: en este programa cada decisión se apoya en una métrica. En la L6 te doy el método completo.
+- Si actúas por sensaciones, estás adivinando. Y adivinando no se llega a 5.000€.
+- Antídoto: en este programa cada decisión se apoya en una métrica. En la L7 te doy el método completo.
 - [PANTALLA: balanza con "lo que siento" a un lado y "lo que dicen los números" al otro, inclinándose hacia los números]
 
 ## Sección 3 — Error 3: meterse en océanos rojos
 
 - Entrar a "vender IA a empresas" en general es competir contra todo el mundo a la vez. Genérico = invisible.
 - La salida es el **micro-nicho vertical**: un tipo de negocio concreto, un problema concreto, una solución concreta.
+- Y el atajo que hay que evitar cuando llegue el momento: **elegir un nicho porque alguien dijo que "tiene dinero" no es una estrategia.** Sin acceso a quien decide, sin entender su proceso y sin una oportunidad concreta que arreglar, ese sector no es un mercado: es una idea abstracta que te va a costar dos meses descubrir.
 - Importante: el nicho se elige en F1, con criterio y datos. Hoy solo siembro la idea: pequeño y dominable gana a grande y saturado.
 
 ## Sección 4 — Error 4: sobrecomplicar la entrega
@@ -36,6 +37,7 @@
 - El principiante quiere entregar el mega-proyecto que lo hace todo. Y se ahoga.
 - Con Claude Code, lo simple gana: **una solución acotada y bien entregada vale más que un mega-proyecto eterno**. El cliente paga resultados, no complejidad.
 - Antídoto: sigue el proceso de entrega paso a paso de F5. Acota, entrega, cobra, mejora en el retainer.
+- Y el hermano mayor de este error, que casi nadie te va a contar: **hay procesos que no se deben automatizar todavía.** Si el proceso cambia cada semana y nadie sabe cuál es la versión buena, si no hay un responsable que mantenga los datos, o si un fallo puede hacer daño de verdad y no hay revisión humana detrás, ese no es tu proyecto. "Decirle a un cliente 'esto no lo tocamos aún, primero hay que ordenarlo' no te quita autoridad: te la da. Y ordenarlo también se cobra."
 - [PANTALLA: comparativa lado a lado — "proyecto de 3 meses que nunca se entrega" vs "solución acotada entregada en 7 días" con el cliente pagando en la segunda]
 
 ## Sección 5 — Error 5: rendirse demasiado pronto (LA razón nº1)
@@ -44,6 +46,7 @@
 - Esto exige aprender varias habilidades a la vez: construir, vender, entregar. Habrá una fase fea. Es parte del precio.
 - Benchmark del programa: **~20 conversaciones de venta para tu primer cliente, y 30 para conocer tu tasa real de cierre**. Quien abandona en la conversación 8 no falló: se fue antes de que las matemáticas trabajasen para él.
 - "No estás a mitad de camino del no funciona. Estás a mitad de camino de la muestra."
+- Antídoto: **sé resiliente**. Aguantar la fase fea no es un rasgo de carácter con el que se nace: es una decisión que se toma cada mañana mirando la muestra en vez del último "no". El que aguanta hasta la conversación 20 no es más listo que el que se fue en la 8; solo siguió ahí cuando las matemáticas empezaron a trabajar.
 - [PANTALLA: línea de 30 llamadas donde los síes aparecen a partir de la nº 25]
 
 ## Sección 6 — Error 6: fallos técnicos evitables
@@ -60,7 +63,7 @@
 
 ## Cierre + CTA
 
-- Recap en 2 frases: el modelo casi nunca falla; falla la ejecución por 7 errores evitables. Ya los conoces, así que ya no tienes excusa: solo disciplina con los datos y aguantar la fase fea.
+- Recap en 2 frases: el modelo casi nunca falla; falla la ejecución por 7 errores evitables. Ya los conoces, así que ya no tienes excusa: disciplina con los datos y aguantar la fase fea — sé resiliente.
 - **Acción del alumno AHORA:** escribe cuál de los 7 errores es TU mayor riesgo (sé honesto) y compártelo en la comunidad. Después firma tu `recursos/manifiesto-90-dias.md` si aún no lo has hecho: es tu vacuna contra el error nº 5.
 - **KPI de esta lección:** tu error de mayor riesgo identificado y publicado en la comunidad.
 - Puente: "Te he dicho 10 veces 'datos, no sensaciones'. En la siguiente lección te enseño exactamente cómo se decide con datos en este programa: el método, las reglas de validez y los números."

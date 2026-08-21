@@ -14,10 +14,10 @@
 
 | Atasco | Ve a | Qué encontrarás |
 |---|---|---|
-| "No sé qué hacer / demasiadas ideas" | **F0-L4** | Más/Mejor/Nuevo — el árbol de toda decisión |
-| "Voy a juzgar algo que aún no tiene muestra" | **F0-L6** | Las reglas de validez (300 toques / 30 llamadas / 50 eventos) |
-| "Mi oferta no engancha / dudo del precio" | **F1-L4 a L7** | Anatomía de oferta, calculadora, worksheet — itera tu V1 con datos |
-| "¿Cambio de nicho?" | **F1-L2 + checklist** | Solo con la muestra cumplida — y por la puerta, no por la ventana |
+| "No sé qué hacer / demasiadas ideas" | **F0-L5** | Más/Mejor/Nuevo — el árbol de toda decisión |
+| "Voy a juzgar algo que aún no tiene muestra" | **F0-L7** | Las reglas de validez (300 toques / 30 llamadas / 50 eventos) |
+| "Mi oferta no engancha / dudo del precio" | **F1-L5 a L7** | Anatomía de oferta, calculadora, worksheet — itera tu V1 con datos |
+| "¿Cambio de nicho?" | **F1-L3 + checklist** | Solo con la muestra cumplida — y por la puerta, no por la ventana |
 | "Construyo lento / la demo se me resiste" | **F2-L3 y L5** | El brief manda; una petición = un cambio |
 | "No entran leads / el canal se apaga" | **F3-L7** | Lee los datos: diagnóstico por jerarquía y análisis con Claude |
 | "Agendo pero no se presentan" | **F4-L3** | El show rate se gana al agendar, no con recordatorios |

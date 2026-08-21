@@ -1,6 +1,6 @@
 # Lista de micro-nichos España
 
-> Recurso de L2 (F1 Domina). Doce micro-nichos aprobados por el programa para arrancar. Elige por acceso y atracción, no por perfección: cualquiera de esta lista funciona si ejecutas. Las soluciones citadas pertenecen al catálogo AILINK (abajo).
+> Recurso de la lección del micro-nicho (F1 Domina). Doce micro-nichos aprobados por el programa para arrancar. Elige por acceso y atracción, no por perfección: cualquiera de esta lista funciona si ejecutas. Las soluciones citadas pertenecen al catálogo AILINK (abajo).
 
 | Micro-nicho | Dolor nº1 automatizable | Solución de IA típica | Por qué paga | Nota de acceso |
 |---|---|---|---|---|
