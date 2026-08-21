@@ -1,12 +1,12 @@
 # F0 | Bienvenido — onboarding y setup — adjuntos por lección
 
-> Semana 1 · 9 lecciones · 6 archivos listos · **1 pendientes de diseño**
+> Semana 1 · 9 lecciones · 7 archivos listos · **completo**
 
 | Lección | Adjunto | Archivo en esta carpeta | Estado |
 |---|---|---|---|
 | L2 Tu kick-off call | Reserva tu kick-off (calendario) | — | 🔗 enlace en la descripción, no es un archivo |
 | L2 Tu kick-off call | Formulario de onboarding (Tally) | — | 🔗 enlace en la descripción, no es un archivo |
-| L3 Tu norte: qué vida estás construyendo | F0-norte-personal.pdf | — | ⛔ FALTA — sin diseñar |
+| L3 Tu norte: qué vida estás construyendo | F0-norte-personal.pdf | L03-F0-norte-personal.pdf | ✅ listo |
 | L4 Señal vs ruido | F0-manifiesto-90-dias.pdf | L04-F0-manifiesto-90-dias.pdf | ✅ listo |
 | L5 Más / Mejor / Nuevo | F0-framework-mas-mejor-nuevo.pdf | L05-F0-framework-mas-mejor-nuevo.pdf | ✅ listo |
 | L6 Por qué falla la gente | F0-manifiesto-90-dias.pdf | — | ↩︎ ya subido en L4 |

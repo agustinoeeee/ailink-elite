@@ -4,7 +4,7 @@
 >
 > Se vacía sola: cuando una pieza se rehace, se convierte y se reparte, se borra su fila.
 >
-> Estado a 20/08/2026 · **7 piezas nuevas · 19 piezas a rehacer · 12 archivos a renombrar (sin rediseñar)**.
+> Estado a 21/08/2026 · **5 piezas nuevas · 14 piezas a rehacer**. El renombrado (paso 0) está hecho y el Bloque 1 · F0 está entregado, convertido y repartido.
 
 ## Qué ha cambiado (los cambios que provocan todo esto)
 
@@ -20,27 +20,9 @@
 
 ---
 
-## Paso 0 — Renombrar antes de nada (12 archivos, en el Mac)
+## Paso 0 — Renombrar (HECHO el 21/08/2026)
 
-Estos `.dc.html` **no se rediseñan: se renombran**. Hay que hacerlo **en orden descendente** para no pisar un archivo con otro, y **antes** de encargar las piezas nuevas — porque `F0-L03` y `F1-L02` van a pasar a ser lecciones distintas.
-
-```
-F0-L08-pizarra  →  F0-L09-pizarra
-F0-L07-pizarra  →  F0-L08-pizarra
-F0-L06-pizarra  →  F0-L07-pizarra
-F0-L05-pizarra  →  F0-L06-pizarra
-F0-L04-pizarra  →  F0-L05-pizarra
-F0-L03-pizarra  →  F0-L04-pizarra
-
-F1-L07-pizarra  →  F1-L08-pizarra
-F1-L06-pizarra  →  F1-L07-pizarra
-F1-L05-pizarra  →  F1-L06-pizarra
-F1-L04-pizarra  →  F1-L05-pizarra
-F1-L03-pizarra  →  F1-L04-pizarra
-F1-L02-pizarra  →  F1-L03-pizarra
-```
-
-Los PDF del **material del alumno** no hay que renombrarlos: su prefijo de lección lo pone `componer.py` a partir del orden del JSON, así que se recolocan solos.
+Los 12 archivos se renombraron en orden descendente en la carpeta de trabajo, dejando libres `F0-L3`, `F1-L2` y `F1-L9`. Verificado que el contenido de cada uno casa con su número nuevo. Copia de seguridad previa en `~/Desktop/formacion-visual-ANTES-de-renumerar.tgz`.
 
 ---
 
@@ -50,7 +32,6 @@ Los PDF del **material del alumno** no hay que renombrarlos: su prefijo de lecci
 
 | Pieza | Fuente | Qué es |
 |---|---|---|
-| `F0-norte-personal.pdf` | `modulos/F0-bienvenido/recursos/norte-personal.md` | A4, 2 páginas. Las 5 preguntas del contexto de vida, la tabla de los 7 criterios con columna «implicación para mi oferta», la escalera del valor y la declaración de propósito |
 | `F1-inventario-ventajas.pdf` | `modulos/F1-domina/recursos/inventario-ventajas.md` | A4, 2 páginas. Inventario de hechos, los seis cajones, la matriz de 6 factores con su tabla de candidatos y la frase de ventaja |
 | `F1-catalogo-oportunidades.pdf` | `modulos/F1-domina/recursos/catalogo-oportunidades.md` | A4, 2-3 páginas. Las 8 capas, las 8 áreas de oportunidad por tipo de negocio, la anatomía del proceso y «cuándo no automatizar todavía» |
 | `F1-revision-oferta.pdf` | `modulos/F1-domina/recursos/revision-oferta.md` | A4, 2 páginas. Los 14 criterios a 0/1/2, la barra de lectura de puntuación, la tabla de derivación y los tres activos |
@@ -59,7 +40,6 @@ Los PDF del **material del alumno** no hay que renombrarlos: su prefijo de lecci
 
 | Pieza | Fuente | Diapos |
 |---|---|---|
-| `F0-L03-pizarra.pdf` | `F0-bienvenido/pizarras/L3.md` | 5 — D2, D3 y D4 son los mismos bloques del A4 del norte personal: reutiliza la composición |
 | `F1-L02-pizarra.pdf` | `F1-domina/pizarras/L2.md` | 6 — D4 (los seis cajones) y D5 (la matriz) reutilizan la composición del worksheet |
 | `F1-L09-pizarra.pdf` | `F1-domina/pizarras/L9.md` | 5 — D1 es un diagrama radial; D4 reutiliza la barra de lectura de la puntuación |
 
@@ -69,13 +49,8 @@ Los PDF del **material del alumno** no hay que renombrarlos: su prefijo de lecci
 
 | PDF a sustituir | Fuente | Qué ha cambiado |
 |---|---|---|
-| `F0-roadmap-90-dias` | `F0-bienvenido/recursos/roadmap-90-dias.md` | Los 3 hitos con semanas nuevas, la nota del hito 4 y **las filas S6 a S10** de la tabla semana a semana (los 🏆 se mueven a S7, S10 y S12) |
-| `F0-checklist-setup-negocio` | `F0-bienvenido/recursos/checklist-setup-negocio.md` | El paso 4 pasa de "Stripe" a **método de pago**, con las dos condiciones (enlace de pago + guardar el método). La cabecera y el comprobante final citan la lección por nombre |
-| `F0-manifiesto-90-dias` | `F0-bienvenido/recursos/manifiesto-90-dias.md` | **Cambio mínimo:** la cabecera decía «Vinculado a la lección F0-L3» y ahora dice «la lección de señal vs ruido». Nada más |
-| `F0-plantilla-base-de-tests` | `F0-bienvenido/recursos/plantilla-base-de-tests.md` | **Cambio mínimo:** la cabecera cita la lección por nombre, sin número |
 | `F1-checklist-validacion-nicho` | `F1-domina/recursos/checklist-validacion-nicho.md` | "te bastan **1-3 clientes**" · bloque nuevo al principio con las tres puntuaciones que trae el candidato desde la matriz de ventajas · señal de alarma nueva («elegido porque tiene dinero», la lista pasa de 3 a 4) |
 | `F1-avatar-cliente-ideal` | `F1-domina/recursos/avatar-cliente-ideal.md` | **Rehecho casi entero.** Parte 1 nueva (los cuatro roles) · dos campos nuevos en el avatar y uno en el negocio · el test de la escena · **Parte 4 nueva: la brecha y el disparador** · las 8 preguntas de descubrimiento · la escala de evidencia · checklist de cierre ampliada a 7 casillas |
-| `F1-calculadora-pricing` | `F1-domina/recursos/calculadora-pricing.md` | **Pasa de 5 a 6 pasos:** entra el **Paso 3, el suelo** (coste de diagnóstico, construcción, herramientas, imprevistos y soporte + margen) con su bloque en el ejemplo relleno y en la calculadora en blanco. Los pasos 3-5 antiguos se desplazan a 4-6 |
 | `F1-worksheet-oferta` | `F1-domina/recursos/worksheet-oferta.md` | Paso 5 es **Garantía** y suma dos campos (qué pone el cliente, qué revisa una persona) · Paso 4 suma «primera señal de que funciona» · **Paso 8 — Urgencia** con la alternativa actual · Paso 9 con «el siguiente paso» · tres casillas nuevas en la checklist de calidad |
 | `F1-ejemplos-ofertas` | `F1-domina/recursos/ejemplos-ofertas.md` | "garantía" en lugar de "red de seguridad" · referencias por nombre · **bloque nuevo al final: el caso completo de ingeniería inversa**, de «hago chatbots» a una oferta concreta, en cinco pasos |
 | `F1-lista-micro-nichos-espana` | `F1-domina/recursos/lista-micro-nichos-espana.md` | **Cambio mínimo:** la cabecera cita la lección por nombre |
@@ -87,10 +62,6 @@ Los PDF del **material del alumno** no hay que renombrarlos: su prefijo de lecci
 
 | PDF a sustituir | Fuente | Qué ha cambiado |
 |---|---|---|
-| `F0-L01-pizarra` | `F0-bienvenido/pizarras/L1.md` | D3: **+5.000 €** |
-| `F0-L06-pizarra` *(era L05)* | `F0-bienvenido/pizarras/L6.md` | D5: "Aguantar la fase fea. **Sé resiliente.**" |
-| `F0-L08-pizarra` *(era L07)* | `F0-bienvenido/pizarras/L8.md` | D3: los tres hitos con semanas nuevas |
-| `F0-L09-pizarra` *(era L08)* | `F0-bienvenido/pizarras/L9.md` | D2, pieza 4: **método de pago (Stripe, PayPal, Wise…)** |
 | `F1-L01-pizarra` | `F1-domina/pizarras/L1.md` | D5: el mapa del módulo pasa de 4 a **5 pasos** — VENTAJA → NICHO → AVATAR → OFERTA → PRECIO, con la numeración de lección nueva |
 | `F1-L03-pizarra` *(era L02)* | `F1-domina/pizarras/L3.md` | D2: los dos ejemplos de micro-nicho · D4: promesa 5.000€ → 1-3 clientes, y el pie |
 | `F1-L04-pizarra` *(era L03)* | `F1-domina/pizarras/L4.md` | **Pasa de 4 a 6 diapos:** D2 nueva (quién es quién) · D3 suma la escalera de la escena en letra pequeña · **D5 nueva (la brecha y el disparador)** |

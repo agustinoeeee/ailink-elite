@@ -9,6 +9,7 @@
 > - `diseno/` — briefs + `PROMPT-MAESTRO.md` (primera tanda, entregada) + `PROMPT-CONTINUACION.md` (los 25 que faltan).
 > - `diseno/03-REENCARGOS-PENDIENTES.md` — lo que debe a diseño: **7 piezas nuevas, 19 a rehacer y 12 archivos a renombrar** tras los cambios del 20/08/2026 (promesa, micro-nichos, 7 componentes de oferta, hitos y setup de F0, y las tres lecciones nuevas de F0 y F1 con su renumeración). Mientras estén listadas, esos PDF están caducados.
 > - `entregables-listos/` — 13 CSV de trackers + 2 guías de montaje de formularios, con sus README.
+> - `pre-programa/` — **«Antes del día 1»**: entrevista de materia prima para quien ya tiene acceso y aún no ha empezado. Recoge, no decide: no pisa «Tu norte» ni «Tu inventario de ventajas».
 > - `skool/` — `00-MONTAJE-SKOOL.md` + maqueta navegable del aula.
 > - `plantillas-ailink/` — demo dental funcionando + 7 kits de brief.
 
