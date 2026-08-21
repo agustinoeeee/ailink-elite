@@ -47,6 +47,7 @@ El contenido se abre en orden; el trabajo se solapa a partir de Lanza.
 | `diseno/` | El sistema visual, los briefs por módulo y los prompts para Claude Design | No |
 | `skool/` | Plan de montaje + la maqueta navegable del aula + su generador | No |
 | `plantillas-ailink/` | La demo dental funcionando (HTML autocontenido) + 7 kits de brief para las demás soluciones | La demo sí |
+| `pre-programa/` | «Antes del día 1»: entrevista de materia prima para quien entra antes del arranque de cohorte, en `.docx` rellenable y PDF | Sí |
 | `herramientas/` | Los dos scripts que convierten el material de Claude Design y lo reparten por lección | No |
 | `_grok/` | Carril de auditoría paralelo, histórico. No se produce desde aquí | No |
 | `fuente/` | La transcripción del curso que se usó de esqueleto. **No está en el repo** (material de terceros) | No |
@@ -67,19 +68,19 @@ El estándar de cada tipo de pieza está escrito: el de los guiones de vídeo, e
 
 ---
 
-## Estado a 20/08/2026
+## Estado a 21/08/2026
 
 **Hecho:**
 - Los 7 módulos escritos, verificados y corregidos: 57 guiones + 49 recursos + guía interna del operador.
-- 54 de las 57 pizarras diseñadas y convertidas a PDF (faltan las tres de las lecciones nuevas de F0 y F1).
-- 17 de los 49 entregables diseñados (F0, F1 y F2 completos) y repartidos por lección. Los 4 recursos nuevos de F0 y F1 y varias piezas cuyo copy ha cambiado están listados en `diseno/03-REENCARGOS-PENDIENTES.md`.
+- 55 de las 57 pizarras diseñadas y convertidas a PDF (faltan las dos de las lecciones nuevas de F1).
+- 18 de los 49 entregables diseñados y repartidos por lección. **F0 y F2 están completos**; las piezas de F1 anteriores a la ampliación están caducadas y los 3 recursos nuevos de F1 sin diseñar, todo listado en `diseno/03-REENCARGOS-PENDIENTES.md`.
 - Los 13 CSV de trackers, con sus README de fórmulas.
 - Las guías de montaje de los 2 formularios.
 - La maqueta del aula, con las 57 descripciones escritas y listas para copiar.
 
 **Falta:**
 - **Grabar los 57 vídeos.**
-- **25 PDF de F3, F4, F5 y F6** — el encargo está escrito en `diseno/PROMPT-CONTINUACION.md`.
+- **28 adjuntos**: 25 PDF de F3 a F6 (encargo en `diseno/PROMPT-CONTINUACION.md`) y 3 de F1 (en `diseno/03-REENCARGOS-PENDIENTES.md`, junto con lo que hay que rehacer).
 - Los 17 pendientes de Agustín en `02-INDICE-MAESTRO.md`: cerrar las 7 cifras `[BORRADOR]`, montar los formularios en Tally, grabar la llamada modelo y pasar el esqueleto de contrato por un abogado.
 - Las 7 demos de plantilla que aún son solo brief (`plantillas-ailink/`).
 

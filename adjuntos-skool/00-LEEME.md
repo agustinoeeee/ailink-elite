@@ -8,7 +8,7 @@
 
 | # | Carpeta | Curso | Archivos listos | Faltan |
 |---|---|---|---|---|
-| 1 | `1-bienvenido` | F0 Bienvenido | 6 | 1 PDF |
+| 1 | `1-bienvenido` | F0 Bienvenido | 7 | — |
 | 2 | `2-domina` | F1 Domina | 7 | 3 PDF |
 | 3 | `3-construye` | F2 Construye | 5 | — |
 | 4 | `4-lanza` | F3 Lanza | 7 (los CSV) | 7 PDF |
@@ -16,7 +16,11 @@
 | 6 | `6-entrega` | F5 Entrega | 1 (el CSV) | 6 PDF |
 | 7 | `7-escala` | F6 Escala | 2 (los CSV) | 6 PDF |
 
-**F2 está completo.** F0 y F1 lo estaban hasta la ampliación del 20/08/2026: les faltan los 4 entregables de las lecciones nuevas (`F0-norte-personal`, `F1-inventario-ventajas`, `F1-catalogo-oportunidades`, `F1-revision-oferta`) y varias piezas cuyo copy ha cambiado — todo está en `diseno/03-REENCARGOS-PENDIENTES.md`. De F3 a F6 están todos los CSV y faltan los 25 PDF que Claude Design aún no ha producido — el encargo está en `diseno/PROMPT-CONTINUACION.md`.
+**F0 y F2 están completos** (12 archivos): esos dos cursos se pueden montar y grabar enteros. F0 se cerró el 21/08/2026 con el Bloque 1 de diseño, que trajo `F0-norte-personal` y rehizo lo que había caducado.
+
+A **F1 le faltan 3 entregables** de las lecciones nuevas (`F1-inventario-ventajas`, `F1-catalogo-oportunidades`, `F1-revision-oferta`), y **sus otras piezas están caducadas**: siguen siendo la versión anterior a la ampliación, así que no se graba ni se sube con ellas hasta que llegue el Bloque 2. La lista exacta está en `diseno/03-REENCARGOS-PENDIENTES.md`.
+
+De F3 a F6 están todos los CSV y faltan **25 PDF** que Claude Design aún no ha producido — el encargo está en `diseno/PROMPT-CONTINUACION.md`. **Total pendiente: 28 adjuntos.**
 
 Cada carpeta lleva su `_LEEME.md` con la tabla lección por lección: qué adjunto va, con qué nombre está aquí y en qué estado.
 
@@ -33,4 +37,4 @@ Los rangos de precio (piloto 500-1.500€, proyecto 2.000-6.000€, retainer 300
 
 ## Cómo se regeneró esto
 
-Claude Design entrega `.dc.html`, que no sirven como adjunto: dependen de una carpeta `_ds/` y se rompen al moverlos. Se convirtieron a PDF con Chrome (los A4 salen A4, los horizontales salen horizontales) y se repartieron por lección desde `skool/contenido-skool.json`, que es el mapa que manda. Si vuelves a recibir material de diseño, los scripts están en el scratchpad de la sesión: `convertir.py` y `componer.py`.
+Claude Design entrega `.dc.html`, que no sirven como adjunto: dependen de una carpeta `_ds/` y se rompen al moverlos. Se convirtieron a PDF con Chrome (los A4 salen A4, los horizontales salen horizontales) y se repartieron por lección desde `skool/contenido-skool.json`, que es el mapa que manda. Si vuelves a recibir material de diseño, el circuito son dos órdenes: `python3 herramientas/convertir.py "<carpeta que te haya dejado>"` y después `python3 herramientas/componer.py`.
