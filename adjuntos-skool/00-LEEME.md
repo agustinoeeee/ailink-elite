@@ -1,6 +1,6 @@
 # Adjuntos del alumno, listos para subir a Skool
 
-> Una carpeta por curso, en el mismo orden que el Classroom. Dentro, cada archivo lleva delante la lección a la que se sube: `L03-F0-manifiesto-90-dias.pdf` → lección 3.
+> Una carpeta por curso, en el mismo orden que el Classroom. Dentro, cada archivo lleva delante la lección a la que se sube: `L04-F0-manifiesto-90-dias.pdf` → lección 4.
 >
 > **Todo lo que hay aquí se sube tal cual.** Nada de esta carpeta es material interno.
 
@@ -8,15 +8,15 @@
 
 | # | Carpeta | Curso | Archivos listos | Faltan |
 |---|---|---|---|---|
-| 1 | `1-bienvenido` | F0 Bienvenido | 6 | — |
-| 2 | `2-domina` | F1 Domina | 7 | — |
+| 1 | `1-bienvenido` | F0 Bienvenido | 6 | 1 PDF |
+| 2 | `2-domina` | F1 Domina | 7 | 3 PDF |
 | 3 | `3-construye` | F2 Construye | 5 | — |
 | 4 | `4-lanza` | F3 Lanza | 7 (los CSV) | 7 PDF |
 | 5 | `5-cierra` | F4 Cierra | 2 (los CSV) | 6 PDF |
 | 6 | `6-entrega` | F5 Entrega | 1 (el CSV) | 6 PDF |
 | 7 | `7-escala` | F6 Escala | 2 (los CSV) | 6 PDF |
 
-**F0, F1 y F2 están completos: esos tres cursos se pueden montar enteros hoy** (18 archivos). De F3 a F6 están todos los CSV y faltan los 25 PDF que Claude Design aún no ha producido — el encargo está escrito en `diseno/PROMPT-CONTINUACION.md`.
+**F2 está completo.** F0 y F1 lo estaban hasta la ampliación del 20/08/2026: les faltan los 4 entregables de las lecciones nuevas (`F0-norte-personal`, `F1-inventario-ventajas`, `F1-catalogo-oportunidades`, `F1-revision-oferta`) y varias piezas cuyo copy ha cambiado — todo está en `diseno/03-REENCARGOS-PENDIENTES.md`. De F3 a F6 están todos los CSV y faltan los 25 PDF que Claude Design aún no ha producido — el encargo está en `diseno/PROMPT-CONTINUACION.md`.
 
 Cada carpeta lleva su `_LEEME.md` con la tabla lección por lección: qué adjunto va, con qué nombre está aquí y en qué estado.
 

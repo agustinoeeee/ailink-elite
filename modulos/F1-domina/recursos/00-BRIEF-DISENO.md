@@ -25,11 +25,11 @@
 |---|---|---|---|
 | `inventario-ventajas.md` | PDF A4 | 2 | `F1-inventario-ventajas.pdf` |
 | `catalogo-oportunidades.md` | PDF A4 | 2-3 | `F1-catalogo-oportunidades.pdf` |
-| `scorecard-oferta.md` | PDF A4 | 2 | `F1-scorecard-oferta.pdf` |
+| `revision-oferta.md` | PDF A4 | 2 | `F1-revision-oferta.pdf` |
 
 - **Inventario de ventajas** — worksheet en cuatro partes; la matriz de candidatos es el héroe y debe caber entera en una página, sin partirse. La tabla de hechos necesita filas altas: el alumno escribe frases, no palabras sueltas.
 - **Catálogo de oportunidades** — el único de los tres que no se rellena: página de consulta, puede ir más denso. Las 8 capas arriba, las 8 áreas en tarjetas y el bloque «cuándo NO automatizar» como franja de aviso.
-- **Scorecard de oferta** — ficha de puntuación: 14 filas con casillas 0/1/2 marcables a bolígrafo y el total sobre 28 visible desde lejos. La barra de lectura (0-14 / 15-22 / 23-28) es el segundo elemento en jerarquía.
+- **Revisión de la oferta** — ficha de puntuación: 14 filas con casillas 0/1/2 marcables a bolígrafo y el total sobre 28 visible desde lejos. La barra de lectura (0-14 / 15-22 / 23-28) es el segundo elemento en jerarquía.
 
 ## Dirección por pieza
 

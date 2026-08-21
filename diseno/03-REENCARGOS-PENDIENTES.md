@@ -15,7 +15,7 @@
 5. **Tres lecciones nuevas y la renumeración que traen** (20/08/2026). F0 pasa de 8 a 9 lecciones y F1 de 7 a 9:
    - **F0-L3 «Tu norte»** — propósito, los 7 criterios de diseño del negocio y la escalera del valor.
    - **F1-L2 «Tu inventario de ventajas»** — va antes de elegir nicho; produce los candidatos que entran en la checklist.
-   - **F1-L9 «De la oferta al resto del negocio»** — cierra el módulo con el scorecard y la derivación de activos.
+   - **F1-L9 «De la oferta al resto del negocio»** — cierra el módulo con la revisión de la oferta y la derivación de activos.
 6. **Regla nueva para los recursos del alumno:** las lecciones se citan **por nombre, nunca por número**. Es la razón por la que varias piezas caducan ahora — y la garantía de que una futura renumeración no vuelva a hacerlo.
 
 ---
@@ -53,7 +53,7 @@ Los PDF del **material del alumno** no hay que renombrarlos: su prefijo de lecci
 | `F0-norte-personal.pdf` | `modulos/F0-bienvenido/recursos/norte-personal.md` | A4, 2 páginas. Las 5 preguntas del contexto de vida, la tabla de los 7 criterios con columna «implicación para mi oferta», la escalera del valor y la declaración de propósito |
 | `F1-inventario-ventajas.pdf` | `modulos/F1-domina/recursos/inventario-ventajas.md` | A4, 2 páginas. Inventario de hechos, los seis cajones, la matriz de 6 factores con su tabla de candidatos y la frase de ventaja |
 | `F1-catalogo-oportunidades.pdf` | `modulos/F1-domina/recursos/catalogo-oportunidades.md` | A4, 2-3 páginas. Las 8 capas, las 8 áreas de oportunidad por tipo de negocio, la anatomía del proceso y «cuándo no automatizar todavía» |
-| `F1-scorecard-oferta.pdf` | `modulos/F1-domina/recursos/scorecard-oferta.md` | A4, 2 páginas. Los 14 criterios a 0/1/2, la barra de lectura de puntuación, la tabla de derivación y los tres activos |
+| `F1-revision-oferta.pdf` | `modulos/F1-domina/recursos/revision-oferta.md` | A4, 2 páginas. Los 14 criterios a 0/1/2, la barra de lectura de puntuación, la tabla de derivación y los tres activos |
 
 ### Pizarras de grabación (16:9)
 
@@ -61,7 +61,7 @@ Los PDF del **material del alumno** no hay que renombrarlos: su prefijo de lecci
 |---|---|---|
 | `F0-L03-pizarra.pdf` | `F0-bienvenido/pizarras/L3.md` | 5 — D2, D3 y D4 son los mismos bloques del A4 del norte personal: reutiliza la composición |
 | `F1-L02-pizarra.pdf` | `F1-domina/pizarras/L2.md` | 6 — D4 (los seis cajones) y D5 (la matriz) reutilizan la composición del worksheet |
-| `F1-L09-pizarra.pdf` | `F1-domina/pizarras/L9.md` | 5 — D1 es un diagrama radial; D4 reutiliza la barra de lectura del scorecard |
+| `F1-L09-pizarra.pdf` | `F1-domina/pizarras/L9.md` | 5 — D1 es un diagrama radial; D4 reutiliza la barra de lectura de la puntuación |
 
 ## Prioridad 2 — Material del alumno a rehacer
 
@@ -105,7 +105,7 @@ Los PDF del **material del alumno** no hay que renombrarlos: su prefijo de lecci
 - **F1-L03 D2**: las dos líneas de ejemplo son ahora bastante más largas (107 y 93 caracteres, antes 79 y 72). Las tarjetas estaban calculadas para dos líneas de 42 px.
 - **F1-L05**: D4 pasa de 6 a 7 ítems con su línea de apoyo cada uno, y D6 es un bloque de texto más largo que la media del sistema.
 - **F1-inventario-ventajas**: la tabla de hechos necesita filas altas —el alumno escribe frases, no palabras— y la matriz de candidatos tiene que caber entera en una página, sin partirse.
-- **F1-scorecard-oferta**: las casillas 0/1/2 tienen que poder marcarse a bolígrafo y el total sobre 28 verse desde lejos.
+- **F1-revision-oferta**: las casillas 0/1/2 tienen que poder marcarse a bolígrafo y el total sobre 28 verse desde lejos.
 
 Si algo no cabe, la regla de siempre: se señala en la entrega, **no se recorta el copy**.
 

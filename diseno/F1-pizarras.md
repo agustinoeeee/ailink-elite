@@ -21,7 +21,7 @@
 | **L6** La trampa del aprendiz y tu escalera | **Imprescindible** | 5 | cuaderno-f1.md §3 'Mi piloto' (ya descargado en L1 — esta lección NO tiene descarga nueva; la cabecera del guion lo marca como '—') | La escalera de 3 peldaños piloto→proyecto→retainer: vacía en el gancho y rotulada al final; segunda pieza fuerte, las dos espirales enfrentadas carrera al fondo (descendente) vs ciclo premium (ascendente). |
 | **L7** La matemática de tu precio | **Imprescindible** | 7 | calculadora-pricing | Termómetro de 3 zonas de ROI (0-5x fuga rojo · 5-10x sólida verde · >10x fan dorado) y la cadena de cifras del ejemplo dental: 4.000€ → ÷5 → 800€ → 9.600€ → 9.200€ → 5,2x. |
 | **L8** Construye tu oferta V1 — en directo | Útil | 4 | worksheet-oferta.md + ejemplos-ofertas | La plantilla de una sola frase ('Ayudo a [nicho] a [resultado]...') en grande, rellenándose palabra a palabra, con el código de color de los 7 componentes que luego se reutiliza para diseccionar la galería. |
-| **L9** De la oferta al resto del negocio | **Imprescindible** | 5 | scorecard-oferta.md | Diagrama radial: la hoja TU OFERTA V1 en el centro y seis flechas saliendo a F2 DEMO · F3 ANUNCIOS · F3 VSL · F4 LLAMADA · F4 OBJECIONES · F5 ENTREGA. Segunda pieza: la barra de lectura del scorecard en tres tramos. |
+| **L9** De la oferta al resto del negocio | **Imprescindible** | 5 | revision-oferta.md | Diagrama radial: la hoja TU OFERTA V1 en el centro y seis flechas saliendo a F2 DEMO · F3 ANUNCIOS · F3 VSL · F4 LLAMADA · F4 OBJECIONES · F5 ENTREGA. Segunda pieza: la barra de lectura de la puntuación en tres tramos. |
 
 ## Lo que NO se diseña: pantalla real
 

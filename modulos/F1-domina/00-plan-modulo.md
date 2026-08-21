@@ -1,6 +1,6 @@
 # F1 | Domina — Blueprint del módulo (contrato de producción)
 
-> Semanas 2-3 del alumno. **9 lecciones.** Objetivo del módulo: salir con **inventario de ventajas hecho, micro-nicho elegido y validado, avatar del cliente ideal hecho, oferta V1 redactada, precios fijados con la calculadora y la oferta comprobada con el scorecard**. Es el módulo donde SÍ viven los rangos de precio (regla de compartimentación de la Biblia 3.1).
+> Semanas 2-3 del alumno. **9 lecciones.** Objetivo del módulo: salir con **inventario de ventajas hecho, micro-nicho elegido y validado, avatar del cliente ideal hecho, oferta V1 redactada, precios fijados con la calculadora y la oferta comprobada con la revisión final**. Es el módulo donde SÍ viven los rangos de precio (regla de compartimentación de la Biblia 3.1).
 >
 > Leer también `../../01-BIBLIA.md` antes de escribir nada. El alumno llega de F0 sabiendo: la promesa (+5.000€ de facturación acumulada al final de los 90 días), su norte personal con los 7 criterios de diseño y la escalera del valor, Más/Mejor/Nuevo, señal vs ruido (manifiesto firmado), reglas de validez 300/30, y su roadmap. NO re-explicar nada de eso: referenciarlo ("como firmaste en tu manifiesto…", "recuerda la regla de validez de F0").
 
@@ -85,9 +85,9 @@
 - **Recursos vinculados:** `recursos/worksheet-oferta.md` + `recursos/ejemplos-ofertas.md`.
 
 ### L9 | De la oferta al resto del negocio — `guiones/L9-de-la-oferta-al-negocio.md` (6-8 min, cierre del módulo)
-- **Objetivo:** el alumno puntúa su oferta con el scorecard y deriva de ella sus tres primeros activos comerciales.
-- **Contenido obligatorio:** (a) la regla de coherencia — todo lo que se haga a partir de mañana debe poder rastrearse hasta un componente de la oferta; quien no puede, está inventando comunicación para tapar una oferta vaga; (b) la tabla de derivación componente → activo → dónde se usa (persona → lista de F3; brecha y coste → ganchos y creativos; resultado → titular y VSL; método → demo de F2 y presentación de F4; alternativa actual → objeciones de F4; garantía y alcance → propuesta y arranque de F5; lenguaje del cliente → todo el copy); (c) el scorecard de 14 criterios a 0/1/2 con su lectura de puntuación (0-14 / 15-22 / 23-28) y el aviso anti-perfeccionismo: «no mejora tu oferta, mejora la calidad de lo que vas a poner a prueba»; (d) derivar tres activos sin inventar nada: un gancho, una pregunta de diagnóstico y un seguimiento que ataque una objeción real. **Frontera explícita: aquí NO se enseña a escribir anuncios ni VSL — eso es F3.** SIN cifras de precio nuevas.
-- **Recurso vinculado:** `recursos/scorecard-oferta.md`.
+- **Objetivo:** el alumno puntúa su oferta con la ficha de revisión y deriva de ella sus tres primeros activos comerciales.
+- **Contenido obligatorio:** (a) la regla de coherencia — todo lo que se haga a partir de mañana debe poder rastrearse hasta un componente de la oferta; quien no puede, está inventando comunicación para tapar una oferta vaga; (b) la tabla de derivación componente → activo → dónde se usa (persona → lista de F3; brecha y coste → ganchos y creativos; resultado → titular y VSL; método → demo de F2 y presentación de F4; alternativa actual → objeciones de F4; garantía y alcance → propuesta y arranque de F5; lenguaje del cliente → todo el copy); (c) la revisión de 14 criterios a 0/1/2 con su lectura de puntuación (0-14 / 15-22 / 23-28) y el aviso anti-perfeccionismo: «no mejora tu oferta, mejora la calidad de lo que vas a poner a prueba»; (d) derivar tres activos sin inventar nada: un gancho, una pregunta de diagnóstico y un seguimiento que ataque una objeción real. **Frontera explícita: aquí NO se enseña a escribir anuncios ni VSL — eso es F3.** SIN cifras de precio nuevas.
+- **Recurso vinculado:** `recursos/revision-oferta.md`.
 
 ### R1 | `recursos/lista-micro-nichos-espana.md`
 Tabla de ~12 micro-nichos españoles: nicho | dolor nº1 automatizable | solución de IA típica | por qué paga | nota de acceso. Nichos: clínicas dentales, medicina estética, fisioterapia, veterinarias, gestorías/asesorías, despachos de abogados, inmobiliarias, academias/centros de formación, talleres mecánicos, empresas de reformas/instaladores, restaurantes (matiz: ticket bajo → solo con volumen/reservas), alojamientos turísticos. Soluciones típicas (catálogo AILINK): recepcionista IA (WhatsApp/llamadas), recuperación de no-shows y citas, cualificación y seguimiento de leads, presupuestos automáticos, gestión documental, automatización de reseñas Google, chatbot web cualificador, informes automáticos. Cierre: "lista de arranque, no un censo; cualquier nicho propio debe pasar la checklist".
@@ -113,7 +113,7 @@ Worksheet en cuatro partes: (1) tabla de inventario de hechos con cinco columnas
 ### R8 | `recursos/catalogo-oportunidades.md`
 Lente de investigación, no lista para copiar. (1) Las 8 capas de cualquier automatización (capturar, limpiar, clasificar, enriquecer, decidir, ejecutar, comunicar, medir) + la regla «no todo necesita IA»; (2) ocho áreas donde se atascan los negocios españoles de la lista de micro-nichos, cada una con 3-4 ejemplos por tipo de negocio y la solución del catálogo AILINK que lo ejecuta; (3) la anatomía del proceso en 10 preguntas para mapear antes de proponer nada; (4) las seis señales de **cuándo no automatizar todavía**, con el cierre «ordenar el proceso también se cobra».
 
-### R9 | `recursos/scorecard-oferta.md`
+### R9 | `recursos/revision-oferta.md`
 A4 en tres partes: (1) los 14 criterios a 0/1/2 con su pregunta de revisión, el total sobre 28 y la tabla de lectura de puntuación; (2) la tabla de derivación oferta → activo → dónde se usa (se consulta, no se rellena); (3) los tres activos derivados con ejemplo del tipo de frase en cada uno. Cierra con checklist de tres casillas.
 
 ## Archivos que NO escriben los redactores (los hace Claude principal)

@@ -10,7 +10,7 @@
 | Avatar + día-en-la-vida completados (con los 3 momentos de dolor marcados) | ≤ fin de semana 2 | L4 / R3 |
 | Matemática de precio hecha con la calculadora (techo = valor ÷ 5, suelo = coste + margen, zona 5-10x) | Antes de redactar la oferta | L7 / R4 |
 | **Oferta V1 redactada** (hito maestro del roadmap) | **Fin de semana 3** | L8 / R5 |
-| Scorecard puntuado sin ningún criterio a 0 + los 3 activos derivados escritos | Cierre del módulo | L9 / R9 |
+| Revisión de la oferta puntuada sin ningún criterio a 0 + los 3 activos derivados escritos | Cierre del módulo | L9 / R9 |
 
 ## KPIs de Agustín como operador
 
@@ -19,7 +19,7 @@
 | % alumnos con oferta V1 al final de la S3 | > 70% | Es el primer hito maestro; quien lo cumple entra a F2 con momentum |
 | % alumnos que cambian de nicho sin datos (antes de 300 toques/30 llamadas) | < 10% | Detector de síndrome del objeto brillante; interviene en comunidad/llamada |
 | % ofertas V1 con precio fuera de los rangos del programa | Revisar caso a caso | Fuera de rango = matemática mal hecha o nicho que no da (vuelta a la checklist) |
-| Puntuación media del scorecard al cerrar el módulo | ≥ 23 / 28 | Por debajo de 15 el alumno sale a vender una idea; se interviene antes de que gaste toques de F3 |
+| Puntuación media de la revisión al cerrar el módulo | ≥ 23 / 28 | Por debajo de 15 el alumno sale a vender una idea; se interviene antes de que gaste toques de F3 |
 
 ## Dependencias
 

@@ -9,39 +9,39 @@
   "arch": "",
   "carp": "1-bienvenido"
  },
- "F0|3|F0-manifiesto-90-dias.pdf": {
+ "F0|4|F0-manifiesto-90-dias.pdf": {
   "est": "listo",
-  "arch": "L03-F0-manifiesto-90-dias.pdf",
+  "arch": "L04-F0-manifiesto-90-dias.pdf",
   "carp": "1-bienvenido"
  },
- "F0|4|F0-framework-mas-mejor-nuevo.pdf": {
+ "F0|5|F0-framework-mas-mejor-nuevo.pdf": {
   "est": "listo",
-  "arch": "L04-F0-framework-mas-mejor-nuevo.pdf",
+  "arch": "L05-F0-framework-mas-mejor-nuevo.pdf",
   "carp": "1-bienvenido"
  },
- "F0|5|F0-manifiesto-90-dias.pdf": {
-  "est": "ya subido en L3",
+ "F0|6|F0-manifiesto-90-dias.pdf": {
+  "est": "ya subido en L4",
   "arch": "",
   "carp": "1-bienvenido"
  },
- "F0|6|F0-plantilla-base-de-tests.pdf": {
+ "F0|7|F0-plantilla-base-de-tests.pdf": {
   "est": "listo",
-  "arch": "L06-F0-plantilla-base-de-tests.pdf",
+  "arch": "L07-F0-plantilla-base-de-tests.pdf",
   "carp": "1-bienvenido"
  },
- "F0|6|F0-plantilla-base-de-tests.csv": {
+ "F0|7|F0-plantilla-base-de-tests.csv": {
   "est": "listo",
-  "arch": "L06-F0-plantilla-tests.csv",
+  "arch": "L07-F0-plantilla-tests.csv",
   "carp": "1-bienvenido"
  },
- "F0|7|F0-roadmap-90-dias.pdf": {
+ "F0|8|F0-roadmap-90-dias.pdf": {
   "est": "listo",
-  "arch": "L07-F0-roadmap-90-dias.pdf",
+  "arch": "L08-F0-roadmap-90-dias.pdf",
   "carp": "1-bienvenido"
  },
- "F0|8|F0-checklist-setup-negocio.pdf": {
+ "F0|9|F0-checklist-setup-negocio.pdf": {
   "est": "listo",
-  "arch": "L08-F0-checklist-setup-negocio.pdf",
+  "arch": "L09-F0-checklist-setup-negocio.pdf",
   "carp": "1-bienvenido"
  },
  "F1|1|F1-cuaderno-f1.pdf": {
@@ -49,24 +49,19 @@
   "arch": "L01-F1-cuaderno-f1.pdf",
   "carp": "2-domina"
  },
- "F1|2|F1-lista-micro-nichos-espana.pdf": {
+ "F1|3|F1-lista-micro-nichos-espana.pdf": {
   "est": "listo",
-  "arch": "L02-F1-lista-micro-nichos-espana.pdf",
+  "arch": "L03-F1-lista-micro-nichos-espana.pdf",
   "carp": "2-domina"
  },
- "F1|2|F1-checklist-validacion-nicho.pdf": {
+ "F1|3|F1-checklist-validacion-nicho.pdf": {
   "est": "listo",
-  "arch": "L02-F1-checklist-validacion-nicho.pdf",
+  "arch": "L03-F1-checklist-validacion-nicho.pdf",
   "carp": "2-domina"
  },
- "F1|3|F1-avatar-cliente-ideal.pdf": {
+ "F1|4|F1-avatar-cliente-ideal.pdf": {
   "est": "listo",
-  "arch": "L03-F1-avatar-cliente-ideal.pdf",
-  "carp": "2-domina"
- },
- "F1|4|F1-cuaderno-f1.pdf": {
-  "est": "ya subido en L1",
-  "arch": "",
+  "arch": "L04-F1-avatar-cliente-ideal.pdf",
   "carp": "2-domina"
  },
  "F1|5|F1-cuaderno-f1.pdf": {
@@ -74,33 +69,38 @@
   "arch": "",
   "carp": "2-domina"
  },
- "F1|5|F1-avatar-cliente-ideal.pdf": {
+ "F1|6|F1-cuaderno-f1.pdf": {
+  "est": "ya subido en L1",
+  "arch": "",
+  "carp": "2-domina"
+ },
+ "F1|6|F1-avatar-cliente-ideal.pdf": {
+  "est": "ya subido en L4",
+  "arch": "",
+  "carp": "2-domina"
+ },
+ "F1|6|F1-lista-micro-nichos-espana.pdf": {
   "est": "ya subido en L3",
   "arch": "",
   "carp": "2-domina"
  },
- "F1|5|F1-lista-micro-nichos-espana.pdf": {
-  "est": "ya subido en L2",
-  "arch": "",
-  "carp": "2-domina"
- },
- "F1|6|F1-calculadora-pricing.pdf": {
-  "est": "listo",
-  "arch": "L06-F1-calculadora-pricing.pdf",
-  "carp": "2-domina"
- },
- "F1|7|F1-worksheet-oferta.pdf": {
-  "est": "listo",
-  "arch": "L07-F1-worksheet-oferta.pdf",
-  "carp": "2-domina"
- },
- "F1|7|F1-ejemplos-ofertas.pdf": {
-  "est": "listo",
-  "arch": "L07-F1-ejemplos-ofertas.pdf",
-  "carp": "2-domina"
- },
  "F1|7|F1-calculadora-pricing.pdf": {
-  "est": "ya subido en L6",
+  "est": "listo",
+  "arch": "L07-F1-calculadora-pricing.pdf",
+  "carp": "2-domina"
+ },
+ "F1|8|F1-worksheet-oferta.pdf": {
+  "est": "listo",
+  "arch": "L08-F1-worksheet-oferta.pdf",
+  "carp": "2-domina"
+ },
+ "F1|8|F1-ejemplos-ofertas.pdf": {
+  "est": "listo",
+  "arch": "L08-F1-ejemplos-ofertas.pdf",
+  "carp": "2-domina"
+ },
+ "F1|8|F1-calculadora-pricing.pdf": {
+  "est": "ya subido en L7",
   "arch": "",
   "carp": "2-domina"
  },

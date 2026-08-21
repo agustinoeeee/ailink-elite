@@ -1,4 +1,4 @@
-# Scorecard de tu oferta — ¿aguanta?
+# La revisión de tu oferta — ¿aguanta?
 
 > Recurso de la lección de cierre de F1 Domina. Se rellena **después** del worksheet de oferta, nunca antes. Puntúa con honestidad brutal: aquí el objetivo no es aprobar, es encontrar el hueco antes de que lo encuentre un cliente en una llamada.
 
@@ -43,7 +43,7 @@ Cada uno vale **0, 1 o 2 puntos**. Cero es «no lo tengo». Uno es «lo tengo a 
 | **15-22** | Hay una hipótesis útil, pero falta foco, prueba o coherencia | Localiza los ceros y arréglalos esta semana |
 | **23-28** | Lista para salir a conversaciones reales y a un piloto | Adelante |
 
-> El scorecard **no sustituye al mercado**. No mejora tu oferta: mejora la calidad de lo que vas a poner a prueba. Con un 24 se sale a la calle igual que con un 28 — y quien espera al 28 no sale nunca.
+> Esta revisión **no sustituye al mercado**. No mejora tu oferta: mejora la calidad de lo que vas a poner a prueba. Con un 24 se sale a la calle igual que con un 28 — y quien espera al 28 no sale nunca.
 
 **Criterios que he puesto a 0 y qué voy a hacer con ellos esta semana:**
 

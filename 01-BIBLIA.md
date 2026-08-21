@@ -24,7 +24,7 @@ Bienvenido (Onboarding) → F1 Diseño de oferta → F2 Máquina de demanda (Met
 | Fase | Nombre | Contenido | Semanas (orientativo) |
 |---|---|---|---|
 | **F0** | **Bienvenido** (Onboarding) | Kick-off call, **norte personal** (propósito, criterios de diseño del negocio, escalera del valor), mentalidad (señal vs ruido, More/Better/New, por qué falla la gente), expectativas de los 90 días, setup básico (negocio, herramientas) | 1 |
-| **F1** | **Domina** — Nicho + Oferta | **Inventario de ventajas del alumno**, selección de micro-nicho vertical español, ICP avatar con brecha medida, diseño de oferta irresistible, **matemática de pricing** (movida aquí desde F3), escalera del principiante, **scorecard y derivación de activos** | 2-3 |
+| **F1** | **Domina** — Nicho + Oferta | **Inventario de ventajas del alumno**, selección de micro-nicho vertical español, ICP avatar con brecha medida, diseño de oferta irresistible, **matemática de pricing** (movida aquí desde F3), escalera del principiante, **revisión de la oferta y derivación de activos** | 2-3 |
 | **F2** | **Construye** — Claude Code Mastery ⭐ NUEVO | El módulo flagship: construir soluciones de IA con Claude Code. El alumno sale con **su solución demo construida** (su activo de venta) + plantillas reutilizables | 3-4 |
 | **F3** | **Lanza** — Máquina de demanda | Meta ads B2B desde cero (adaptación del Meta Ads Mastery de Owen) + funnel + VSL + página calentada. Rama low-budget: outreach orgánico RGPD-compliant | 5-7 |
 | **F4** | **Cierra** — Ventas consultivas | Setting + closing en una llamada, discovery en 3 niveles, objeciones, umbral de acción. (El pricing ya no está aquí: se enseña en F1) | 6-9 |
@@ -49,7 +49,7 @@ F0 pasa de 8 a **9 lecciones** y F1 de 7 a **9**. Las tres nuevas cubren huecos 
 |---|---|---|---|
 | **F0-L3 Tu norte** | Entre la kick-off y el manifiesto | Nada: el manifiesto solo pedía «mi porqué» en tres líneas | El alumno elegía nicho sin haber decidido qué vida quiere. Los 7 criterios de diseño son el filtro que le falta a F1 |
 | **F1-L2 Inventario de ventajas** | Antes de elegir micro-nicho | Nada: se elegía de la lista por acceso y atracción | Sin inventario, el alumno elige el nicho de moda en vez del nicho donde tiene ventaja. La matriz produce los candidatos que entran en la checklist |
-| **F1-L9 De la oferta al resto del negocio** | Cierre de F1 | Un puente de una frase hacia F2 | La oferta gobierna F2-F5 y nadie se lo decía. Añade el scorecard de comprobación y la derivación de los primeros activos |
+| **F1-L9 De la oferta al resto del negocio** | Cierre de F1 | Un puente de una frase hacia F2 | La oferta gobierna F2-F5 y nadie se lo decía. Añade la revisión de comprobación y la derivación de los primeros activos |
 
 Consecuencia de numeración: todo lo que iba de F0-L3 a F0-L8 y de F1-L2 a F1-L7 se desplaza una posición. **Regla nueva a partir de aquí: los recursos del alumno citan las lecciones por nombre, nunca por número**, para que una renumeración no vuelva a caducar sus PDF. En guiones y documentos internos se siguen usando números.
 
