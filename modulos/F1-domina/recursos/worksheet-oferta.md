@@ -71,7 +71,7 @@ Una oferta que vale para todos no vale para nadie.
 
 ## Paso 7 — Precio (copiado de tu calculadora, no inventado)
 
-Trae los números de `calculadora-pricing.md` — los dos techos salen de su Paso 2 (regla de oro: valor ÷ 5). Rangos del programa como marco obligatorio.
+Trae los números de `calculadora-pricing.md` — los dos techos salen de su Paso 2 (regla de oro: valor ÷ 5). Rangos del programa como marco obligatorio. Si no facturas en euros, usa el equivalente en tu moneda, igual que en la calculadora.
 
 - Valor mensual estimado para el cliente (vía A u B de la calculadora): ______ €
 - Techo mensual (retainer ≤ esto): ______ €

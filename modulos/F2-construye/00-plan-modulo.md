@@ -1,6 +1,6 @@
 # F2 | Construye — Blueprint del módulo (contrato de producción)
 
-> Semanas 3-4 del alumno. El módulo FLAGSHIP del programa: la habilidad core (construir soluciones de IA con Claude Code). Objetivo del módulo: salir con **la solución demo construida, desplegada en una URL y con guion de presentación de 3 minutos** (hito maestro fin S4) — el activo que hace innegable la oferta V1 de F1.
+> Semana 2 del alumno. El módulo FLAGSHIP del programa: la habilidad core (construir soluciones de IA con Claude Code). Objetivo del módulo: salir con **la solución demo construida, desplegada en una URL y con guion de presentación de 3 minutos** (hito maestro fin S2) — el activo que hace innegable la oferta V1 de F1.
 >
 > ⚠️ MÓDULO DE CREACIÓN ORIGINAL: no hay chunk fuente (el equivalente en el curso fuente enseñaba Meta Ads; aquí la habilidad core es otra). Se hereda solo el ESQUELETO de un módulo flagship: filosofía → flujo general → componentes → build en directo → disciplina de testeo → benchmarks. Todo el contenido técnico sale de este blueprint — seguirlo con precisión.
 >

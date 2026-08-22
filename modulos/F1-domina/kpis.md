@@ -1,6 +1,6 @@
 # F1 | Domina — KPIs del módulo
 
-## KPIs del alumno (semanas 2-3)
+## KPIs del alumno (semana 1)
 
 | KPI | Objetivo | Se mide en |
 |---|---|---|

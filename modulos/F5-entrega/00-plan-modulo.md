@@ -1,6 +1,6 @@
 # F5 | Entrega — Blueprint del módulo (contrato de producción)
 
-> Semanas 8-11 del alumno (solapado con F3/F4: entrega mientras sigue captando). Objetivo del módulo: **piloto entregado en ≤7 días, proyecto en ≤21, cliente encantado y listo para el retainer**. Hito maestro: primera entrega completada con criterios de aceptación firmados.
+> Semanas 7-11 del alumno (solapado con F3/F4: entrega mientras sigue captando). Objetivo del módulo: **piloto entregado en ≤7 días, proyecto en ≤21, cliente encantado y listo para el retainer**. Hito maestro: primera entrega completada con criterios de aceptación firmados.
 >
 > Leer `../../01-BIBLIA.md`. El alumno llega con: primer cliente cobrado en la llamada (F4), demo guiada (F2), plantilla de brief (F2-L3), checklist pre-demo (F2-L6), tarjeta del cliente guardada en Stripe (F0-L9/F4-L6).
 >

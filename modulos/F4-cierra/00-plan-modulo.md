@@ -1,6 +1,6 @@
 # F4 | Cierra — Blueprint del módulo (contrato de producción)
 
-> Semanas 6-9 del alumno (SOLAPADO con F3 por diseño: mientras la máquina agenda, él cierra). Objetivo del módulo: **primer cliente firmado y cobrado — el piloto se cobra EN la llamada**. Hito maestro: primer cliente (S6-9, rango honesto del roadmap).
+> Semanas 6-10 del alumno (SOLAPADO con F3 por diseño: mientras la máquina agenda, él cierra). Objetivo del módulo: **primer cliente firmado y cobrado — el piloto se cobra EN la llamada**. Hito maestro: primer cliente (S7-10, rango honesto del roadmap).
 >
 > Leer `../../01-BIBLIA.md`. El alumno llega con: oferta V1 + precios (F1), demo + guion de 3 min + vídeo (F2), reuniones entrando (F3), Stripe con enlace de pago y tarjeta guardable (F0-L9). Este módulo convierte reuniones en clientes.
 

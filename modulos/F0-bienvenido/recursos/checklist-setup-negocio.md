@@ -1,6 +1,6 @@
 # Checklist | Setup de tu negocio
 
-> **Recurso de la lección de setup de tu negocio — F0 Bienvenido.** 5 piezas + 1 trámite = 6 pasos. Sigue los pasos EN ORDEN: cada uno depende del anterior. Objetivo: las piezas en una tarde de trabajo + el trámite de la semana. KPI del módulo: **operativo en ≤7 días**.
+> **Recurso de la lección de setup de tu negocio — F0 Bienvenido.** 5 piezas = 5 pasos. Sigue los pasos EN ORDEN: cada uno depende del anterior. Objetivo: todo en una tarde de trabajo. KPI del módulo: **operativo en ≤7 días**.
 >
 > Imprime esta página o cópiala a tu gestor de notas. No pases al siguiente paso sin marcar el anterior.
 
@@ -12,8 +12,7 @@
 | 2 | Dominio | 15 min |
 | 3 | Google Workspace (email profesional) | 30 min |
 | 4 | Método de pago + enlace de pago + guardar tarjeta | 45 min |
-| 5 | Nota fiscal España (gestor) | trámite de la semana |
-| 6 | Calendario de reservas | 20 min |
+| 5 | Calendario de reservas | 20 min |
 | — | **Total de trabajo activo** | **~2 horas** |
 
 ---
@@ -22,8 +21,8 @@
 
 Regla: el nombre se puede cambiar. Nadie te contrata por el nombre. 10 minutos y sales.
 
-- [ ] Pide a Claude 20 opciones de nombre (indica: agencia de soluciones de IA, España, tono profesional)
-- [ ] Filtra con los 3 criterios: corto · pronunciable por teléfono · dominio .com o .es libre
+- [ ] Pide a Claude 20 opciones de nombre (indica: agencia de soluciones de IA, tu país, tono profesional)
+- [ ] Filtra con los 3 criterios: corto · pronunciable por teléfono · dominio .com o el de tu país, libre
 - [ ] Descarta nombres híper-nicho (el nicho se elige en F1; hoy, neutro y profesional)
 - [ ] Elige uno y escríbelo aquí:
 
@@ -31,7 +30,7 @@ Regla: el nombre se puede cambiar. Nadie te contrata por el nombre. 10 minutos y
 
 ## Paso 2 — Dominio (15 min)
 
-- [ ] Comprueba disponibilidad en un registrador (DonDominio, Namecheap, GoDaddy)
+- [ ] Comprueba disponibilidad en un registrador serio (Namecheap, GoDaddy o el que se use en tu país)
 - [ ] Compra el dominio (10-15€/año aprox.) — solo 1 año, solo 1 dominio
 - [ ] NO compres extras (protección premium, dominios "por si acaso", packs de email del registrador)
 
@@ -51,12 +50,12 @@ Regla dura del programa: **nunca vender desde un @gmail.com**.
 
 ## Paso 4 — Método de pago: cobros + enlace de pago + tarjeta guardada (45 min)
 
-Necesitas: DNI/NIE + cuenta bancaria con IBAN.
+Necesitas: tu documento de identidad + una cuenta bancaria a tu nombre.
 
-Sirve Stripe, PayPal, Wise o la que ya uses, **siempre que haga dos cosas**: enviar un enlace de pago en mitad de una llamada y guardar el método de pago del cliente para los cobros siguientes (sin eso no hay retainer automático en F6). El programa recomienda **Stripe España** y es la que se ve en pantalla en la lección.
+Sirve Stripe, PayPal, Wise o la que ya uses, **siempre que haga dos cosas**: enviar un enlace de pago en mitad de una llamada y guardar el método de pago del cliente para los cobros siguientes (sin eso no hay retainer automático en F6). El programa recomienda **Stripe** y es la que se ve en pantalla en la lección. Si Stripe no opera en tu país, elige la pasarela local que cumpla esas dos condiciones — la marca da igual, las dos condiciones no.
 
-- [ ] Crea tu cuenta en la pasarela elegida (Stripe España si sigues la recomendación) y completa los datos de activación
-- [ ] Conecta tu cuenta bancaria (IBAN)
+- [ ] Crea tu cuenta en la pasarela elegida (Stripe si sigues la recomendación) y completa los datos de activación
+- [ ] Conecta tu cuenta bancaria
 - [ ] Crea tu primer **enlace de pago** de prueba (Payment Link en Stripe, o su equivalente) con un importe simbólico
 - [ ] **CRÍTICO — al crear el enlace, activa "guardar los datos de pago para uso futuro"** (opción de guardar tarjeta). Sin esto no hay retainer cómodo de cobrar: es la base de tu MRR
 - [ ] Haz un pago de test con el link y verifica que llega a tu panel
@@ -64,19 +63,7 @@ Sirve Stripe, PayPal, Wise o la que ya uses, **siempre que haga dos cosas**: env
 
 Verificación: ¿podrías enviar un enlace de pago por chat en mitad de una llamada, ahora mismo? Si la respuesta es no, este paso no está terminado.
 
-## Paso 5 — Nota fiscal España (trámite de la semana)
-
-⚠️ **Esto es orientación general, NO asesoría fiscal. Confírmalo TODO con tu gestor.**
-
-- [ ] Busca y contrata un gestor/asesoría (online vale; pregunta en la comunidad del programa)
-- [ ] Consulta con tu gestor: alta de autónomo (cuándo te conviene darte de alta según tu situación)
-- [ ] Consulta con tu gestor: IVA e IRPF en tus facturas a empresas, y obligaciones trimestrales
-- [ ] Decide con tu gestor el momento del alta — idealmente antes de tu primer cobro real
-- [ ] SL: NO por ahora. Cuando los números lo justifiquen, tu gestor te avisará
-
-**Mi gestor/asesoría:** ______________________________
-
-## Paso 6 — Calendario de reservas (20 min)
+## Paso 5 — Calendario de reservas (20 min)
 
 Herramienta: Cal.com (gratis) o Calendly.
 

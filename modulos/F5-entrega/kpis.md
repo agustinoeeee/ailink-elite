@@ -1,6 +1,6 @@
 # F5 | Entrega — KPIs del módulo
 
-## KPIs del alumno (semanas 8-11, solapado con captación)
+## KPIs del alumno (semanas 7-11, solapado con captación)
 
 | KPI | Objetivo | Se mide en |
 |---|---|---|

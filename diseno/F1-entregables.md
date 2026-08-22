@@ -11,7 +11,7 @@
 
 | Archivo de origen | Formato | Páginas | Archivo de salida |
 |---|---|---|---|
-| `lista-micro-nichos-espana.md` | PDF A4 horizontal | 1-2 | `F1-lista-micro-nichos-espana.pdf` |
+| `lista-micro-nichos.md` | PDF A4 horizontal | 1-2 | `F1-lista-micro-nichos.pdf` |
 | `checklist-validacion-nicho.md` | PDF A4 | 1-2 | `F1-checklist-validacion-nicho.pdf` |
 | `avatar-cliente-ideal.md` | PDF A4 | 2-3 | `F1-avatar-cliente-ideal.pdf` |
 | `calculadora-pricing.md` | PDF A4 | 3 | `F1-calculadora-pricing.pdf` |
@@ -33,7 +33,7 @@
 
 ## Dirección por pieza
 
-### lista-micro-nichos-espana
+### lista-micro-nichos
 
 La tabla de 12 micro-nichos es el héroe y no cabe en vertical: 5 columnas (nicho / dolor nº1 / solución de IA típica / por qué paga / acceso al decisor), una fila = un nicho, legible de un vistazo. Destaca la columna 'Solución de IA típica' porque es la que el alumno cruza con su dolor en L5, y trata el ⚠️ de restaurantes como matiz honesto, no como error. El catálogo de 8 soluciones AILINK, como pie de referencia rápida.
 

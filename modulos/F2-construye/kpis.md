@@ -1,6 +1,6 @@
 # F2 | Construye — KPIs del módulo
 
-## KPIs del alumno (semanas 3-4)
+## KPIs del alumno (semana 2)
 
 | KPI | Objetivo | Se mide en |
 |---|---|---|

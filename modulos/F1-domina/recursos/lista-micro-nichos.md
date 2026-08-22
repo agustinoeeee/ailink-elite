@@ -1,6 +1,6 @@
-# Lista de micro-nichos España
+# Lista de micro-nichos
 
-> Recurso de la lección del micro-nicho (F1 Domina). Doce micro-nichos aprobados por el programa para arrancar. Elige por acceso y atracción, no por perfección: cualquiera de esta lista funciona si ejecutas. Las soluciones citadas pertenecen al catálogo AILINK (abajo).
+> Recurso de la lección del micro-nicho (F1 Domina). Doce micro-nichos aprobados por el programa para arrancar, válidos en cualquier país hispanohablante. Elige por acceso y atracción, no por perfección: cualquiera de esta lista funciona si ejecutas. Las soluciones citadas pertenecen al catálogo AILINK (abajo).
 
 | Micro-nicho | Dolor nº1 automatizable | Solución de IA típica | Por qué paga | Nota de acceso |
 |---|---|---|---|---|
@@ -8,7 +8,7 @@
 | **Clínicas de medicina estética** | Leads que se enfrían por seguimiento lento | Cualificación y seguimiento de leads (WhatsApp) | Tratamientos de ticket alto y decisión emocional: responder tarde = venta perdida | Clínicas independientes con decisor accesible; muy activas en Instagram |
 | **Clínicas de fisioterapia** | Agenda con huecos, cancelaciones de última hora | Recuperación de citas + chatbot web de reservas | Su facturación ES la agenda: cada hueco es dinero que no vuelve | Dueño en consulta todo el día: WhatsApp o email mejor que llamada |
 | **Clínicas veterinarias** | Teléfono saturado; urgencias mezcladas con citas rutinarias | Recepcionista IA (WhatsApp/llamadas) | Clientes recurrentes durante toda la vida de la mascota | Decisor: veterinario propietario; franjas de tarde más tranquilas |
-| **Gestorías y asesorías** | Tareas documentales repetitivas y picos estacionales (impuestos) | Gestión documental + informes automáticos | Cada hora administrativa tiene un coste laboral directo y medible | Muy acostumbrados a pagar software; decisor: socio o gerente |
+| **Gestorías, asesorías y estudios contables** | Tareas documentales repetitivas y picos estacionales (impuestos) | Gestión documental + informes automáticos | Cada hora administrativa tiene un coste laboral directo y medible | Muy acostumbrados a pagar software; decisor: socio o gerente |
 | **Despachos de abogados** | Consultas sin filtrar que devoran horas facturables | Chatbot web cualificador + cualificación de leads | La hora del abogado es cara: filtrar mal cuesta dinero contable | Sector formal: entra mejor por recomendación, email cuidado o LinkedIn |
 | **Inmobiliarias** | Leads de portales sin respuesta rápida y visitas descoordinadas | Cualificación y seguimiento de leads + agenda de visitas | Responder tarde regala la operación a la agencia de enfrente | Muy receptivos: ya pagan por leads y miden conversión |
 | **Academias y centros de formación** | Solicitudes de matrícula que se enfrían sin respuesta | Seguimiento de leads + chatbot web cualificador | Cada matrícula vale meses de cuotas; el interés caduca en días | Decisor: director/propietario. Clave: llegar antes de campaña de matrícula |
@@ -27,4 +27,4 @@ Recepcionista IA (WhatsApp/llamadas) · Recuperación de no-shows y citas · Cua
 2. Pásalos por `checklist-validacion-nicho.md`.
 3. Elige UNO y firma las anteojeras de 90 días.
 
-> Esto es una **lista de arranque, no un censo**: hay más micro-nichos válidos en España. Cualquier nicho propio que quieras trabajar debe pasar la checklist — sin excepciones.
+> Esto es una **lista de arranque, no un censo**: hay más micro-nichos válidos en tu mercado. Cualquier nicho propio que quieras trabajar debe pasar la checklist — sin excepciones.

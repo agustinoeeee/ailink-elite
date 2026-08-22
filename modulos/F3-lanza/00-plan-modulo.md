@@ -1,6 +1,6 @@
 # F3 | Lanza — Blueprint del módulo (contrato de producción)
 
-> Semanas 5-7 del alumno. Objetivo del módulo: **máquina de demanda encendida** — funnel publicado, VSL grabado y, según su ruta (asignada en la kick-off), campaña de Meta ads activa O sistema de outreach en marcha. Hito maestro: **primeras reuniones agendadas (S5-6)**.
+> Semanas 3-7 del alumno. Objetivo del módulo: **máquina de demanda encendida** — funnel publicado, VSL grabado y, según su ruta (asignada en la kick-off), campaña de Meta ads activa O sistema de outreach en marcha. Hito maestro: **primeras reuniones agendadas (S6-7)**.
 >
 > Leer `../../01-BIBLIA.md`. El alumno llega con: oferta V1 (F1), demo desplegada + guion 3 min + vídeo (F2), y su ruta por presupuesto decidida en la kick-off: <500€ → outreach orgánico · 500-2.000€ → outreach sistematizado · +2.000€ → Meta ads. Las TRES rutas ven todo el módulo (la teoría de ads les servirá al escalar), pero ejecutan la suya.
 

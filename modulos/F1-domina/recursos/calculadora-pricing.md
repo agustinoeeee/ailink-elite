@@ -72,6 +72,8 @@ SUELO = coste total ÷ (1 − tu margen objetivo)     = ______ €
 
 Rangos autorizados (benchmark del programa). La calculadora te dice en qué punto del rango te colocas; el rango te da los límites.
 
+> **Si no facturas en euros:** los rangos del programa están en euros porque en euros está la promesa de los 90 días. Usa el equivalente en tu moneda al cambio del día y trabaja con esa cifra en toda la calculadora. Lo que no cambia de un país a otro es la regla de oro: el cliente recupera como mínimo 5 veces lo que te paga.
+
 | Peldaño | Rango del programa | TU PRECIO |
 |---|---|---|
 | Piloto | 500-1.500€ | ______ € |

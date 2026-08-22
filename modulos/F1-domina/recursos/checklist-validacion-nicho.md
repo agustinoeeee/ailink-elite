@@ -12,9 +12,9 @@
 
 - [ ] **¿Facturan lo suficiente para pagarte sin dolor?** Si tu precio les duele en caja, la relación nace muerta. No hace falta que sean grandes: hace falta que un piloto no les tiemble la mano.
 - [ ] **¿Tienen un dolor recurrente y automatizable que les cuesta dinero MEDIBLE?** Recurrente = pasa cada semana, no una vez al año. Medible = puedes ponerle una cifra (llamadas perdidas, citas caídas, horas de administración).
-- [ ] **¿Son accesibles?** ¿Puedes identificar y contactar a 100+ negocios en tu zona o en España? (Google Maps, directorios, asociaciones del gremio.) Si no sabes ni dónde encontrarlos, no puedes venderles.
+- [ ] **¿Son accesibles?** ¿Puedes identificar y contactar a 100+ negocios en tu zona o en tu país? (Google Maps, directorios, asociaciones del gremio.) Si no sabes ni dónde encontrarlos, no puedes venderles.
 - [ ] **¿Ya pagan por resolver problemas?** Software, agencias, publicidad, portales… Quien ya paga a terceros sabe pagar. Quien nunca ha pagado por nada te hará evangelizar durante meses.
-- [ ] **¿Hay miles en España?** No necesitas un censo exacto: busca el nicho en Google Maps en 3 ciudades distintas. Si en cada una salen decenas, en el país hay miles. Recuerda la matemática de la lección: para la promesa del programa te bastan 1-3 clientes.
+- [ ] **¿Hay miles en tu país?** No necesitas un censo exacto: busca el nicho en Google Maps en 3 ciudades distintas. Si en cada una salen decenas, en el país hay miles. Recuerda la matemática de la lección: para la promesa del programa te bastan 1-3 clientes.
 
 ## Bloque 2 — Preguntas de ajuste (no eliminan; orientan la decisión entre candidatos)
 

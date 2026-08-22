@@ -18,11 +18,11 @@
 | Fase | Módulo | Semanas | Lecciones | Hito maestro |
 |---|---|---|---|---|
 | F0 | **Bienvenido** — onboarding | 1 | 9 | Kick-off realizada + setup ≤7 días + manifiesto firmado |
-| F1 | **Domina** — nicho + oferta + pricing | 2-3 | 9 | **Oferta V1 redactada** (fin S3) |
-| F2 | **Construye** — Claude Code Mastery | 3-4 | 7 | **Demo desplegada + guion 3 min + vídeo** (fin S4) |
-| F3 | **Lanza** — máquina de demanda | 5-7 | 10 | **Primeras reuniones agendadas** (S6-7) |
-| F4 | **Cierra** — ventas consultivas | 6-9 | 8 | **Primer cliente: piloto cobrado EN la llamada** (S7-10) |
-| F5 | **Entrega** — fulfillment | 8-11 | 7 | **Primera entrega con criterios firmados** (≤7 días del cobro) |
+| F1 | **Domina** — nicho + oferta + pricing | 1 | 9 | **Oferta V1 redactada** (fin S1) |
+| F2 | **Construye** — Claude Code Mastery | 2 | 7 | **Demo desplegada + guion 3 min + vídeo** (fin S2) |
+| F3 | **Lanza** — máquina de demanda | 3-7 | 10 | **Primeras reuniones agendadas** (S6-7) |
+| F4 | **Cierra** — ventas consultivas | 6-10 | 8 | **Primer cliente: piloto cobrado EN la llamada** (S7-10) |
+| F5 | **Entrega** — fulfillment | 7-11 | 7 | **Primera entrega con criterios firmados** (≤7 días del cobro) |
 | F6 | **Escala** — retención + MRR | 11-13 | 7 | **Primer retainer con cobro automático** (S11-12) |
 
 **Promesa canónica:** +5.000€ de facturación acumulada al final de los 90 días (1-3 clientes).

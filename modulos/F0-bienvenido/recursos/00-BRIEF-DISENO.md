@@ -15,7 +15,7 @@ Lee este archivo ANTES de diseñar nada. Los `.md` de esta carpeta son el **cont
 | `norte-personal.md` | Propósito + criterios de diseño del negocio | Cuaderno de decisión en 4 bloques, con espacio real para escribir | PDF A4 vertical | **2** |
 | `manifiesto-90-dias.md` | Compromiso que el alumno **firma** | Hoja de compromiso / certificado de mesa | PDF A4 vertical | **1** |
 | `framework-mas-mejor-nuevo.md` | Árbol de decisión (Hormozi) | Póster de pared: el árbol se lee a 1 metro | PDF A4 vertical (o 16:9 si queda más claro el árbol) | **1** |
-| `roadmap-90-dias.md` | Calendario S1–S13 + 5 hitos | Mapa de 90 días imprimible, con checkboxes | PDF A4 (2ª página solo si no cabe) | **1–2** |
+| `roadmap-90-dias.md` | Calendario S1–S13 + 6 hitos | Mapa de 90 días imprimible, con checkboxes | PDF A4 (2ª página solo si no cabe) | **1–2** |
 | `checklist-setup-negocio.md` | Pasos en orden con tiempos | Checklist de obra, numerada, una tarde | PDF A4 | **1–2** |
 | `plantilla-base-de-tests.md` | Tabla para copiar a Sheets | **NO es un póster.** Cabecera de 1 página (reglas) + tabla usable | PDF A4 con la tabla a ancho completo **o** CSV/estructura de columnas para Sheets | 1 + tabla |
 | `formulario-onboarding-alumno.md` | Preguntas para Typeform/Tally | **NO es un PDF.** No lo maquetes. Si acaso: pantallas de copy (bienvenida / 9 preguntas / cierre) como mock de formulario | — | 0 PDF |
@@ -63,7 +63,7 @@ Objeto de mesa, casi legal. Cabecera con nombre + fechas. Cinco bloques iguales 
 El árbol de 4 preguntas es el héroe (grande, de arriba abajo). Debajo, la tabla de 5 ejemplos en tipo pequeño. Los 3 anti-patrones como franja de aviso, no como comics. Checklist “antes de tocar NUEVO” visible.
 
 ### 3. Roadmap
-Arriba: los 5 hitos maestros (el nº4 “primer cliente S7–S10” destacado como rango, no como fecha única). Abajo: tabla S1–S13. Alarma vs normal en dos columnas claras. Reserva de actividad S5–S13 como tabla vacía rellenable.
+Arriba: los 6 hitos maestros (el nº5 “primer cliente S7–S10” destacado como rango, no como fecha única). Abajo: tabla S1–S13. Alarma vs normal en dos columnas claras. Reserva de actividad S3–S13 como tabla vacía rellenable.
 
 ### 4. Checklist setup
 Secuencial: no se ve como menú, se ve como **pasos 1→6**. Tiempo estimado junto a cada paso. Bloque “NO montar todavía” visualmente distinto (prohibido, no “tips”). Cierre con el comprobante KPI (payment link de prueba + reserva de test).

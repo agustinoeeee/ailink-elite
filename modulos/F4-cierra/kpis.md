@@ -1,6 +1,6 @@
 # F4 | Cierra — KPIs del módulo
 
-## KPIs del alumno (semanas 6-9, solapado con F3)
+## KPIs del alumno (semanas 6-10, solapado con F3)
 
 | KPI | Objetivo | Se mide en |
 |---|---|---|

@@ -24,11 +24,11 @@ Bienvenido (Onboarding) → F1 Diseño de oferta → F2 Máquina de demanda (Met
 | Fase | Nombre | Contenido | Semanas (orientativo) |
 |---|---|---|---|
 | **F0** | **Bienvenido** (Onboarding) | Kick-off call, **norte personal** (propósito, criterios de diseño del negocio, escalera del valor), mentalidad (señal vs ruido, More/Better/New, por qué falla la gente), expectativas de los 90 días, setup básico (negocio, herramientas) | 1 |
-| **F1** | **Domina** — Nicho + Oferta | **Inventario de ventajas del alumno**, selección de micro-nicho vertical español, ICP avatar con brecha medida, diseño de oferta irresistible, **matemática de pricing** (movida aquí desde F3), escalera del principiante, **revisión de la oferta y derivación de activos** | 2-3 |
-| **F2** | **Construye** — Claude Code Mastery ⭐ NUEVO | El módulo flagship: construir soluciones de IA con Claude Code. El alumno sale con **su solución demo construida** (su activo de venta) + plantillas reutilizables | 3-4 |
-| **F3** | **Lanza** — Máquina de demanda | Meta ads B2B desde cero (adaptación del Meta Ads Mastery de Owen) + funnel + VSL + página calentada. Rama low-budget: outreach orgánico RGPD-compliant | 5-7 |
-| **F4** | **Cierra** — Ventas consultivas | Setting + closing en una llamada, discovery en 3 niveles, objeciones, umbral de acción. (El pricing ya no está aquí: se enseña en F1) | 6-9 |
-| **F5** | **Entrega** — Fulfillment | Onboarding del cliente, the two tracks, build del proyecto (días, no semanas), entrega y handoff | 8-11 |
+| **F1** | **Domina** — Nicho + Oferta | **Inventario de ventajas del alumno**, selección de micro-nicho vertical, ICP avatar con brecha medida, diseño de oferta irresistible, **matemática de pricing** (movida aquí desde F3), escalera del principiante, **revisión de la oferta y derivación de activos** | 1 |
+| **F2** | **Construye** — Claude Code Mastery ⭐ NUEVO | El módulo flagship: construir soluciones de IA con Claude Code. El alumno sale con **su solución demo construida** (su activo de venta) + plantillas reutilizables | 2 |
+| **F3** | **Lanza** — Máquina de demanda | Meta ads B2B desde cero (adaptación del Meta Ads Mastery de Owen) + funnel + VSL + página calentada. Rama low-budget: outreach orgánico RGPD-compliant | 3-7 |
+| **F4** | **Cierra** — Ventas consultivas | Setting + closing en una llamada, discovery en 3 niveles, objeciones, umbral de acción. (El pricing ya no está aquí: se enseña en F1) | 6-10 |
+| **F5** | **Entrega** — Fulfillment | Onboarding del cliente, the two tracks, build del proyecto (días, no semanas), entrega y handoff | 7-11 |
 | **F6** | **Escala** — Retención + MRR ⭐ NUEVO | Retención (el módulo más diferencial de Owen), retainers, referidos, upsells, condiciones para escalar | 11-13 |
 
 ### Por qué estos cambios (el razonamiento)
@@ -72,6 +72,11 @@ Consecuencia de numeración: todo lo que iba de F0-L3 a F0-L8 y de F1-L2 a F1-L7
 - Complementario (a decidir): hosting (Vercel/Railway), base de datos (Supabase), WhatsApp Business API, CRM ligero, pasarela de cobro. **Regla (20/08/2026):** el alumno elige la suya (Stripe, PayPal, Wise…) siempre que permita enviar un enlace de pago y guardar el método de pago del cliente para cobros recurrentes; sin esas dos capacidades no hay retainer automático en F6. Stripe es la recomendada y la que se graba en pantalla.
 
 ### 3.3 Mercado España
+
+> **Alcance geográfico (decidido el 21/08/2026).** **F0 y F1 son neutros**: valen para cualquier alumno hispanohablante, en España o en Latinoamérica. No nombran países, no mandan trámites locales y hablan de «tu país» y «tu mercado». Los rangos de precio siguen en euros — la promesa canónica está en euros — con una nota de equivalencia en la calculadora de F1.
+>
+> **F3 a F6 siguen escritos para España** (RGPD, lista Robinson, Meta ads España, referencias locales) y todo lo que sigue en esta sección les aplica a ellos. Abrir esos módulos a Latinoamérica es un encargo aparte que aún no se ha hecho.
+
 - Todo en **€**. Referencias locales (no Angi/HomeAdvisor → habitissimo, Cronoshare…).
 - **RGPD**: el cold SMS masivo de Owen NO es trasladable. Canales del alumno:
   - **Principal (F3): Meta ads B2B** — sin fricción legal, y es el canal que AILINK ya había elegido ✓
@@ -103,7 +108,7 @@ Consecuencia de numeración: todo lo que iba de F0-L3 a F0-L8 y de F1-L2 a F1-L7
 | B0 Intro/posicionamiento | ADAPTAR | Notas de posicionamiento para Agustín (no material del alumno) |
 | B1-B4 Mentalidad (señal/ruido, More-Better-New, pitfalls) | COPIAR | F0 Onboarding |
 | B5 Meta Ads Mastery | ADAPTAR (fuerte) | F3 — versión B2B: el alumno se anuncia a negocios, no a homeowners |
-| B6 Nicho | ADAPTAR | F1 — micro-nichos verticales españoles |
+| B6 Nicho | ADAPTAR | F1 — micro-nichos verticales |
 | B7 Setup GoHighLevel | REEMPLAZAR | F2/F3 — setup del stack propio (sin pitch de afiliado) |
 | B8 VSL | ADAPTAR | F3 — activo de venta del alumno (prueba verificable) |
 | B9 FB page + warmup | COPIAR/ADAPTAR | F3 |

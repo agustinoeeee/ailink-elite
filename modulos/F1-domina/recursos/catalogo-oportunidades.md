@@ -27,7 +27,7 @@ Todo lo que vas a construir en los próximos noventa días es una combinación d
 
 ## 2. Dónde mirar, área por área
 
-Ocho áreas donde se atascan los negocios españoles de la lista de micro-nichos. La última columna es la solución del catálogo AILINK que lo ejecuta.
+Ocho áreas donde se atascan los negocios de la lista de micro-nichos. La última columna es la solución del catálogo AILINK que lo ejecuta.
 
 ### Captación y primer contacto
 **Lo que genera:** que ninguna oportunidad se quede sin respuesta ni sin responsable.

@@ -1,6 +1,6 @@
 # F6 | Escala — Blueprint del módulo (contrato de producción)
 
-> Semanas 11-13 del alumno (y su manual permanente a partir del día 91). Objetivo del módulo: **retainer firmado y cobrándose solo (MRR), sistema de retención activo, y el mapa para escalar sin romperse**. Hito maestro: primer retainer activo (S10-12 del roadmap).
+> Semanas 11-13 del alumno (y su manual permanente a partir del día 91). Objetivo del módulo: **retainer firmado y cobrándose solo (MRR), sistema de retención activo, y el mapa para escalar sin romperse**. Hito maestro: primer retainer activo (S11-12 del roadmap).
 >
 > Leer `../../01-BIBLIA.md`. El alumno llega con: primera entrega hecha + testimonio + retainer sembrado (F5-L6), tarjeta del cliente guardada (F0/F4), máquina de captación rodando (F3-F4).
 >

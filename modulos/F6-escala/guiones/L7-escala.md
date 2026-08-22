@@ -42,7 +42,7 @@
 
 ## Sección 5 — Cierre del programa
 
-- Recorre en 30 segundos el viaje: semana 1, un manifiesto y un negocio montado en una tarde; semana 3, una oferta con matemática; semana 4, software tuyo desplegado en internet; semanas 5-9, una máquina de demanda y tu primer cliente cobrado en una llamada; semanas 8-11, la primera entrega y un testimonio; hoy, MRR y un dashboard de dueño. `[PRUEBA SOCIAL: casos de la primera cohorte — cuando existan, aquí]`
+- Recorre en 30 segundos el viaje: semana 1, un manifiesto, un negocio montado en una tarde y una oferta con matemática; semana 2, software tuyo desplegado en internet; semanas 3-10, una máquina de demanda y tu primer cliente cobrado en una llamada; semanas 7-11, la primera entrega y un testimonio; hoy, MRR y un dashboard de dueño. `[PRUEBA SOCIAL: casos de la primera cohorte — cuando existan, aquí]`
 - `[GRABAR: cierre personal de Agustín — a cámara, sin guion. Qué significó para ti montar esto, qué le pides al alumno para los próximos 90 días, y la última frase del programa. Este momento es tuyo.]`
 
 ## Cierre + CTA

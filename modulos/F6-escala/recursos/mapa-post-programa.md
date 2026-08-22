@@ -4,7 +4,7 @@
 
 ## El ritual del día 91 (30 minutos, una vez)
 
-- [ ] Revisa tus 90 días: dashboard relleno (F6-L6) y tus 5 hitos maestros del roadmap de F0 — cuáles caíste y cuáles no, sin drama.
+- [ ] Revisa tus 90 días: dashboard relleno (F6-L6) y tus 6 hitos maestros del roadmap de F0 — cuáles caíste y cuáles no, sin drama.
 - [ ] Decide tu **1×1×1 del próximo trimestre**: un nicho, una oferta, un canal. Escríbelo: _______________________________
 - [ ] Elige el número del dashboard a atacar este trimestre: _______________
 - [ ] Renueva las anteojeras — esta vez sobre evidencia: "Los próximos 90 días, mi señal son MIS números. Cualquier 'oportunidad' nueva compite contra mi dashboard — y tiene que ganarle." Firma y fecha: _______________
